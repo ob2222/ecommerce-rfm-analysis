@@ -1,0 +1,51 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2869
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 import pandas as pd\
+import numpy as np\
+import random\
+from datetime import datetime, timedelta\
+\
+np.random.seed(42)\
+random.seed(42)\
+\
+n_users = 5000\
+user_ids = range(1, n_users + 1)\
+acquisition_channels = ['Organic Search', 'Paid Social', 'Direct', 'Email', 'Referral']\
+countries = ['US', 'UK', 'CA', 'AU', 'DE']\
+\
+users_data = \{\
+    'user_id': user_ids,\
+    'country': np.random.choice(countries, n_users, p=[0.4, 0.2, 0.15, 0.1, 0.15]),\
+    'acquisition_channel': np.random.choice(acquisition_channels, n_users, p=[0.3, 0.4, 0.1, 0.15, 0.05]),\
+    'registration_date': [datetime(2023, 1, 1) + timedelta(days=random.randint(0, 364)) for _ in range(n_users)]\
+\}\
+users_df = pd.DataFrame(users_data)\
+\
+n_orders = 12000\
+buyers = np.random.choice(user_ids, size=int(n_users * 0.6), replace=False)\
+\
+order_user_ids = np.random.choice(buyers, size=n_orders, replace=True)\
+order_dates = []\
+\
+for uid in order_user_ids:\
+    reg_date = users_df.loc[users_df['user_id'] == uid, 'registration_date'].values[0]\
+    order_date = pd.to_datetime(reg_date) + timedelta(days=random.randint(0, 300))\
+    order_dates.append(order_date)\
+\
+orders_data = \{\
+    'order_id': range(1001, 1001 + n_orders),\
+    'user_id': order_user_ids,\
+    'order_date': order_dates,\
+    'revenue': np.round(np.random.lognormal(mean=3.5, sigma=0.8, size=n_orders), 2),\
+    'status': np.random.choice(['Completed', 'Refunded', 'Cancelled'], n_orders, p=[0.85, 0.10, 0.05])\
+\}\
+orders_df = pd.DataFrame(orders_data)\
+orders_df = orders_df.sort_values('order_date').reset_index(drop=True)\
+\
+users_df.to_csv('ecommerce_users.csv', index=False)\
+orders_df.to_csv('ecommerce_orders.csv', index=False)}
