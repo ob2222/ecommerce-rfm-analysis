@@ -1,0 +1,5001 @@
+user_id,country,acquisition_channel,registration_date
+1,US,Paid Social,2023-11-24
+2,DE,Paid Social,2023-02-27
+3,CA,Email,2023-01-13
+4,UK,Paid Social,2023-05-21
+5,US,Email,2023-05-06
+6,US,Organic Search,2023-04-25
+7,US,Direct,2023-03-13
+8,DE,Email,2023-02-22
+9,CA,Organic Search,2023-12-13
+10,CA,Paid Social,2023-10-07
+11,US,Organic Search,2023-02-14
+12,DE,Direct,2023-10-30
+13,AU,Paid Social,2023-08-05
+14,US,Paid Social,2023-01-17
+15,US,Organic Search,2023-01-16
+16,US,Organic Search,2023-02-17
+17,US,Organic Search,2023-04-22
+18,UK,Paid Social,2023-04-30
+19,UK,Paid Social,2023-09-16
+20,US,Email,2023-11-05
+21,CA,Paid Social,2023-01-14
+22,US,Paid Social,2023-10-15
+23,US,Referral,2023-04-12
+24,US,Direct,2023-11-29
+25,UK,Email,2023-12-26
+26,AU,Paid Social,2023-10-07
+27,US,Organic Search,2023-08-03
+28,UK,Organic Search,2023-04-23
+29,UK,Direct,2023-08-18
+30,US,Organic Search,2023-10-29
+31,CA,Paid Social,2023-05-23
+32,US,Paid Social,2023-01-04
+33,US,Paid Social,2023-03-23
+34,DE,Paid Social,2023-12-24
+35,DE,Organic Search,2023-08-05
+36,AU,Paid Social,2023-06-24
+37,US,Paid Social,2023-05-23
+38,US,Referral,2023-03-21
+39,CA,Direct,2023-04-21
+40,UK,Email,2023-06-22
+41,US,Direct,2023-02-22
+42,UK,Paid Social,2023-02-17
+43,US,Organic Search,2023-07-14
+44,DE,Paid Social,2023-02-19
+45,US,Paid Social,2023-07-03
+46,CA,Paid Social,2023-06-26
+47,US,Paid Social,2023-11-06
+48,UK,Paid Social,2023-05-16
+49,UK,Paid Social,2023-01-23
+50,US,Paid Social,2023-08-24
+51,DE,Organic Search,2023-10-02
+52,AU,Email,2023-03-05
+53,DE,Organic Search,2023-07-13
+54,DE,Organic Search,2023-02-10
+55,UK,Paid Social,2023-10-10
+56,DE,Paid Social,2023-05-31
+57,US,Paid Social,2023-11-18
+58,US,Organic Search,2023-11-13
+59,US,Paid Social,2023-07-05
+60,US,Paid Social,2023-10-23
+61,US,Email,2023-04-09
+62,US,Email,2023-12-27
+63,AU,Paid Social,2023-02-05
+64,US,Paid Social,2023-01-24
+65,US,Direct,2023-12-05
+66,UK,Organic Search,2023-04-27
+67,US,Paid Social,2023-05-29
+68,AU,Paid Social,2023-02-10
+69,US,Email,2023-04-30
+70,DE,Organic Search,2023-02-21
+71,AU,Paid Social,2023-07-14
+72,US,Direct,2023-05-23
+73,US,Paid Social,2023-08-21
+74,AU,Organic Search,2023-11-22
+75,CA,Referral,2023-07-06
+76,CA,Paid Social,2023-03-25
+77,AU,Paid Social,2023-07-09
+78,US,Organic Search,2023-07-01
+79,US,Paid Social,2023-04-18
+80,US,Paid Social,2023-12-10
+81,DE,Organic Search,2023-05-17
+82,CA,Organic Search,2023-12-26
+83,US,Email,2023-12-16
+84,US,Organic Search,2023-11-28
+85,US,Organic Search,2023-02-06
+86,US,Paid Social,2023-11-08
+87,CA,Direct,2023-11-22
+88,CA,Organic Search,2023-03-29
+89,DE,Paid Social,2023-10-01
+90,UK,Organic Search,2023-05-06
+91,US,Organic Search,2023-03-25
+92,CA,Organic Search,2023-08-25
+93,AU,Email,2023-07-14
+94,UK,Organic Search,2023-05-19
+95,AU,Organic Search,2023-11-24
+96,UK,Paid Social,2023-12-19
+97,UK,Email,2023-10-13
+98,UK,Organic Search,2023-04-23
+99,US,Paid Social,2023-12-17
+100,US,Organic Search,2023-06-16
+101,US,Paid Social,2023-01-29
+102,CA,Paid Social,2023-04-28
+103,US,Paid Social,2023-01-17
+104,UK,Paid Social,2023-06-11
+105,DE,Paid Social,2023-07-25
+106,US,Organic Search,2023-05-18
+107,UK,Paid Social,2023-02-03
+108,AU,Organic Search,2023-04-19
+109,US,Direct,2023-10-18
+110,US,Referral,2023-06-11
+111,US,Referral,2023-04-19
+112,US,Email,2023-12-02
+113,DE,Paid Social,2023-09-13
+114,AU,Direct,2023-07-22
+115,CA,Organic Search,2023-11-26
+116,DE,Paid Social,2023-08-23
+117,AU,Paid Social,2023-03-15
+118,US,Paid Social,2023-05-16
+119,DE,Direct,2023-03-13
+120,UK,Organic Search,2023-05-07
+121,AU,Paid Social,2023-10-15
+122,DE,Email,2023-10-03
+123,US,Organic Search,2023-05-15
+124,US,Paid Social,2023-10-27
+125,US,Email,2023-08-08
+126,UK,Paid Social,2023-10-26
+127,AU,Paid Social,2023-07-24
+128,DE,Organic Search,2023-07-05
+129,US,Paid Social,2023-04-23
+130,UK,Email,2023-03-12
+131,UK,Paid Social,2023-09-18
+132,US,Paid Social,2023-09-10
+133,US,Organic Search,2023-02-16
+134,US,Organic Search,2023-01-25
+135,DE,Referral,2023-02-26
+136,US,Paid Social,2023-03-20
+137,UK,Paid Social,2023-11-18
+138,CA,Organic Search,2023-03-23
+139,US,Paid Social,2023-12-15
+140,DE,Email,2023-08-05
+141,DE,Paid Social,2023-11-02
+142,US,Organic Search,2023-02-02
+143,UK,Paid Social,2023-07-17
+144,US,Direct,2023-07-15
+145,US,Paid Social,2023-11-02
+146,US,Email,2023-08-28
+147,CA,Paid Social,2023-09-28
+148,UK,Email,2023-05-09
+149,US,Paid Social,2023-10-11
+150,US,Organic Search,2023-01-06
+151,DE,Paid Social,2023-12-15
+152,US,Organic Search,2023-02-28
+153,US,Email,2023-12-16
+154,UK,Direct,2023-10-02
+155,DE,Paid Social,2023-05-17
+156,US,Paid Social,2023-11-25
+157,CA,Organic Search,2023-06-24
+158,AU,Direct,2023-02-27
+159,US,Paid Social,2023-05-31
+160,CA,Organic Search,2023-08-11
+161,US,Paid Social,2023-03-22
+162,CA,Organic Search,2023-08-21
+163,CA,Paid Social,2023-01-02
+164,UK,Paid Social,2023-05-15
+165,US,Organic Search,2023-09-14
+166,AU,Referral,2023-04-02
+167,US,Organic Search,2023-09-17
+168,US,Organic Search,2023-02-24
+169,US,Organic Search,2023-11-17
+170,UK,Direct,2023-06-02
+171,CA,Paid Social,2023-11-24
+172,US,Paid Social,2023-09-17
+173,UK,Organic Search,2023-11-08
+174,US,Organic Search,2023-04-12
+175,CA,Paid Social,2023-03-20
+176,US,Email,2023-07-11
+177,CA,Email,2023-03-24
+178,US,Organic Search,2023-10-04
+179,DE,Paid Social,2023-09-29
+180,US,Email,2023-01-01
+181,US,Paid Social,2023-11-03
+182,US,Email,2023-06-15
+183,DE,Organic Search,2023-09-08
+184,DE,Email,2023-01-10
+185,US,Direct,2023-02-27
+186,CA,Email,2023-07-05
+187,AU,Paid Social,2023-06-07
+188,UK,Paid Social,2023-05-03
+189,UK,Email,2023-01-30
+190,US,Organic Search,2023-05-04
+191,US,Paid Social,2023-10-18
+192,DE,Direct,2023-02-10
+193,DE,Direct,2023-02-13
+194,CA,Email,2023-09-06
+195,US,Organic Search,2023-02-05
+196,US,Direct,2023-09-30
+197,CA,Direct,2023-03-06
+198,DE,Organic Search,2023-03-07
+199,DE,Paid Social,2023-12-04
+200,AU,Organic Search,2023-09-01
+201,CA,Paid Social,2023-10-09
+202,US,Referral,2023-03-26
+203,US,Paid Social,2023-05-16
+204,DE,Direct,2023-09-28
+205,CA,Referral,2023-11-07
+206,US,Paid Social,2023-08-05
+207,US,Email,2023-04-19
+208,CA,Paid Social,2023-10-04
+209,US,Email,2023-12-20
+210,US,Organic Search,2023-04-13
+211,UK,Email,2023-06-09
+212,CA,Organic Search,2023-07-24
+213,CA,Paid Social,2023-12-10
+214,US,Direct,2023-11-29
+215,CA,Paid Social,2023-07-11
+216,US,Paid Social,2023-08-13
+217,US,Paid Social,2023-09-22
+218,CA,Direct,2023-08-20
+219,CA,Organic Search,2023-03-03
+220,AU,Organic Search,2023-05-07
+221,CA,Organic Search,2023-04-26
+222,UK,Paid Social,2023-02-02
+223,US,Organic Search,2023-06-23
+224,US,Paid Social,2023-01-11
+225,US,Paid Social,2023-10-29
+226,US,Organic Search,2023-10-11
+227,DE,Paid Social,2023-04-28
+228,US,Email,2023-10-29
+229,DE,Organic Search,2023-04-23
+230,CA,Paid Social,2023-01-04
+231,AU,Paid Social,2023-02-06
+232,UK,Paid Social,2023-12-29
+233,UK,Direct,2023-11-20
+234,UK,Paid Social,2023-01-31
+235,US,Paid Social,2023-04-28
+236,CA,Organic Search,2023-02-04
+237,US,Paid Social,2023-01-17
+238,US,Paid Social,2023-06-19
+239,CA,Organic Search,2023-02-06
+240,US,Paid Social,2023-09-21
+241,DE,Referral,2023-05-02
+242,DE,Paid Social,2023-05-23
+243,DE,Paid Social,2023-12-09
+244,US,Email,2023-09-06
+245,US,Direct,2023-04-20
+246,DE,Paid Social,2023-10-04
+247,UK,Direct,2023-03-09
+248,DE,Email,2023-10-20
+249,DE,Paid Social,2023-10-23
+250,DE,Paid Social,2023-08-31
+251,US,Paid Social,2023-05-05
+252,US,Referral,2023-08-31
+253,DE,Paid Social,2023-07-28
+254,US,Organic Search,2023-04-08
+255,US,Email,2023-02-18
+256,UK,Paid Social,2023-02-19
+257,DE,Organic Search,2023-12-04
+258,CA,Paid Social,2023-08-09
+259,UK,Paid Social,2023-07-01
+260,US,Email,2023-08-05
+261,CA,Organic Search,2023-07-30
+262,DE,Email,2023-08-28
+263,US,Paid Social,2023-01-28
+264,UK,Organic Search,2023-12-11
+265,DE,Referral,2023-12-01
+266,CA,Paid Social,2023-11-27
+267,CA,Organic Search,2023-02-20
+268,CA,Paid Social,2023-02-01
+269,US,Email,2023-07-26
+270,US,Paid Social,2023-06-23
+271,AU,Organic Search,2023-02-25
+272,AU,Organic Search,2023-05-08
+273,DE,Organic Search,2023-04-09
+274,DE,Direct,2023-04-08
+275,UK,Paid Social,2023-10-02
+276,UK,Organic Search,2023-08-18
+277,AU,Organic Search,2023-03-13
+278,CA,Paid Social,2023-08-05
+279,CA,Email,2023-04-04
+280,AU,Paid Social,2023-05-23
+281,DE,Referral,2023-08-25
+282,US,Paid Social,2023-05-08
+283,US,Organic Search,2023-02-08
+284,US,Email,2023-08-15
+285,UK,Paid Social,2023-10-09
+286,US,Direct,2023-02-20
+287,UK,Referral,2023-01-26
+288,UK,Organic Search,2023-11-30
+289,US,Organic Search,2023-10-04
+290,UK,Direct,2023-01-08
+291,US,Organic Search,2023-02-17
+292,US,Organic Search,2023-05-02
+293,AU,Organic Search,2023-03-27
+294,US,Organic Search,2023-07-28
+295,US,Direct,2023-09-06
+296,UK,Organic Search,2023-09-04
+297,AU,Paid Social,2023-04-20
+298,US,Paid Social,2023-07-25
+299,CA,Paid Social,2023-01-31
+300,US,Organic Search,2023-03-26
+301,US,Direct,2023-07-14
+302,UK,Organic Search,2023-01-02
+303,UK,Direct,2023-07-19
+304,CA,Email,2023-05-16
+305,CA,Paid Social,2023-08-21
+306,DE,Paid Social,2023-05-27
+307,UK,Paid Social,2023-08-05
+308,US,Paid Social,2023-12-23
+309,AU,Email,2023-10-12
+310,US,Email,2023-12-05
+311,UK,Paid Social,2023-09-07
+312,US,Paid Social,2023-03-21
+313,US,Email,2023-04-08
+314,DE,Referral,2023-06-01
+315,AU,Paid Social,2023-04-22
+316,CA,Paid Social,2023-01-30
+317,UK,Organic Search,2023-10-24
+318,US,Referral,2023-10-05
+319,US,Organic Search,2023-02-01
+320,US,Paid Social,2023-06-10
+321,UK,Organic Search,2023-01-30
+322,CA,Organic Search,2023-01-26
+323,CA,Paid Social,2023-10-27
+324,US,Referral,2023-09-02
+325,DE,Organic Search,2023-09-15
+326,CA,Paid Social,2023-09-29
+327,UK,Organic Search,2023-03-22
+328,CA,Organic Search,2023-01-30
+329,UK,Paid Social,2023-09-18
+330,US,Paid Social,2023-02-11
+331,US,Organic Search,2023-04-06
+332,AU,Paid Social,2023-02-05
+333,US,Organic Search,2023-11-01
+334,US,Paid Social,2023-02-04
+335,US,Referral,2023-12-12
+336,US,Email,2023-05-01
+337,DE,Paid Social,2023-07-26
+338,CA,Paid Social,2023-03-03
+339,UK,Email,2023-10-19
+340,US,Organic Search,2023-05-07
+341,UK,Email,2023-10-24
+342,UK,Email,2023-11-01
+343,US,Organic Search,2023-01-21
+344,UK,Organic Search,2023-11-14
+345,US,Referral,2023-02-11
+346,CA,Paid Social,2023-08-03
+347,CA,Organic Search,2023-12-03
+348,US,Organic Search,2023-10-26
+349,US,Paid Social,2023-10-17
+350,CA,Paid Social,2023-09-25
+351,UK,Direct,2023-06-11
+352,DE,Referral,2023-05-14
+353,CA,Organic Search,2023-04-15
+354,US,Paid Social,2023-12-09
+355,US,Paid Social,2023-06-10
+356,CA,Paid Social,2023-05-03
+357,US,Organic Search,2023-05-16
+358,UK,Referral,2023-07-22
+359,DE,Email,2023-03-09
+360,UK,Paid Social,2023-12-10
+361,US,Paid Social,2023-11-27
+362,CA,Organic Search,2023-06-03
+363,UK,Paid Social,2023-08-23
+364,UK,Paid Social,2023-06-11
+365,DE,Paid Social,2023-02-07
+366,US,Referral,2023-01-05
+367,DE,Paid Social,2023-08-23
+368,DE,Paid Social,2023-11-15
+369,US,Direct,2023-10-16
+370,US,Organic Search,2023-02-21
+371,US,Paid Social,2023-02-07
+372,US,Paid Social,2023-10-03
+373,US,Paid Social,2023-04-20
+374,CA,Direct,2023-09-17
+375,US,Paid Social,2023-05-16
+376,US,Direct,2023-03-09
+377,AU,Paid Social,2023-06-28
+378,US,Paid Social,2023-02-05
+379,AU,Email,2023-05-06
+380,US,Organic Search,2023-07-09
+381,US,Organic Search,2023-05-26
+382,CA,Paid Social,2023-03-22
+383,CA,Organic Search,2023-08-13
+384,DE,Organic Search,2023-10-06
+385,CA,Paid Social,2023-12-27
+386,AU,Paid Social,2023-06-04
+387,US,Paid Social,2023-11-10
+388,US,Referral,2023-12-01
+389,AU,Paid Social,2023-09-28
+390,AU,Email,2023-01-05
+391,DE,Organic Search,2023-12-08
+392,UK,Paid Social,2023-10-11
+393,US,Email,2023-06-03
+394,AU,Paid Social,2023-12-06
+395,US,Direct,2023-02-23
+396,DE,Paid Social,2023-03-10
+397,DE,Organic Search,2023-05-16
+398,UK,Paid Social,2023-03-01
+399,AU,Paid Social,2023-02-24
+400,AU,Email,2023-10-11
+401,US,Organic Search,2023-03-21
+402,DE,Referral,2023-05-20
+403,UK,Referral,2023-05-25
+404,AU,Organic Search,2023-11-06
+405,US,Paid Social,2023-04-18
+406,DE,Email,2023-06-25
+407,US,Referral,2023-04-15
+408,US,Paid Social,2023-12-18
+409,DE,Paid Social,2023-11-21
+410,US,Paid Social,2023-05-16
+411,US,Paid Social,2023-09-16
+412,DE,Organic Search,2023-09-08
+413,DE,Direct,2023-05-09
+414,UK,Organic Search,2023-01-27
+415,CA,Organic Search,2023-02-17
+416,UK,Paid Social,2023-11-21
+417,US,Paid Social,2023-08-05
+418,US,Paid Social,2023-05-22
+419,CA,Paid Social,2023-01-23
+420,AU,Paid Social,2023-01-02
+421,AU,Organic Search,2023-06-20
+422,AU,Paid Social,2023-03-08
+423,US,Referral,2023-11-23
+424,UK,Paid Social,2023-05-15
+425,US,Paid Social,2023-03-24
+426,UK,Paid Social,2023-08-15
+427,UK,Referral,2023-10-10
+428,DE,Organic Search,2023-12-28
+429,US,Paid Social,2023-08-07
+430,US,Direct,2023-10-15
+431,US,Paid Social,2023-01-05
+432,AU,Organic Search,2023-02-27
+433,CA,Paid Social,2023-02-08
+434,US,Organic Search,2023-12-20
+435,US,Paid Social,2023-03-18
+436,CA,Direct,2023-10-07
+437,US,Organic Search,2023-01-19
+438,AU,Email,2023-07-09
+439,CA,Organic Search,2023-10-26
+440,US,Email,2023-10-10
+441,US,Paid Social,2023-03-17
+442,DE,Organic Search,2023-08-09
+443,US,Organic Search,2023-03-07
+444,US,Referral,2023-01-22
+445,AU,Organic Search,2023-06-07
+446,DE,Organic Search,2023-07-06
+447,DE,Paid Social,2023-01-21
+448,AU,Paid Social,2023-07-03
+449,US,Paid Social,2023-04-18
+450,US,Organic Search,2023-12-16
+451,AU,Organic Search,2023-05-08
+452,UK,Organic Search,2023-12-08
+453,UK,Organic Search,2023-02-22
+454,DE,Paid Social,2023-07-01
+455,US,Direct,2023-10-14
+456,UK,Organic Search,2023-07-28
+457,US,Paid Social,2023-11-14
+458,UK,Paid Social,2023-03-21
+459,US,Referral,2023-05-02
+460,US,Referral,2023-03-25
+461,US,Email,2023-04-01
+462,CA,Organic Search,2023-07-31
+463,CA,Organic Search,2023-01-13
+464,UK,Paid Social,2023-04-02
+465,DE,Organic Search,2023-06-20
+466,US,Paid Social,2023-07-30
+467,US,Direct,2023-12-09
+468,DE,Email,2023-05-08
+469,US,Email,2023-05-17
+470,DE,Paid Social,2023-03-23
+471,US,Paid Social,2023-12-26
+472,DE,Paid Social,2023-02-25
+473,US,Organic Search,2023-07-15
+474,DE,Direct,2023-01-20
+475,UK,Organic Search,2023-08-29
+476,DE,Paid Social,2023-04-24
+477,US,Paid Social,2023-04-13
+478,UK,Paid Social,2023-08-24
+479,DE,Direct,2023-06-29
+480,UK,Paid Social,2023-06-06
+481,CA,Email,2023-04-27
+482,CA,Organic Search,2023-04-25
+483,UK,Paid Social,2023-01-13
+484,CA,Direct,2023-12-04
+485,UK,Paid Social,2023-04-09
+486,DE,Referral,2023-07-24
+487,US,Organic Search,2023-06-18
+488,US,Paid Social,2023-05-23
+489,DE,Paid Social,2023-02-05
+490,DE,Email,2023-05-23
+491,UK,Organic Search,2023-06-29
+492,CA,Direct,2023-11-25
+493,US,Paid Social,2023-09-18
+494,US,Organic Search,2023-07-24
+495,UK,Paid Social,2023-12-14
+496,US,Paid Social,2023-10-02
+497,UK,Paid Social,2023-06-19
+498,US,Email,2023-01-15
+499,DE,Paid Social,2023-03-01
+500,DE,Paid Social,2023-05-14
+501,CA,Paid Social,2023-04-02
+502,UK,Organic Search,2023-10-25
+503,US,Organic Search,2023-05-16
+504,AU,Paid Social,2023-01-20
+505,CA,Paid Social,2023-02-25
+506,US,Organic Search,2023-11-02
+507,DE,Paid Social,2023-08-11
+508,AU,Paid Social,2023-06-26
+509,DE,Organic Search,2023-06-10
+510,CA,Paid Social,2023-08-12
+511,CA,Organic Search,2023-11-07
+512,UK,Email,2023-09-19
+513,DE,Email,2023-03-01
+514,DE,Direct,2023-07-17
+515,US,Organic Search,2023-10-23
+516,US,Direct,2023-04-08
+517,US,Email,2023-05-11
+518,AU,Direct,2023-01-23
+519,DE,Organic Search,2023-12-29
+520,US,Paid Social,2023-08-12
+521,UK,Email,2023-01-01
+522,US,Paid Social,2023-09-24
+523,DE,Paid Social,2023-10-03
+524,AU,Paid Social,2023-12-18
+525,AU,Paid Social,2023-12-10
+526,UK,Organic Search,2023-04-11
+527,UK,Paid Social,2023-07-06
+528,US,Organic Search,2023-08-09
+529,US,Paid Social,2023-02-05
+530,DE,Organic Search,2023-12-07
+531,AU,Paid Social,2023-06-19
+532,DE,Organic Search,2023-11-16
+533,DE,Paid Social,2023-06-10
+534,UK,Direct,2023-12-06
+535,AU,Organic Search,2023-03-05
+536,DE,Organic Search,2023-06-03
+537,AU,Organic Search,2023-09-17
+538,US,Email,2023-06-08
+539,UK,Paid Social,2023-12-08
+540,US,Paid Social,2023-07-29
+541,DE,Organic Search,2023-06-17
+542,CA,Paid Social,2023-07-26
+543,US,Email,2023-12-23
+544,CA,Email,2023-06-01
+545,CA,Paid Social,2023-10-11
+546,US,Organic Search,2023-03-07
+547,US,Organic Search,2023-04-09
+548,CA,Organic Search,2023-08-04
+549,UK,Organic Search,2023-12-07
+550,AU,Organic Search,2023-07-14
+551,UK,Organic Search,2023-12-13
+552,DE,Paid Social,2023-03-31
+553,UK,Email,2023-11-12
+554,UK,Paid Social,2023-10-19
+555,DE,Email,2023-06-04
+556,UK,Direct,2023-07-27
+557,US,Organic Search,2023-10-08
+558,US,Direct,2023-01-01
+559,AU,Organic Search,2023-06-05
+560,CA,Paid Social,2023-05-27
+561,CA,Paid Social,2023-04-18
+562,US,Referral,2023-08-09
+563,US,Organic Search,2023-10-24
+564,US,Organic Search,2023-11-07
+565,US,Email,2023-12-02
+566,UK,Organic Search,2023-06-14
+567,US,Paid Social,2023-08-27
+568,UK,Direct,2023-08-15
+569,DE,Email,2023-08-15
+570,US,Referral,2023-12-12
+571,UK,Referral,2023-04-20
+572,AU,Organic Search,2023-09-19
+573,US,Email,2023-08-31
+574,CA,Paid Social,2023-03-28
+575,DE,Paid Social,2023-12-04
+576,DE,Organic Search,2023-02-13
+577,US,Paid Social,2023-05-26
+578,DE,Referral,2023-09-21
+579,UK,Email,2023-12-06
+580,US,Paid Social,2023-11-21
+581,UK,Organic Search,2023-11-14
+582,DE,Paid Social,2023-06-21
+583,UK,Email,2023-02-17
+584,US,Direct,2023-05-01
+585,CA,Paid Social,2023-12-11
+586,US,Organic Search,2023-06-08
+587,US,Paid Social,2023-04-26
+588,US,Paid Social,2023-04-12
+589,US,Email,2023-03-17
+590,US,Paid Social,2023-01-13
+591,US,Paid Social,2023-01-24
+592,CA,Paid Social,2023-05-06
+593,US,Organic Search,2023-09-01
+594,US,Referral,2023-11-09
+595,DE,Paid Social,2023-02-07
+596,UK,Paid Social,2023-08-22
+597,CA,Paid Social,2023-08-01
+598,US,Paid Social,2023-11-19
+599,US,Paid Social,2023-10-22
+600,US,Direct,2023-04-10
+601,US,Organic Search,2023-12-23
+602,US,Paid Social,2023-07-16
+603,US,Organic Search,2023-09-11
+604,US,Paid Social,2023-07-24
+605,US,Organic Search,2023-05-05
+606,UK,Paid Social,2023-03-17
+607,US,Email,2023-12-02
+608,US,Email,2023-12-19
+609,UK,Paid Social,2023-01-03
+610,CA,Paid Social,2023-02-24
+611,US,Organic Search,2023-08-06
+612,AU,Paid Social,2023-04-23
+613,CA,Email,2023-04-01
+614,US,Organic Search,2023-12-23
+615,DE,Paid Social,2023-09-23
+616,DE,Email,2023-08-26
+617,US,Email,2023-01-26
+618,US,Organic Search,2023-10-13
+619,AU,Paid Social,2023-05-08
+620,CA,Organic Search,2023-03-04
+621,US,Organic Search,2023-08-22
+622,US,Email,2023-03-10
+623,US,Email,2023-08-26
+624,UK,Direct,2023-12-08
+625,CA,Organic Search,2023-09-29
+626,US,Email,2023-10-14
+627,UK,Paid Social,2023-11-01
+628,CA,Paid Social,2023-06-12
+629,US,Paid Social,2023-08-15
+630,US,Organic Search,2023-11-10
+631,CA,Direct,2023-09-16
+632,DE,Paid Social,2023-08-07
+633,UK,Organic Search,2023-10-08
+634,UK,Organic Search,2023-08-17
+635,US,Organic Search,2023-03-23
+636,UK,Organic Search,2023-09-01
+637,UK,Paid Social,2023-08-19
+638,US,Email,2023-05-13
+639,US,Organic Search,2023-05-07
+640,US,Organic Search,2023-11-23
+641,US,Paid Social,2023-05-22
+642,US,Email,2023-09-24
+643,US,Paid Social,2023-09-06
+644,US,Paid Social,2023-11-17
+645,US,Paid Social,2023-05-03
+646,DE,Organic Search,2023-05-21
+647,UK,Organic Search,2023-08-14
+648,CA,Direct,2023-02-09
+649,AU,Paid Social,2023-05-27
+650,UK,Paid Social,2023-05-01
+651,US,Direct,2023-05-20
+652,UK,Paid Social,2023-06-21
+653,UK,Organic Search,2023-06-13
+654,CA,Paid Social,2023-10-04
+655,UK,Organic Search,2023-02-11
+656,US,Organic Search,2023-03-12
+657,US,Paid Social,2023-03-19
+658,US,Email,2023-04-29
+659,CA,Referral,2023-07-16
+660,UK,Paid Social,2023-12-22
+661,US,Organic Search,2023-03-20
+662,DE,Organic Search,2023-12-28
+663,CA,Email,2023-04-20
+664,US,Paid Social,2023-02-02
+665,US,Paid Social,2023-08-01
+666,US,Direct,2023-07-28
+667,US,Direct,2023-06-19
+668,US,Email,2023-10-05
+669,US,Organic Search,2023-08-27
+670,US,Direct,2023-08-01
+671,US,Email,2023-02-01
+672,DE,Organic Search,2023-04-16
+673,US,Paid Social,2023-08-04
+674,UK,Paid Social,2023-07-19
+675,UK,Referral,2023-10-27
+676,DE,Organic Search,2023-12-23
+677,US,Paid Social,2023-01-11
+678,US,Organic Search,2023-10-22
+679,DE,Direct,2023-07-14
+680,DE,Organic Search,2023-09-02
+681,AU,Organic Search,2023-01-04
+682,US,Paid Social,2023-06-30
+683,US,Email,2023-06-02
+684,CA,Organic Search,2023-07-19
+685,DE,Organic Search,2023-08-03
+686,UK,Direct,2023-10-03
+687,UK,Paid Social,2023-10-07
+688,US,Email,2023-11-05
+689,AU,Organic Search,2023-04-23
+690,US,Paid Social,2023-09-07
+691,US,Organic Search,2023-04-23
+692,UK,Organic Search,2023-05-20
+693,UK,Paid Social,2023-08-12
+694,US,Paid Social,2023-09-06
+695,US,Direct,2023-01-15
+696,CA,Paid Social,2023-07-19
+697,US,Paid Social,2023-06-22
+698,UK,Paid Social,2023-12-09
+699,US,Referral,2023-12-14
+700,UK,Organic Search,2023-07-27
+701,UK,Organic Search,2023-03-26
+702,US,Paid Social,2023-08-28
+703,US,Paid Social,2023-03-07
+704,US,Organic Search,2023-11-15
+705,US,Email,2023-10-01
+706,DE,Organic Search,2023-01-14
+707,US,Email,2023-07-21
+708,AU,Organic Search,2023-10-31
+709,US,Paid Social,2023-10-16
+710,CA,Email,2023-12-06
+711,AU,Organic Search,2023-01-14
+712,UK,Referral,2023-02-12
+713,UK,Paid Social,2023-11-26
+714,UK,Email,2023-08-08
+715,US,Paid Social,2023-03-11
+716,DE,Paid Social,2023-08-25
+717,AU,Organic Search,2023-04-04
+718,DE,Paid Social,2023-01-26
+719,US,Organic Search,2023-05-14
+720,CA,Organic Search,2023-07-14
+721,DE,Organic Search,2023-06-17
+722,US,Paid Social,2023-04-19
+723,US,Direct,2023-08-21
+724,CA,Organic Search,2023-06-17
+725,UK,Organic Search,2023-06-22
+726,AU,Paid Social,2023-07-14
+727,US,Organic Search,2023-05-23
+728,AU,Organic Search,2023-08-04
+729,US,Organic Search,2023-05-10
+730,US,Email,2023-02-11
+731,US,Email,2023-08-29
+732,AU,Paid Social,2023-01-10
+733,CA,Paid Social,2023-10-04
+734,UK,Paid Social,2023-01-27
+735,US,Paid Social,2023-06-29
+736,DE,Paid Social,2023-04-25
+737,US,Paid Social,2023-11-29
+738,AU,Organic Search,2023-02-05
+739,UK,Organic Search,2023-11-30
+740,US,Paid Social,2023-01-21
+741,UK,Email,2023-01-16
+742,US,Paid Social,2023-05-07
+743,CA,Email,2023-04-13
+744,UK,Referral,2023-01-11
+745,US,Organic Search,2023-11-15
+746,DE,Paid Social,2023-03-20
+747,US,Paid Social,2023-05-03
+748,UK,Referral,2023-03-06
+749,DE,Referral,2023-08-31
+750,CA,Paid Social,2023-12-09
+751,US,Organic Search,2023-02-28
+752,DE,Direct,2023-10-16
+753,CA,Organic Search,2023-04-22
+754,US,Direct,2023-08-27
+755,US,Email,2023-12-25
+756,AU,Paid Social,2023-05-12
+757,CA,Paid Social,2023-07-08
+758,UK,Paid Social,2023-03-27
+759,DE,Paid Social,2023-11-07
+760,AU,Paid Social,2023-11-07
+761,US,Direct,2023-02-28
+762,US,Email,2023-03-25
+763,US,Email,2023-06-09
+764,CA,Organic Search,2023-02-25
+765,US,Email,2023-10-24
+766,UK,Direct,2023-01-14
+767,AU,Organic Search,2023-06-09
+768,DE,Organic Search,2023-10-22
+769,US,Organic Search,2023-12-13
+770,AU,Email,2023-07-12
+771,US,Paid Social,2023-07-23
+772,AU,Direct,2023-04-12
+773,US,Organic Search,2023-02-08
+774,US,Direct,2023-10-31
+775,AU,Organic Search,2023-12-20
+776,US,Paid Social,2023-11-18
+777,US,Paid Social,2023-05-05
+778,CA,Organic Search,2023-02-22
+779,CA,Email,2023-12-23
+780,CA,Organic Search,2023-06-04
+781,CA,Paid Social,2023-12-17
+782,UK,Paid Social,2023-11-04
+783,US,Paid Social,2023-03-03
+784,US,Organic Search,2023-10-17
+785,US,Organic Search,2023-01-22
+786,DE,Email,2023-06-27
+787,UK,Organic Search,2023-09-30
+788,UK,Email,2023-08-08
+789,UK,Referral,2023-12-05
+790,DE,Organic Search,2023-07-09
+791,US,Organic Search,2023-02-05
+792,UK,Paid Social,2023-09-17
+793,UK,Referral,2023-11-28
+794,CA,Email,2023-06-24
+795,US,Paid Social,2023-01-07
+796,DE,Direct,2023-08-04
+797,DE,Organic Search,2023-09-08
+798,UK,Referral,2023-02-24
+799,CA,Referral,2023-08-10
+800,DE,Organic Search,2023-07-05
+801,CA,Organic Search,2023-11-22
+802,US,Organic Search,2023-08-24
+803,UK,Organic Search,2023-12-29
+804,CA,Email,2023-03-20
+805,UK,Paid Social,2023-08-11
+806,CA,Organic Search,2023-04-01
+807,DE,Paid Social,2023-09-25
+808,DE,Referral,2023-11-30
+809,UK,Paid Social,2023-05-19
+810,US,Paid Social,2023-11-12
+811,DE,Organic Search,2023-10-03
+812,AU,Referral,2023-09-05
+813,US,Email,2023-08-27
+814,DE,Organic Search,2023-08-12
+815,DE,Organic Search,2023-10-31
+816,UK,Organic Search,2023-05-18
+817,UK,Organic Search,2023-06-15
+818,US,Paid Social,2023-05-06
+819,US,Email,2023-02-14
+820,US,Paid Social,2023-05-23
+821,AU,Email,2023-08-19
+822,US,Paid Social,2023-05-05
+823,US,Direct,2023-08-26
+824,US,Direct,2023-10-19
+825,UK,Organic Search,2023-11-09
+826,DE,Paid Social,2023-12-09
+827,US,Paid Social,2023-07-14
+828,US,Organic Search,2023-06-22
+829,CA,Paid Social,2023-01-15
+830,UK,Paid Social,2023-09-11
+831,US,Referral,2023-06-16
+832,UK,Paid Social,2023-04-04
+833,US,Email,2023-09-07
+834,US,Paid Social,2023-04-19
+835,UK,Direct,2023-07-01
+836,UK,Paid Social,2023-05-13
+837,DE,Email,2023-06-24
+838,US,Paid Social,2023-05-24
+839,UK,Paid Social,2023-11-02
+840,CA,Paid Social,2023-12-26
+841,US,Paid Social,2023-05-22
+842,CA,Organic Search,2023-10-12
+843,US,Organic Search,2023-01-06
+844,DE,Organic Search,2023-09-22
+845,US,Email,2023-04-08
+846,UK,Organic Search,2023-02-13
+847,US,Organic Search,2023-05-04
+848,DE,Direct,2023-07-28
+849,UK,Paid Social,2023-09-08
+850,UK,Paid Social,2023-10-12
+851,US,Organic Search,2023-05-04
+852,CA,Referral,2023-12-20
+853,US,Email,2023-09-01
+854,DE,Email,2023-11-27
+855,US,Paid Social,2023-12-31
+856,US,Direct,2023-09-09
+857,US,Organic Search,2023-08-18
+858,UK,Organic Search,2023-01-09
+859,UK,Organic Search,2023-02-17
+860,US,Paid Social,2023-05-31
+861,AU,Paid Social,2023-04-24
+862,UK,Paid Social,2023-07-27
+863,UK,Organic Search,2023-12-21
+864,UK,Paid Social,2023-05-05
+865,UK,Direct,2023-06-06
+866,UK,Paid Social,2023-12-06
+867,US,Direct,2023-10-25
+868,US,Organic Search,2023-07-08
+869,DE,Email,2023-08-31
+870,DE,Paid Social,2023-10-11
+871,US,Organic Search,2023-09-29
+872,US,Organic Search,2023-06-26
+873,CA,Paid Social,2023-08-06
+874,UK,Email,2023-10-09
+875,US,Paid Social,2023-06-19
+876,US,Organic Search,2023-06-30
+877,CA,Email,2023-12-26
+878,CA,Paid Social,2023-08-21
+879,US,Paid Social,2023-05-19
+880,US,Paid Social,2023-06-06
+881,US,Organic Search,2023-05-09
+882,CA,Paid Social,2023-04-29
+883,US,Paid Social,2023-03-03
+884,US,Referral,2023-04-09
+885,AU,Paid Social,2023-06-11
+886,US,Paid Social,2023-03-03
+887,CA,Paid Social,2023-10-02
+888,US,Email,2023-12-20
+889,US,Email,2023-04-05
+890,US,Paid Social,2023-04-09
+891,CA,Direct,2023-04-21
+892,DE,Paid Social,2023-09-05
+893,AU,Paid Social,2023-05-22
+894,US,Organic Search,2023-10-29
+895,CA,Paid Social,2023-09-26
+896,US,Organic Search,2023-11-02
+897,US,Email,2023-05-25
+898,DE,Paid Social,2023-02-21
+899,US,Referral,2023-04-10
+900,US,Paid Social,2023-06-01
+901,US,Paid Social,2023-04-27
+902,US,Paid Social,2023-07-04
+903,US,Organic Search,2023-04-02
+904,UK,Paid Social,2023-06-04
+905,UK,Organic Search,2023-01-08
+906,DE,Paid Social,2023-12-29
+907,AU,Paid Social,2023-10-01
+908,US,Direct,2023-03-06
+909,US,Organic Search,2023-05-21
+910,US,Organic Search,2023-01-24
+911,UK,Paid Social,2023-01-28
+912,US,Email,2023-10-11
+913,CA,Direct,2023-05-30
+914,UK,Paid Social,2023-12-24
+915,UK,Paid Social,2023-03-06
+916,UK,Organic Search,2023-11-23
+917,US,Referral,2023-09-09
+918,DE,Paid Social,2023-02-22
+919,AU,Organic Search,2023-01-07
+920,US,Paid Social,2023-10-21
+921,DE,Organic Search,2023-05-26
+922,UK,Referral,2023-08-29
+923,DE,Organic Search,2023-09-03
+924,AU,Paid Social,2023-08-14
+925,UK,Organic Search,2023-06-24
+926,US,Direct,2023-04-05
+927,US,Direct,2023-01-27
+928,UK,Paid Social,2023-05-10
+929,CA,Paid Social,2023-09-02
+930,US,Email,2023-02-28
+931,US,Organic Search,2023-02-03
+932,AU,Paid Social,2023-07-25
+933,DE,Organic Search,2023-09-09
+934,UK,Referral,2023-02-07
+935,US,Paid Social,2023-10-23
+936,US,Direct,2023-11-19
+937,US,Paid Social,2023-12-18
+938,DE,Organic Search,2023-01-28
+939,US,Organic Search,2023-03-19
+940,UK,Organic Search,2023-03-18
+941,US,Paid Social,2023-10-16
+942,UK,Organic Search,2023-06-05
+943,CA,Organic Search,2023-02-13
+944,AU,Email,2023-05-08
+945,US,Referral,2023-03-02
+946,US,Paid Social,2023-10-13
+947,US,Paid Social,2023-08-02
+948,DE,Organic Search,2023-11-07
+949,DE,Paid Social,2023-11-02
+950,UK,Email,2023-11-13
+951,CA,Organic Search,2023-04-26
+952,CA,Organic Search,2023-09-25
+953,US,Direct,2023-07-14
+954,DE,Paid Social,2023-08-19
+955,UK,Organic Search,2023-08-15
+956,US,Paid Social,2023-06-02
+957,UK,Paid Social,2023-10-29
+958,US,Paid Social,2023-08-08
+959,US,Direct,2023-06-06
+960,CA,Email,2023-10-19
+961,US,Paid Social,2023-11-14
+962,CA,Email,2023-01-31
+963,US,Paid Social,2023-11-09
+964,US,Direct,2023-02-20
+965,US,Paid Social,2023-04-17
+966,US,Email,2023-11-17
+967,CA,Email,2023-04-19
+968,US,Organic Search,2023-05-16
+969,UK,Email,2023-12-05
+970,UK,Email,2023-02-11
+971,CA,Direct,2023-03-22
+972,DE,Organic Search,2023-05-03
+973,CA,Email,2023-03-30
+974,US,Email,2023-10-10
+975,US,Organic Search,2023-02-08
+976,US,Referral,2023-03-22
+977,UK,Organic Search,2023-01-02
+978,US,Organic Search,2023-07-29
+979,UK,Paid Social,2023-08-19
+980,UK,Paid Social,2023-12-19
+981,US,Paid Social,2023-11-01
+982,AU,Organic Search,2023-08-29
+983,US,Referral,2023-05-30
+984,US,Organic Search,2023-01-17
+985,CA,Organic Search,2023-04-29
+986,UK,Organic Search,2023-05-28
+987,CA,Paid Social,2023-12-28
+988,UK,Email,2023-05-25
+989,US,Paid Social,2023-12-26
+990,AU,Email,2023-08-21
+991,AU,Organic Search,2023-02-06
+992,CA,Paid Social,2023-12-18
+993,US,Paid Social,2023-04-30
+994,UK,Paid Social,2023-05-16
+995,US,Organic Search,2023-11-17
+996,US,Paid Social,2023-10-29
+997,DE,Paid Social,2023-12-05
+998,US,Direct,2023-04-12
+999,DE,Paid Social,2023-08-06
+1000,UK,Organic Search,2023-02-28
+1001,US,Paid Social,2023-10-06
+1002,UK,Organic Search,2023-04-26
+1003,DE,Email,2023-11-28
+1004,CA,Paid Social,2023-03-18
+1005,AU,Organic Search,2023-05-17
+1006,CA,Referral,2023-03-14
+1007,CA,Paid Social,2023-02-06
+1008,AU,Organic Search,2023-01-31
+1009,US,Paid Social,2023-03-26
+1010,UK,Organic Search,2023-06-07
+1011,US,Email,2023-11-01
+1012,DE,Email,2023-10-19
+1013,DE,Referral,2023-05-28
+1014,US,Paid Social,2023-08-13
+1015,CA,Paid Social,2023-03-05
+1016,DE,Direct,2023-08-28
+1017,US,Organic Search,2023-12-19
+1018,UK,Paid Social,2023-06-05
+1019,DE,Paid Social,2023-12-25
+1020,US,Organic Search,2023-07-26
+1021,CA,Paid Social,2023-05-20
+1022,US,Email,2023-09-14
+1023,DE,Email,2023-10-04
+1024,DE,Organic Search,2023-09-10
+1025,DE,Organic Search,2023-08-13
+1026,UK,Organic Search,2023-02-11
+1027,DE,Email,2023-11-03
+1028,AU,Organic Search,2023-01-21
+1029,US,Direct,2023-08-10
+1030,AU,Organic Search,2023-06-15
+1031,US,Paid Social,2023-11-06
+1032,UK,Paid Social,2023-05-09
+1033,US,Direct,2023-01-14
+1034,US,Organic Search,2023-02-16
+1035,US,Paid Social,2023-04-28
+1036,CA,Organic Search,2023-12-12
+1037,US,Direct,2023-10-22
+1038,CA,Email,2023-10-28
+1039,US,Organic Search,2023-01-11
+1040,US,Email,2023-12-11
+1041,UK,Paid Social,2023-05-18
+1042,AU,Organic Search,2023-10-23
+1043,US,Paid Social,2023-01-21
+1044,CA,Organic Search,2023-03-31
+1045,DE,Direct,2023-08-29
+1046,CA,Direct,2023-09-23
+1047,US,Organic Search,2023-11-30
+1048,US,Paid Social,2023-08-15
+1049,DE,Email,2023-05-23
+1050,US,Email,2023-04-03
+1051,DE,Paid Social,2023-10-27
+1052,UK,Referral,2023-08-12
+1053,DE,Paid Social,2023-11-22
+1054,AU,Paid Social,2023-09-09
+1055,DE,Email,2023-02-16
+1056,US,Paid Social,2023-08-29
+1057,AU,Paid Social,2023-06-28
+1058,UK,Paid Social,2023-07-29
+1059,UK,Email,2023-06-20
+1060,CA,Email,2023-06-14
+1061,DE,Paid Social,2023-12-10
+1062,DE,Paid Social,2023-02-23
+1063,AU,Paid Social,2023-03-24
+1064,UK,Paid Social,2023-06-18
+1065,UK,Organic Search,2023-07-30
+1066,CA,Direct,2023-12-22
+1067,US,Paid Social,2023-09-11
+1068,US,Paid Social,2023-05-28
+1069,US,Organic Search,2023-12-06
+1070,US,Organic Search,2023-07-25
+1071,US,Email,2023-10-09
+1072,US,Paid Social,2023-01-19
+1073,US,Organic Search,2023-08-21
+1074,US,Paid Social,2023-02-15
+1075,DE,Paid Social,2023-06-11
+1076,UK,Organic Search,2023-05-10
+1077,US,Paid Social,2023-06-15
+1078,CA,Paid Social,2023-03-01
+1079,US,Paid Social,2023-07-26
+1080,DE,Paid Social,2023-09-21
+1081,AU,Paid Social,2023-01-01
+1082,US,Referral,2023-12-03
+1083,UK,Paid Social,2023-10-05
+1084,DE,Organic Search,2023-08-25
+1085,DE,Organic Search,2023-07-31
+1086,UK,Paid Social,2023-01-28
+1087,CA,Direct,2023-04-07
+1088,US,Organic Search,2023-09-23
+1089,DE,Direct,2023-07-05
+1090,US,Organic Search,2023-11-15
+1091,DE,Paid Social,2023-09-13
+1092,CA,Direct,2023-11-17
+1093,CA,Paid Social,2023-08-15
+1094,UK,Paid Social,2023-01-27
+1095,US,Organic Search,2023-04-15
+1096,US,Direct,2023-05-17
+1097,US,Organic Search,2023-10-09
+1098,US,Email,2023-03-09
+1099,AU,Organic Search,2023-05-28
+1100,US,Email,2023-08-13
+1101,US,Paid Social,2023-12-24
+1102,DE,Direct,2023-09-06
+1103,DE,Paid Social,2023-03-04
+1104,DE,Email,2023-01-15
+1105,DE,Organic Search,2023-11-19
+1106,US,Organic Search,2023-11-08
+1107,US,Paid Social,2023-05-03
+1108,AU,Organic Search,2023-12-30
+1109,CA,Organic Search,2023-03-23
+1110,US,Email,2023-06-09
+1111,AU,Referral,2023-10-10
+1112,US,Paid Social,2023-01-08
+1113,US,Email,2023-10-10
+1114,UK,Paid Social,2023-07-28
+1115,UK,Organic Search,2023-02-17
+1116,UK,Direct,2023-04-26
+1117,US,Paid Social,2023-02-28
+1118,DE,Referral,2023-08-25
+1119,US,Organic Search,2023-03-02
+1120,US,Paid Social,2023-11-28
+1121,DE,Organic Search,2023-03-20
+1122,DE,Organic Search,2023-09-13
+1123,DE,Organic Search,2023-05-30
+1124,AU,Referral,2023-09-18
+1125,CA,Email,2023-12-28
+1126,UK,Direct,2023-05-20
+1127,US,Paid Social,2023-08-01
+1128,UK,Paid Social,2023-09-05
+1129,US,Organic Search,2023-08-30
+1130,US,Organic Search,2023-05-05
+1131,CA,Paid Social,2023-08-22
+1132,UK,Direct,2023-10-10
+1133,US,Paid Social,2023-03-16
+1134,US,Organic Search,2023-07-16
+1135,CA,Organic Search,2023-04-08
+1136,US,Organic Search,2023-11-03
+1137,DE,Paid Social,2023-09-18
+1138,UK,Email,2023-03-11
+1139,UK,Paid Social,2023-02-05
+1140,UK,Email,2023-05-22
+1141,AU,Paid Social,2023-08-01
+1142,US,Paid Social,2023-06-24
+1143,CA,Organic Search,2023-09-17
+1144,UK,Email,2023-05-17
+1145,US,Direct,2023-01-02
+1146,DE,Organic Search,2023-05-25
+1147,AU,Paid Social,2023-06-02
+1148,CA,Paid Social,2023-10-28
+1149,DE,Paid Social,2023-10-24
+1150,DE,Email,2023-12-04
+1151,CA,Paid Social,2023-09-08
+1152,AU,Paid Social,2023-03-18
+1153,CA,Organic Search,2023-08-17
+1154,CA,Organic Search,2023-10-03
+1155,CA,Organic Search,2023-09-05
+1156,AU,Organic Search,2023-06-26
+1157,US,Direct,2023-06-20
+1158,DE,Direct,2023-10-10
+1159,DE,Organic Search,2023-10-06
+1160,US,Email,2023-07-13
+1161,AU,Organic Search,2023-08-22
+1162,US,Paid Social,2023-06-14
+1163,US,Organic Search,2023-04-07
+1164,CA,Paid Social,2023-12-24
+1165,US,Organic Search,2023-05-03
+1166,AU,Paid Social,2023-10-20
+1167,AU,Paid Social,2023-07-16
+1168,UK,Referral,2023-04-30
+1169,US,Organic Search,2023-07-30
+1170,US,Organic Search,2023-01-23
+1171,CA,Organic Search,2023-06-12
+1172,DE,Paid Social,2023-08-31
+1173,CA,Organic Search,2023-12-28
+1174,US,Email,2023-07-15
+1175,CA,Paid Social,2023-07-17
+1176,UK,Paid Social,2023-12-06
+1177,AU,Paid Social,2023-11-30
+1178,US,Organic Search,2023-03-19
+1179,AU,Organic Search,2023-09-11
+1180,UK,Paid Social,2023-01-19
+1181,DE,Paid Social,2023-03-06
+1182,US,Organic Search,2023-09-15
+1183,CA,Organic Search,2023-10-30
+1184,DE,Referral,2023-06-19
+1185,US,Organic Search,2023-02-21
+1186,DE,Email,2023-08-14
+1187,CA,Direct,2023-02-21
+1188,US,Organic Search,2023-09-27
+1189,US,Organic Search,2023-08-22
+1190,CA,Organic Search,2023-01-08
+1191,US,Paid Social,2023-03-15
+1192,UK,Paid Social,2023-07-29
+1193,US,Direct,2023-12-02
+1194,CA,Email,2023-03-21
+1195,US,Paid Social,2023-02-08
+1196,DE,Organic Search,2023-08-29
+1197,DE,Organic Search,2023-05-16
+1198,DE,Email,2023-06-23
+1199,CA,Organic Search,2023-11-16
+1200,US,Organic Search,2023-12-21
+1201,AU,Direct,2023-07-23
+1202,US,Paid Social,2023-11-29
+1203,US,Email,2023-02-11
+1204,US,Paid Social,2023-06-18
+1205,UK,Organic Search,2023-12-12
+1206,AU,Email,2023-10-01
+1207,CA,Organic Search,2023-07-14
+1208,UK,Paid Social,2023-06-12
+1209,US,Paid Social,2023-11-17
+1210,DE,Organic Search,2023-09-07
+1211,UK,Paid Social,2023-10-05
+1212,UK,Organic Search,2023-01-19
+1213,US,Paid Social,2023-11-13
+1214,AU,Paid Social,2023-02-05
+1215,CA,Direct,2023-05-01
+1216,US,Email,2023-11-20
+1217,US,Organic Search,2023-12-17
+1218,CA,Paid Social,2023-05-28
+1219,CA,Paid Social,2023-04-27
+1220,US,Organic Search,2023-02-16
+1221,DE,Direct,2023-08-11
+1222,US,Direct,2023-02-20
+1223,UK,Organic Search,2023-11-21
+1224,DE,Paid Social,2023-12-27
+1225,UK,Organic Search,2023-02-21
+1226,CA,Paid Social,2023-08-16
+1227,US,Organic Search,2023-03-27
+1228,US,Referral,2023-12-22
+1229,DE,Direct,2023-06-03
+1230,UK,Paid Social,2023-01-15
+1231,DE,Paid Social,2023-01-24
+1232,US,Email,2023-06-16
+1233,US,Paid Social,2023-01-29
+1234,US,Organic Search,2023-05-31
+1235,CA,Paid Social,2023-07-03
+1236,US,Email,2023-07-11
+1237,DE,Paid Social,2023-08-09
+1238,UK,Paid Social,2023-03-16
+1239,DE,Email,2023-05-06
+1240,US,Email,2023-09-29
+1241,DE,Email,2023-07-30
+1242,AU,Organic Search,2023-10-17
+1243,AU,Paid Social,2023-12-16
+1244,AU,Direct,2023-04-03
+1245,AU,Direct,2023-03-29
+1246,CA,Paid Social,2023-03-31
+1247,US,Organic Search,2023-02-10
+1248,US,Direct,2023-11-09
+1249,DE,Direct,2023-07-15
+1250,CA,Organic Search,2023-11-14
+1251,AU,Paid Social,2023-12-16
+1252,UK,Organic Search,2023-05-04
+1253,US,Paid Social,2023-09-12
+1254,US,Organic Search,2023-10-26
+1255,CA,Paid Social,2023-03-15
+1256,UK,Paid Social,2023-04-29
+1257,US,Paid Social,2023-08-25
+1258,UK,Paid Social,2023-11-23
+1259,US,Email,2023-05-11
+1260,UK,Organic Search,2023-08-24
+1261,US,Organic Search,2023-05-11
+1262,AU,Email,2023-12-08
+1263,US,Organic Search,2023-01-05
+1264,UK,Referral,2023-08-27
+1265,US,Email,2023-05-28
+1266,US,Paid Social,2023-12-13
+1267,US,Referral,2023-10-07
+1268,UK,Organic Search,2023-03-22
+1269,CA,Paid Social,2023-02-07
+1270,US,Paid Social,2023-08-15
+1271,CA,Paid Social,2023-06-26
+1272,DE,Email,2023-10-28
+1273,AU,Organic Search,2023-06-03
+1274,US,Paid Social,2023-11-24
+1275,UK,Paid Social,2023-08-06
+1276,US,Paid Social,2023-12-20
+1277,US,Organic Search,2023-05-09
+1278,DE,Paid Social,2023-08-22
+1279,US,Email,2023-06-04
+1280,UK,Organic Search,2023-04-12
+1281,CA,Email,2023-07-16
+1282,CA,Paid Social,2023-09-05
+1283,UK,Direct,2023-02-24
+1284,US,Direct,2023-05-02
+1285,US,Organic Search,2023-07-15
+1286,UK,Paid Social,2023-10-20
+1287,US,Email,2023-07-03
+1288,US,Paid Social,2023-10-22
+1289,US,Referral,2023-06-01
+1290,US,Paid Social,2023-12-25
+1291,US,Organic Search,2023-06-01
+1292,US,Paid Social,2023-01-12
+1293,UK,Referral,2023-12-04
+1294,CA,Paid Social,2023-07-22
+1295,AU,Email,2023-05-21
+1296,US,Email,2023-01-05
+1297,US,Paid Social,2023-10-17
+1298,US,Organic Search,2023-12-18
+1299,CA,Direct,2023-01-26
+1300,CA,Paid Social,2023-11-07
+1301,US,Direct,2023-09-12
+1302,DE,Paid Social,2023-05-27
+1303,US,Paid Social,2023-04-28
+1304,UK,Direct,2023-11-07
+1305,CA,Paid Social,2023-06-30
+1306,DE,Paid Social,2023-04-23
+1307,CA,Paid Social,2023-11-22
+1308,AU,Paid Social,2023-04-08
+1309,US,Paid Social,2023-11-14
+1310,AU,Email,2023-05-09
+1311,US,Paid Social,2023-12-14
+1312,DE,Paid Social,2023-12-04
+1313,UK,Paid Social,2023-12-15
+1314,AU,Organic Search,2023-03-12
+1315,UK,Organic Search,2023-11-18
+1316,CA,Email,2023-02-19
+1317,UK,Direct,2023-11-18
+1318,CA,Paid Social,2023-11-27
+1319,US,Paid Social,2023-01-21
+1320,US,Organic Search,2023-06-08
+1321,US,Paid Social,2023-08-14
+1322,US,Paid Social,2023-01-18
+1323,DE,Paid Social,2023-10-24
+1324,US,Paid Social,2023-07-06
+1325,DE,Organic Search,2023-03-09
+1326,US,Organic Search,2023-02-16
+1327,US,Referral,2023-06-01
+1328,AU,Paid Social,2023-06-17
+1329,CA,Paid Social,2023-08-01
+1330,UK,Organic Search,2023-03-31
+1331,UK,Organic Search,2023-04-13
+1332,CA,Direct,2023-03-09
+1333,US,Paid Social,2023-10-04
+1334,DE,Paid Social,2023-07-07
+1335,DE,Organic Search,2023-09-29
+1336,CA,Direct,2023-09-14
+1337,US,Organic Search,2023-05-20
+1338,CA,Organic Search,2023-03-26
+1339,US,Paid Social,2023-05-12
+1340,US,Organic Search,2023-09-04
+1341,US,Organic Search,2023-06-01
+1342,UK,Paid Social,2023-06-23
+1343,DE,Paid Social,2023-02-28
+1344,CA,Email,2023-08-28
+1345,CA,Paid Social,2023-02-08
+1346,UK,Organic Search,2023-03-14
+1347,US,Organic Search,2023-04-26
+1348,US,Referral,2023-12-13
+1349,DE,Paid Social,2023-12-12
+1350,US,Direct,2023-07-23
+1351,DE,Organic Search,2023-10-13
+1352,UK,Paid Social,2023-07-07
+1353,UK,Organic Search,2023-02-16
+1354,CA,Paid Social,2023-07-22
+1355,UK,Email,2023-01-08
+1356,DE,Referral,2023-05-16
+1357,DE,Paid Social,2023-10-02
+1358,UK,Paid Social,2023-03-05
+1359,US,Email,2023-08-21
+1360,UK,Paid Social,2023-07-08
+1361,DE,Organic Search,2023-12-11
+1362,US,Paid Social,2023-12-11
+1363,CA,Organic Search,2023-05-15
+1364,CA,Paid Social,2023-10-27
+1365,CA,Paid Social,2023-07-15
+1366,US,Paid Social,2023-11-23
+1367,CA,Paid Social,2023-07-10
+1368,DE,Organic Search,2023-02-25
+1369,US,Paid Social,2023-12-12
+1370,US,Email,2023-04-30
+1371,DE,Paid Social,2023-08-30
+1372,US,Paid Social,2023-01-13
+1373,DE,Email,2023-11-14
+1374,UK,Email,2023-10-15
+1375,US,Organic Search,2023-06-17
+1376,DE,Organic Search,2023-11-09
+1377,UK,Direct,2023-04-24
+1378,UK,Email,2023-11-28
+1379,US,Referral,2023-02-02
+1380,UK,Email,2023-11-22
+1381,US,Paid Social,2023-08-26
+1382,US,Paid Social,2023-12-25
+1383,DE,Organic Search,2023-06-04
+1384,US,Organic Search,2023-11-29
+1385,CA,Paid Social,2023-07-29
+1386,US,Paid Social,2023-03-01
+1387,AU,Paid Social,2023-03-13
+1388,US,Direct,2023-01-24
+1389,DE,Organic Search,2023-01-20
+1390,UK,Paid Social,2023-06-05
+1391,US,Organic Search,2023-09-10
+1392,US,Paid Social,2023-03-01
+1393,US,Direct,2023-02-19
+1394,UK,Paid Social,2023-05-01
+1395,US,Referral,2023-10-03
+1396,AU,Organic Search,2023-03-11
+1397,UK,Paid Social,2023-07-18
+1398,US,Paid Social,2023-08-21
+1399,CA,Paid Social,2023-07-09
+1400,CA,Email,2023-12-10
+1401,US,Paid Social,2023-12-23
+1402,US,Email,2023-10-04
+1403,US,Organic Search,2023-08-03
+1404,CA,Email,2023-10-28
+1405,CA,Organic Search,2023-03-21
+1406,UK,Email,2023-08-01
+1407,AU,Paid Social,2023-12-02
+1408,AU,Paid Social,2023-02-20
+1409,UK,Paid Social,2023-09-08
+1410,DE,Email,2023-11-12
+1411,US,Organic Search,2023-07-28
+1412,US,Paid Social,2023-05-24
+1413,US,Email,2023-01-17
+1414,US,Paid Social,2023-12-20
+1415,UK,Organic Search,2023-07-09
+1416,DE,Paid Social,2023-04-22
+1417,US,Paid Social,2023-08-16
+1418,US,Email,2023-08-16
+1419,UK,Direct,2023-05-01
+1420,DE,Paid Social,2023-07-05
+1421,US,Referral,2023-02-20
+1422,UK,Paid Social,2023-12-18
+1423,US,Organic Search,2023-07-08
+1424,US,Organic Search,2023-10-06
+1425,DE,Paid Social,2023-11-27
+1426,DE,Organic Search,2023-07-03
+1427,US,Email,2023-02-01
+1428,DE,Direct,2023-07-23
+1429,CA,Organic Search,2023-05-22
+1430,DE,Paid Social,2023-04-08
+1431,UK,Direct,2023-03-04
+1432,UK,Email,2023-08-21
+1433,UK,Email,2023-02-16
+1434,CA,Paid Social,2023-12-06
+1435,US,Direct,2023-04-19
+1436,US,Paid Social,2023-11-25
+1437,US,Paid Social,2023-11-24
+1438,CA,Organic Search,2023-11-02
+1439,US,Organic Search,2023-01-11
+1440,CA,Paid Social,2023-01-26
+1441,DE,Organic Search,2023-06-20
+1442,US,Organic Search,2023-05-05
+1443,CA,Direct,2023-03-06
+1444,UK,Organic Search,2023-10-17
+1445,DE,Paid Social,2023-04-16
+1446,US,Paid Social,2023-02-05
+1447,CA,Referral,2023-10-11
+1448,AU,Paid Social,2023-04-17
+1449,DE,Organic Search,2023-10-28
+1450,CA,Paid Social,2023-04-21
+1451,UK,Email,2023-04-30
+1452,CA,Referral,2023-06-18
+1453,DE,Paid Social,2023-03-17
+1454,UK,Paid Social,2023-11-02
+1455,US,Email,2023-01-02
+1456,DE,Organic Search,2023-05-22
+1457,CA,Paid Social,2023-03-16
+1458,CA,Paid Social,2023-03-08
+1459,US,Organic Search,2023-10-04
+1460,CA,Paid Social,2023-05-09
+1461,US,Organic Search,2023-03-31
+1462,CA,Paid Social,2023-02-26
+1463,US,Email,2023-12-05
+1464,CA,Organic Search,2023-01-14
+1465,DE,Email,2023-03-09
+1466,US,Organic Search,2023-01-08
+1467,DE,Paid Social,2023-07-03
+1468,UK,Organic Search,2023-05-02
+1469,DE,Email,2023-10-29
+1470,AU,Direct,2023-06-15
+1471,UK,Paid Social,2023-01-09
+1472,CA,Email,2023-03-31
+1473,DE,Paid Social,2023-05-16
+1474,UK,Referral,2023-01-27
+1475,US,Direct,2023-03-06
+1476,CA,Email,2023-08-04
+1477,AU,Paid Social,2023-09-27
+1478,AU,Organic Search,2023-02-28
+1479,AU,Paid Social,2023-02-02
+1480,UK,Organic Search,2023-09-01
+1481,AU,Paid Social,2023-08-18
+1482,US,Paid Social,2023-07-05
+1483,UK,Paid Social,2023-09-20
+1484,US,Organic Search,2023-10-31
+1485,US,Organic Search,2023-02-25
+1486,US,Paid Social,2023-08-20
+1487,US,Referral,2023-09-15
+1488,CA,Paid Social,2023-04-24
+1489,US,Paid Social,2023-11-11
+1490,UK,Direct,2023-01-23
+1491,US,Paid Social,2023-12-04
+1492,US,Organic Search,2023-09-24
+1493,US,Paid Social,2023-06-04
+1494,US,Organic Search,2023-08-23
+1495,CA,Referral,2023-11-26
+1496,CA,Organic Search,2023-01-16
+1497,CA,Paid Social,2023-02-01
+1498,UK,Organic Search,2023-09-03
+1499,US,Organic Search,2023-07-25
+1500,DE,Direct,2023-08-07
+1501,UK,Organic Search,2023-12-18
+1502,UK,Organic Search,2023-02-25
+1503,US,Paid Social,2023-09-09
+1504,US,Organic Search,2023-12-31
+1505,US,Organic Search,2023-08-16
+1506,US,Email,2023-02-07
+1507,UK,Direct,2023-02-11
+1508,UK,Email,2023-06-14
+1509,CA,Email,2023-11-08
+1510,AU,Paid Social,2023-03-17
+1511,AU,Organic Search,2023-02-03
+1512,CA,Direct,2023-03-06
+1513,DE,Email,2023-05-21
+1514,US,Direct,2023-11-16
+1515,US,Paid Social,2023-11-21
+1516,US,Organic Search,2023-10-27
+1517,CA,Email,2023-10-08
+1518,DE,Direct,2023-12-31
+1519,US,Referral,2023-06-16
+1520,DE,Organic Search,2023-07-15
+1521,US,Organic Search,2023-11-02
+1522,DE,Organic Search,2023-09-29
+1523,US,Direct,2023-05-31
+1524,US,Organic Search,2023-08-21
+1525,UK,Organic Search,2023-09-16
+1526,US,Referral,2023-11-06
+1527,US,Organic Search,2023-08-09
+1528,US,Email,2023-02-20
+1529,AU,Paid Social,2023-12-26
+1530,UK,Email,2023-02-28
+1531,US,Paid Social,2023-12-02
+1532,CA,Email,2023-11-30
+1533,CA,Email,2023-10-10
+1534,US,Organic Search,2023-04-21
+1535,UK,Organic Search,2023-08-09
+1536,US,Organic Search,2023-08-20
+1537,US,Paid Social,2023-04-27
+1538,CA,Email,2023-07-31
+1539,US,Paid Social,2023-06-23
+1540,UK,Paid Social,2023-08-21
+1541,CA,Organic Search,2023-07-24
+1542,US,Email,2023-08-01
+1543,UK,Referral,2023-02-18
+1544,US,Organic Search,2023-06-10
+1545,DE,Paid Social,2023-08-07
+1546,UK,Organic Search,2023-06-10
+1547,AU,Paid Social,2023-12-07
+1548,UK,Paid Social,2023-05-11
+1549,US,Organic Search,2023-07-11
+1550,CA,Paid Social,2023-03-20
+1551,DE,Paid Social,2023-12-18
+1552,CA,Paid Social,2023-08-31
+1553,AU,Paid Social,2023-02-04
+1554,DE,Organic Search,2023-02-16
+1555,US,Direct,2023-02-13
+1556,US,Direct,2023-02-17
+1557,CA,Paid Social,2023-08-10
+1558,UK,Organic Search,2023-02-19
+1559,AU,Direct,2023-07-10
+1560,DE,Referral,2023-03-08
+1561,US,Organic Search,2023-10-12
+1562,US,Paid Social,2023-01-31
+1563,AU,Organic Search,2023-10-28
+1564,US,Paid Social,2023-10-15
+1565,AU,Organic Search,2023-10-15
+1566,UK,Paid Social,2023-06-18
+1567,CA,Paid Social,2023-12-10
+1568,US,Paid Social,2023-03-04
+1569,CA,Paid Social,2023-07-30
+1570,UK,Paid Social,2023-07-01
+1571,UK,Paid Social,2023-12-07
+1572,US,Organic Search,2023-08-05
+1573,CA,Organic Search,2023-01-27
+1574,DE,Email,2023-05-28
+1575,US,Organic Search,2023-11-04
+1576,US,Direct,2023-06-09
+1577,US,Email,2023-06-30
+1578,CA,Organic Search,2023-02-23
+1579,CA,Paid Social,2023-10-23
+1580,UK,Paid Social,2023-09-17
+1581,US,Email,2023-04-19
+1582,US,Email,2023-03-21
+1583,UK,Direct,2023-12-03
+1584,UK,Organic Search,2023-09-04
+1585,DE,Paid Social,2023-04-25
+1586,US,Paid Social,2023-02-25
+1587,CA,Paid Social,2023-06-29
+1588,UK,Organic Search,2023-10-12
+1589,UK,Organic Search,2023-07-08
+1590,CA,Direct,2023-02-28
+1591,CA,Paid Social,2023-05-23
+1592,DE,Paid Social,2023-10-21
+1593,US,Paid Social,2023-04-26
+1594,US,Email,2023-08-08
+1595,CA,Direct,2023-10-15
+1596,UK,Organic Search,2023-11-15
+1597,US,Organic Search,2023-11-11
+1598,US,Organic Search,2023-12-12
+1599,US,Email,2023-11-26
+1600,DE,Paid Social,2023-10-13
+1601,US,Paid Social,2023-01-14
+1602,US,Paid Social,2023-11-08
+1603,US,Paid Social,2023-12-03
+1604,US,Email,2023-12-22
+1605,US,Paid Social,2023-05-17
+1606,UK,Organic Search,2023-01-15
+1607,US,Organic Search,2023-04-03
+1608,AU,Paid Social,2023-05-20
+1609,US,Email,2023-12-26
+1610,UK,Paid Social,2023-06-08
+1611,DE,Email,2023-06-23
+1612,CA,Direct,2023-06-29
+1613,UK,Organic Search,2023-01-04
+1614,US,Organic Search,2023-04-03
+1615,US,Organic Search,2023-03-15
+1616,CA,Direct,2023-10-17
+1617,DE,Organic Search,2023-12-03
+1618,CA,Paid Social,2023-07-25
+1619,UK,Paid Social,2023-02-05
+1620,CA,Direct,2023-03-14
+1621,UK,Organic Search,2023-11-21
+1622,US,Paid Social,2023-01-16
+1623,UK,Paid Social,2023-02-16
+1624,DE,Paid Social,2023-09-29
+1625,US,Email,2023-04-21
+1626,CA,Organic Search,2023-07-12
+1627,US,Email,2023-08-03
+1628,UK,Paid Social,2023-08-21
+1629,US,Paid Social,2023-06-24
+1630,UK,Paid Social,2023-03-22
+1631,AU,Paid Social,2023-07-09
+1632,US,Organic Search,2023-06-09
+1633,CA,Paid Social,2023-06-16
+1634,AU,Paid Social,2023-10-18
+1635,DE,Paid Social,2023-11-02
+1636,US,Paid Social,2023-02-13
+1637,US,Email,2023-01-27
+1638,US,Paid Social,2023-03-21
+1639,DE,Organic Search,2023-03-22
+1640,DE,Paid Social,2023-11-13
+1641,UK,Direct,2023-01-26
+1642,AU,Direct,2023-12-12
+1643,UK,Paid Social,2023-02-11
+1644,CA,Email,2023-05-20
+1645,US,Organic Search,2023-08-15
+1646,AU,Paid Social,2023-12-05
+1647,US,Email,2023-08-06
+1648,AU,Email,2023-09-06
+1649,AU,Paid Social,2023-11-07
+1650,CA,Email,2023-08-15
+1651,US,Organic Search,2023-08-01
+1652,US,Email,2023-05-20
+1653,US,Paid Social,2023-04-21
+1654,US,Organic Search,2023-09-20
+1655,US,Organic Search,2023-02-28
+1656,DE,Paid Social,2023-06-26
+1657,UK,Organic Search,2023-08-09
+1658,US,Paid Social,2023-02-26
+1659,US,Organic Search,2023-05-26
+1660,UK,Organic Search,2023-12-14
+1661,CA,Paid Social,2023-12-14
+1662,UK,Paid Social,2023-10-31
+1663,DE,Paid Social,2023-09-07
+1664,UK,Direct,2023-09-27
+1665,DE,Email,2023-12-08
+1666,DE,Direct,2023-06-07
+1667,US,Paid Social,2023-01-24
+1668,DE,Direct,2023-04-23
+1669,US,Organic Search,2023-07-22
+1670,AU,Organic Search,2023-11-03
+1671,US,Paid Social,2023-01-29
+1672,DE,Email,2023-01-04
+1673,DE,Organic Search,2023-04-15
+1674,AU,Organic Search,2023-06-04
+1675,AU,Organic Search,2023-04-19
+1676,US,Email,2023-03-12
+1677,US,Paid Social,2023-05-11
+1678,UK,Organic Search,2023-05-29
+1679,US,Paid Social,2023-06-17
+1680,CA,Paid Social,2023-03-03
+1681,US,Paid Social,2023-01-04
+1682,DE,Organic Search,2023-09-12
+1683,CA,Email,2023-08-09
+1684,AU,Paid Social,2023-03-31
+1685,US,Paid Social,2023-03-08
+1686,DE,Organic Search,2023-07-14
+1687,DE,Paid Social,2023-09-30
+1688,UK,Paid Social,2023-12-27
+1689,CA,Paid Social,2023-04-28
+1690,AU,Organic Search,2023-09-14
+1691,US,Direct,2023-10-14
+1692,UK,Organic Search,2023-12-09
+1693,US,Paid Social,2023-07-01
+1694,US,Email,2023-02-06
+1695,US,Paid Social,2023-07-23
+1696,US,Direct,2023-01-22
+1697,US,Paid Social,2023-08-12
+1698,US,Paid Social,2023-01-10
+1699,DE,Email,2023-08-24
+1700,UK,Organic Search,2023-02-09
+1701,DE,Paid Social,2023-06-10
+1702,UK,Direct,2023-10-22
+1703,US,Paid Social,2023-08-08
+1704,UK,Paid Social,2023-10-21
+1705,UK,Paid Social,2023-07-27
+1706,US,Email,2023-12-30
+1707,CA,Email,2023-11-24
+1708,US,Paid Social,2023-08-02
+1709,CA,Paid Social,2023-05-29
+1710,CA,Email,2023-02-28
+1711,US,Organic Search,2023-07-27
+1712,US,Organic Search,2023-01-11
+1713,AU,Direct,2023-06-16
+1714,UK,Email,2023-03-29
+1715,US,Email,2023-11-13
+1716,DE,Paid Social,2023-08-24
+1717,US,Organic Search,2023-12-20
+1718,CA,Paid Social,2023-07-05
+1719,DE,Organic Search,2023-02-15
+1720,US,Organic Search,2023-08-12
+1721,US,Direct,2023-02-24
+1722,US,Organic Search,2023-05-05
+1723,US,Email,2023-08-12
+1724,US,Paid Social,2023-10-29
+1725,CA,Paid Social,2023-07-25
+1726,US,Organic Search,2023-09-26
+1727,UK,Paid Social,2023-02-10
+1728,DE,Organic Search,2023-07-22
+1729,AU,Referral,2023-06-08
+1730,CA,Email,2023-06-23
+1731,US,Paid Social,2023-04-24
+1732,CA,Organic Search,2023-06-20
+1733,UK,Email,2023-03-28
+1734,UK,Paid Social,2023-02-09
+1735,US,Organic Search,2023-09-19
+1736,DE,Paid Social,2023-11-21
+1737,UK,Email,2023-02-28
+1738,US,Organic Search,2023-09-29
+1739,US,Organic Search,2023-09-19
+1740,UK,Email,2023-04-10
+1741,AU,Organic Search,2023-06-28
+1742,CA,Organic Search,2023-06-29
+1743,AU,Paid Social,2023-11-27
+1744,US,Email,2023-03-17
+1745,UK,Paid Social,2023-05-01
+1746,UK,Referral,2023-02-22
+1747,US,Paid Social,2023-03-16
+1748,US,Organic Search,2023-05-12
+1749,AU,Referral,2023-04-12
+1750,US,Paid Social,2023-03-30
+1751,UK,Organic Search,2023-11-05
+1752,US,Paid Social,2023-03-20
+1753,US,Paid Social,2023-12-02
+1754,US,Organic Search,2023-02-08
+1755,DE,Organic Search,2023-04-01
+1756,AU,Paid Social,2023-11-18
+1757,DE,Email,2023-09-10
+1758,UK,Paid Social,2023-08-26
+1759,US,Referral,2023-10-16
+1760,UK,Organic Search,2023-10-24
+1761,UK,Organic Search,2023-08-18
+1762,AU,Organic Search,2023-12-15
+1763,US,Organic Search,2023-10-17
+1764,UK,Organic Search,2023-11-26
+1765,US,Direct,2023-11-22
+1766,US,Email,2023-11-16
+1767,CA,Referral,2023-06-15
+1768,UK,Organic Search,2023-11-18
+1769,US,Email,2023-06-11
+1770,US,Paid Social,2023-03-19
+1771,UK,Organic Search,2023-08-14
+1772,AU,Email,2023-02-04
+1773,DE,Paid Social,2023-08-29
+1774,DE,Organic Search,2023-08-15
+1775,AU,Paid Social,2023-11-20
+1776,US,Organic Search,2023-06-05
+1777,CA,Direct,2023-05-21
+1778,UK,Paid Social,2023-10-30
+1779,US,Referral,2023-01-29
+1780,AU,Organic Search,2023-06-30
+1781,US,Paid Social,2023-09-17
+1782,DE,Paid Social,2023-02-07
+1783,UK,Paid Social,2023-06-08
+1784,CA,Paid Social,2023-08-25
+1785,CA,Direct,2023-08-20
+1786,DE,Email,2023-01-20
+1787,CA,Email,2023-01-30
+1788,CA,Email,2023-07-08
+1789,US,Email,2023-05-27
+1790,UK,Paid Social,2023-02-09
+1791,US,Email,2023-11-27
+1792,CA,Paid Social,2023-02-16
+1793,UK,Paid Social,2023-11-11
+1794,CA,Paid Social,2023-11-01
+1795,US,Paid Social,2023-09-17
+1796,US,Organic Search,2023-07-16
+1797,CA,Referral,2023-08-25
+1798,US,Paid Social,2023-10-25
+1799,US,Organic Search,2023-10-11
+1800,US,Paid Social,2023-01-22
+1801,DE,Organic Search,2023-08-19
+1802,CA,Organic Search,2023-10-20
+1803,US,Organic Search,2023-11-30
+1804,US,Paid Social,2023-04-07
+1805,US,Paid Social,2023-06-14
+1806,AU,Direct,2023-11-06
+1807,CA,Direct,2023-09-01
+1808,US,Paid Social,2023-09-14
+1809,US,Paid Social,2023-03-19
+1810,US,Paid Social,2023-02-01
+1811,CA,Direct,2023-08-19
+1812,AU,Organic Search,2023-02-22
+1813,US,Organic Search,2023-06-25
+1814,US,Direct,2023-02-13
+1815,US,Paid Social,2023-09-16
+1816,DE,Organic Search,2023-11-27
+1817,US,Organic Search,2023-03-30
+1818,AU,Email,2023-01-21
+1819,CA,Email,2023-05-07
+1820,US,Direct,2023-12-29
+1821,US,Paid Social,2023-08-13
+1822,US,Paid Social,2023-08-13
+1823,CA,Referral,2023-09-26
+1824,AU,Referral,2023-09-25
+1825,CA,Organic Search,2023-11-09
+1826,UK,Email,2023-03-23
+1827,US,Organic Search,2023-07-06
+1828,DE,Organic Search,2023-07-10
+1829,AU,Paid Social,2023-05-25
+1830,US,Paid Social,2023-07-18
+1831,DE,Email,2023-07-29
+1832,CA,Organic Search,2023-06-23
+1833,UK,Paid Social,2023-12-14
+1834,CA,Email,2023-11-03
+1835,AU,Email,2023-01-27
+1836,CA,Organic Search,2023-11-20
+1837,US,Paid Social,2023-11-28
+1838,US,Paid Social,2023-06-21
+1839,DE,Organic Search,2023-02-03
+1840,US,Referral,2023-06-18
+1841,US,Email,2023-02-18
+1842,UK,Organic Search,2023-10-13
+1843,UK,Organic Search,2023-12-14
+1844,CA,Organic Search,2023-07-17
+1845,DE,Email,2023-05-26
+1846,US,Organic Search,2023-05-10
+1847,US,Paid Social,2023-12-03
+1848,US,Paid Social,2023-11-05
+1849,DE,Paid Social,2023-03-18
+1850,CA,Organic Search,2023-06-20
+1851,US,Organic Search,2023-02-11
+1852,AU,Email,2023-10-26
+1853,DE,Email,2023-12-06
+1854,AU,Direct,2023-03-14
+1855,DE,Organic Search,2023-06-29
+1856,US,Paid Social,2023-06-08
+1857,AU,Paid Social,2023-12-02
+1858,UK,Organic Search,2023-12-24
+1859,AU,Email,2023-12-06
+1860,CA,Paid Social,2023-07-20
+1861,AU,Organic Search,2023-03-08
+1862,CA,Email,2023-11-01
+1863,US,Referral,2023-12-29
+1864,UK,Organic Search,2023-02-13
+1865,DE,Paid Social,2023-06-08
+1866,DE,Paid Social,2023-10-14
+1867,US,Paid Social,2023-07-12
+1868,US,Organic Search,2023-11-26
+1869,US,Paid Social,2023-06-18
+1870,CA,Referral,2023-03-07
+1871,AU,Paid Social,2023-12-10
+1872,US,Organic Search,2023-12-26
+1873,UK,Paid Social,2023-12-17
+1874,AU,Paid Social,2023-09-27
+1875,CA,Email,2023-02-17
+1876,UK,Paid Social,2023-11-27
+1877,UK,Organic Search,2023-12-10
+1878,UK,Organic Search,2023-08-05
+1879,US,Direct,2023-09-18
+1880,UK,Organic Search,2023-07-05
+1881,CA,Direct,2023-01-10
+1882,DE,Organic Search,2023-07-05
+1883,CA,Paid Social,2023-06-08
+1884,AU,Paid Social,2023-04-03
+1885,US,Email,2023-04-20
+1886,UK,Email,2023-06-24
+1887,US,Organic Search,2023-09-06
+1888,US,Paid Social,2023-04-09
+1889,CA,Organic Search,2023-04-26
+1890,DE,Paid Social,2023-03-12
+1891,US,Paid Social,2023-03-21
+1892,UK,Email,2023-02-09
+1893,AU,Email,2023-06-01
+1894,US,Paid Social,2023-02-21
+1895,UK,Paid Social,2023-09-17
+1896,CA,Email,2023-10-04
+1897,CA,Email,2023-09-27
+1898,US,Organic Search,2023-01-20
+1899,US,Paid Social,2023-12-05
+1900,AU,Paid Social,2023-06-22
+1901,UK,Organic Search,2023-11-13
+1902,US,Organic Search,2023-03-09
+1903,AU,Organic Search,2023-11-02
+1904,US,Paid Social,2023-07-12
+1905,CA,Organic Search,2023-03-20
+1906,US,Organic Search,2023-03-25
+1907,DE,Organic Search,2023-04-03
+1908,US,Email,2023-12-21
+1909,US,Email,2023-11-16
+1910,US,Paid Social,2023-03-26
+1911,US,Paid Social,2023-08-13
+1912,DE,Referral,2023-01-23
+1913,DE,Organic Search,2023-07-30
+1914,US,Organic Search,2023-07-06
+1915,UK,Organic Search,2023-12-13
+1916,CA,Organic Search,2023-05-02
+1917,DE,Paid Social,2023-08-16
+1918,UK,Email,2023-11-09
+1919,US,Paid Social,2023-05-26
+1920,UK,Paid Social,2023-08-18
+1921,CA,Email,2023-04-30
+1922,US,Organic Search,2023-10-01
+1923,CA,Organic Search,2023-05-03
+1924,US,Paid Social,2023-06-08
+1925,AU,Paid Social,2023-08-29
+1926,US,Organic Search,2023-04-10
+1927,UK,Paid Social,2023-07-08
+1928,UK,Paid Social,2023-12-14
+1929,CA,Paid Social,2023-10-20
+1930,US,Paid Social,2023-08-14
+1931,UK,Paid Social,2023-08-25
+1932,UK,Organic Search,2023-05-25
+1933,UK,Paid Social,2023-07-15
+1934,CA,Organic Search,2023-09-15
+1935,CA,Email,2023-09-28
+1936,AU,Paid Social,2023-08-03
+1937,US,Paid Social,2023-03-24
+1938,AU,Direct,2023-04-13
+1939,UK,Paid Social,2023-11-06
+1940,US,Paid Social,2023-03-12
+1941,US,Email,2023-05-09
+1942,US,Email,2023-01-27
+1943,AU,Paid Social,2023-11-25
+1944,CA,Organic Search,2023-09-04
+1945,AU,Paid Social,2023-07-10
+1946,UK,Direct,2023-10-11
+1947,UK,Organic Search,2023-02-22
+1948,US,Organic Search,2023-12-31
+1949,US,Email,2023-09-22
+1950,UK,Organic Search,2023-03-05
+1951,US,Direct,2023-05-26
+1952,US,Paid Social,2023-02-12
+1953,UK,Paid Social,2023-03-24
+1954,CA,Organic Search,2023-05-20
+1955,DE,Email,2023-08-19
+1956,DE,Paid Social,2023-09-20
+1957,CA,Paid Social,2023-03-17
+1958,UK,Paid Social,2023-08-12
+1959,CA,Direct,2023-02-16
+1960,AU,Referral,2023-04-24
+1961,US,Paid Social,2023-08-19
+1962,UK,Paid Social,2023-06-28
+1963,AU,Referral,2023-01-14
+1964,US,Paid Social,2023-08-01
+1965,UK,Organic Search,2023-01-28
+1966,UK,Organic Search,2023-07-22
+1967,US,Email,2023-09-15
+1968,US,Paid Social,2023-07-11
+1969,US,Paid Social,2023-05-01
+1970,US,Paid Social,2023-07-17
+1971,US,Organic Search,2023-02-11
+1972,AU,Paid Social,2023-07-11
+1973,US,Organic Search,2023-04-25
+1974,UK,Paid Social,2023-01-15
+1975,US,Paid Social,2023-06-13
+1976,DE,Paid Social,2023-02-20
+1977,US,Direct,2023-11-29
+1978,UK,Email,2023-06-21
+1979,DE,Direct,2023-03-16
+1980,AU,Organic Search,2023-03-12
+1981,US,Organic Search,2023-01-20
+1982,AU,Paid Social,2023-05-27
+1983,UK,Email,2023-08-30
+1984,UK,Email,2023-12-23
+1985,US,Email,2023-03-13
+1986,US,Paid Social,2023-12-28
+1987,CA,Paid Social,2023-08-29
+1988,UK,Paid Social,2023-08-18
+1989,UK,Organic Search,2023-11-12
+1990,CA,Organic Search,2023-01-03
+1991,AU,Email,2023-02-10
+1992,US,Organic Search,2023-01-10
+1993,CA,Organic Search,2023-05-12
+1994,US,Organic Search,2023-04-21
+1995,AU,Email,2023-03-18
+1996,CA,Paid Social,2023-10-08
+1997,DE,Paid Social,2023-11-08
+1998,US,Email,2023-09-28
+1999,US,Paid Social,2023-08-05
+2000,US,Paid Social,2023-02-26
+2001,US,Organic Search,2023-05-28
+2002,US,Organic Search,2023-05-02
+2003,DE,Email,2023-06-04
+2004,US,Direct,2023-03-04
+2005,US,Paid Social,2023-01-25
+2006,AU,Paid Social,2023-05-03
+2007,UK,Paid Social,2023-08-03
+2008,AU,Organic Search,2023-11-24
+2009,US,Organic Search,2023-11-15
+2010,UK,Organic Search,2023-08-23
+2011,US,Organic Search,2023-02-02
+2012,US,Email,2023-02-26
+2013,DE,Organic Search,2023-09-13
+2014,US,Organic Search,2023-11-02
+2015,UK,Paid Social,2023-10-02
+2016,UK,Email,2023-01-09
+2017,US,Organic Search,2023-11-20
+2018,DE,Organic Search,2023-09-21
+2019,US,Paid Social,2023-10-22
+2020,CA,Direct,2023-05-04
+2021,DE,Paid Social,2023-03-15
+2022,UK,Email,2023-05-30
+2023,DE,Referral,2023-08-08
+2024,US,Direct,2023-01-01
+2025,UK,Paid Social,2023-11-11
+2026,US,Paid Social,2023-06-30
+2027,CA,Organic Search,2023-05-04
+2028,DE,Referral,2023-10-20
+2029,US,Paid Social,2023-08-02
+2030,CA,Organic Search,2023-04-06
+2031,US,Paid Social,2023-12-07
+2032,UK,Organic Search,2023-12-09
+2033,UK,Paid Social,2023-02-13
+2034,DE,Paid Social,2023-09-26
+2035,CA,Paid Social,2023-07-04
+2036,US,Email,2023-02-04
+2037,US,Organic Search,2023-09-27
+2038,US,Paid Social,2023-10-06
+2039,US,Paid Social,2023-09-17
+2040,US,Paid Social,2023-09-17
+2041,DE,Direct,2023-10-11
+2042,UK,Paid Social,2023-01-11
+2043,UK,Paid Social,2023-07-19
+2044,US,Organic Search,2023-08-29
+2045,DE,Email,2023-01-23
+2046,CA,Paid Social,2023-11-22
+2047,US,Direct,2023-07-18
+2048,CA,Organic Search,2023-07-11
+2049,UK,Organic Search,2023-05-10
+2050,US,Paid Social,2023-01-09
+2051,UK,Email,2023-07-02
+2052,UK,Paid Social,2023-02-04
+2053,US,Email,2023-06-26
+2054,DE,Paid Social,2023-05-04
+2055,AU,Paid Social,2023-12-03
+2056,CA,Organic Search,2023-11-18
+2057,UK,Email,2023-02-23
+2058,UK,Organic Search,2023-10-25
+2059,CA,Email,2023-06-20
+2060,UK,Email,2023-03-10
+2061,US,Email,2023-01-23
+2062,UK,Paid Social,2023-06-30
+2063,AU,Paid Social,2023-10-07
+2064,UK,Direct,2023-06-23
+2065,US,Organic Search,2023-11-26
+2066,AU,Paid Social,2023-03-31
+2067,US,Organic Search,2023-12-17
+2068,US,Paid Social,2023-08-26
+2069,US,Organic Search,2023-12-23
+2070,US,Organic Search,2023-09-03
+2071,AU,Paid Social,2023-11-20
+2072,UK,Paid Social,2023-04-04
+2073,US,Paid Social,2023-03-11
+2074,DE,Organic Search,2023-02-02
+2075,DE,Paid Social,2023-08-23
+2076,DE,Organic Search,2023-01-19
+2077,US,Paid Social,2023-05-31
+2078,UK,Paid Social,2023-04-14
+2079,DE,Paid Social,2023-01-23
+2080,AU,Direct,2023-04-13
+2081,US,Paid Social,2023-01-22
+2082,US,Direct,2023-06-11
+2083,UK,Paid Social,2023-06-08
+2084,DE,Paid Social,2023-09-21
+2085,UK,Paid Social,2023-07-23
+2086,UK,Organic Search,2023-10-06
+2087,US,Paid Social,2023-08-31
+2088,CA,Paid Social,2023-05-10
+2089,AU,Paid Social,2023-01-19
+2090,US,Organic Search,2023-11-28
+2091,AU,Organic Search,2023-04-08
+2092,DE,Email,2023-05-27
+2093,US,Paid Social,2023-07-02
+2094,UK,Organic Search,2023-01-25
+2095,US,Paid Social,2023-12-02
+2096,AU,Paid Social,2023-06-19
+2097,UK,Email,2023-05-20
+2098,CA,Organic Search,2023-03-05
+2099,AU,Organic Search,2023-07-08
+2100,US,Email,2023-08-12
+2101,DE,Organic Search,2023-07-24
+2102,UK,Organic Search,2023-08-14
+2103,US,Referral,2023-07-17
+2104,CA,Paid Social,2023-06-23
+2105,AU,Organic Search,2023-04-06
+2106,US,Organic Search,2023-09-12
+2107,DE,Organic Search,2023-12-21
+2108,DE,Organic Search,2023-09-12
+2109,US,Email,2023-07-08
+2110,DE,Paid Social,2023-09-23
+2111,US,Direct,2023-05-17
+2112,US,Email,2023-02-12
+2113,US,Paid Social,2023-08-06
+2114,DE,Organic Search,2023-02-10
+2115,CA,Paid Social,2023-08-09
+2116,US,Email,2023-11-05
+2117,UK,Email,2023-04-03
+2118,CA,Organic Search,2023-10-07
+2119,US,Paid Social,2023-05-31
+2120,DE,Paid Social,2023-06-14
+2121,AU,Email,2023-02-22
+2122,UK,Organic Search,2023-02-10
+2123,DE,Paid Social,2023-06-17
+2124,UK,Email,2023-12-05
+2125,DE,Paid Social,2023-06-01
+2126,CA,Paid Social,2023-06-06
+2127,CA,Organic Search,2023-08-17
+2128,US,Organic Search,2023-11-05
+2129,DE,Paid Social,2023-08-07
+2130,UK,Email,2023-03-27
+2131,US,Organic Search,2023-12-20
+2132,US,Paid Social,2023-08-16
+2133,UK,Paid Social,2023-06-29
+2134,UK,Organic Search,2023-08-17
+2135,CA,Paid Social,2023-01-22
+2136,DE,Direct,2023-06-30
+2137,US,Email,2023-11-11
+2138,CA,Paid Social,2023-08-11
+2139,US,Paid Social,2023-05-21
+2140,DE,Organic Search,2023-11-24
+2141,AU,Email,2023-01-30
+2142,UK,Organic Search,2023-02-08
+2143,CA,Direct,2023-12-10
+2144,US,Organic Search,2023-11-23
+2145,UK,Email,2023-07-27
+2146,AU,Direct,2023-07-06
+2147,UK,Direct,2023-09-20
+2148,US,Organic Search,2023-12-14
+2149,UK,Paid Social,2023-03-23
+2150,AU,Paid Social,2023-01-16
+2151,US,Direct,2023-03-15
+2152,US,Organic Search,2023-11-08
+2153,CA,Referral,2023-12-14
+2154,AU,Email,2023-08-13
+2155,US,Organic Search,2023-01-18
+2156,US,Email,2023-03-06
+2157,US,Paid Social,2023-02-04
+2158,US,Paid Social,2023-05-01
+2159,UK,Paid Social,2023-11-27
+2160,CA,Paid Social,2023-07-07
+2161,CA,Direct,2023-07-05
+2162,CA,Paid Social,2023-07-16
+2163,US,Paid Social,2023-10-18
+2164,AU,Paid Social,2023-01-17
+2165,UK,Direct,2023-11-06
+2166,DE,Organic Search,2023-03-20
+2167,CA,Email,2023-12-14
+2168,US,Paid Social,2023-08-19
+2169,CA,Organic Search,2023-07-09
+2170,US,Organic Search,2023-07-10
+2171,CA,Paid Social,2023-08-16
+2172,US,Email,2023-02-09
+2173,US,Paid Social,2023-10-21
+2174,DE,Direct,2023-03-12
+2175,US,Organic Search,2023-09-29
+2176,AU,Paid Social,2023-07-07
+2177,US,Referral,2023-07-23
+2178,CA,Direct,2023-06-10
+2179,CA,Organic Search,2023-11-29
+2180,UK,Paid Social,2023-05-23
+2181,US,Organic Search,2023-05-08
+2182,US,Paid Social,2023-02-28
+2183,US,Direct,2023-01-14
+2184,US,Direct,2023-04-06
+2185,CA,Organic Search,2023-09-13
+2186,DE,Email,2023-09-23
+2187,DE,Paid Social,2023-07-18
+2188,AU,Paid Social,2023-10-15
+2189,AU,Paid Social,2023-03-02
+2190,CA,Paid Social,2023-05-15
+2191,US,Paid Social,2023-05-14
+2192,DE,Paid Social,2023-12-27
+2193,CA,Paid Social,2023-08-17
+2194,UK,Organic Search,2023-04-20
+2195,US,Email,2023-11-10
+2196,UK,Paid Social,2023-05-27
+2197,UK,Organic Search,2023-12-22
+2198,DE,Direct,2023-09-09
+2199,UK,Email,2023-04-13
+2200,US,Email,2023-03-04
+2201,DE,Paid Social,2023-03-11
+2202,US,Organic Search,2023-02-07
+2203,UK,Paid Social,2023-08-20
+2204,US,Organic Search,2023-03-30
+2205,CA,Email,2023-08-16
+2206,DE,Organic Search,2023-02-14
+2207,US,Organic Search,2023-12-16
+2208,DE,Paid Social,2023-06-13
+2209,US,Paid Social,2023-12-08
+2210,DE,Direct,2023-06-27
+2211,AU,Paid Social,2023-12-30
+2212,AU,Organic Search,2023-02-03
+2213,US,Organic Search,2023-10-09
+2214,DE,Paid Social,2023-10-05
+2215,CA,Organic Search,2023-05-29
+2216,US,Paid Social,2023-06-03
+2217,AU,Paid Social,2023-03-22
+2218,US,Direct,2023-12-31
+2219,DE,Email,2023-12-30
+2220,US,Email,2023-12-25
+2221,CA,Email,2023-11-23
+2222,UK,Organic Search,2023-03-31
+2223,US,Organic Search,2023-07-05
+2224,US,Paid Social,2023-09-18
+2225,US,Email,2023-04-25
+2226,UK,Referral,2023-03-04
+2227,US,Email,2023-04-13
+2228,UK,Organic Search,2023-03-13
+2229,US,Email,2023-05-02
+2230,US,Paid Social,2023-09-10
+2231,CA,Organic Search,2023-01-14
+2232,US,Paid Social,2023-07-04
+2233,DE,Organic Search,2023-10-11
+2234,DE,Paid Social,2023-10-21
+2235,CA,Paid Social,2023-07-08
+2236,UK,Paid Social,2023-08-28
+2237,DE,Paid Social,2023-10-10
+2238,US,Email,2023-03-08
+2239,US,Paid Social,2023-11-10
+2240,US,Paid Social,2023-02-14
+2241,AU,Email,2023-02-03
+2242,US,Email,2023-06-08
+2243,UK,Organic Search,2023-07-23
+2244,DE,Paid Social,2023-09-03
+2245,DE,Organic Search,2023-09-27
+2246,UK,Organic Search,2023-07-30
+2247,US,Paid Social,2023-07-29
+2248,AU,Email,2023-10-22
+2249,UK,Organic Search,2023-02-07
+2250,US,Email,2023-03-06
+2251,US,Email,2023-06-12
+2252,DE,Email,2023-11-25
+2253,CA,Organic Search,2023-02-07
+2254,AU,Email,2023-08-19
+2255,DE,Paid Social,2023-08-27
+2256,UK,Paid Social,2023-12-15
+2257,UK,Organic Search,2023-09-22
+2258,UK,Organic Search,2023-06-26
+2259,US,Direct,2023-03-07
+2260,UK,Paid Social,2023-10-10
+2261,AU,Organic Search,2023-11-24
+2262,CA,Organic Search,2023-10-28
+2263,DE,Paid Social,2023-04-04
+2264,UK,Organic Search,2023-03-08
+2265,CA,Email,2023-08-10
+2266,CA,Organic Search,2023-09-15
+2267,UK,Organic Search,2023-01-29
+2268,CA,Paid Social,2023-03-05
+2269,US,Paid Social,2023-09-23
+2270,UK,Paid Social,2023-03-20
+2271,US,Paid Social,2023-06-05
+2272,US,Referral,2023-03-26
+2273,UK,Paid Social,2023-03-24
+2274,CA,Organic Search,2023-06-15
+2275,DE,Paid Social,2023-12-30
+2276,CA,Email,2023-04-26
+2277,CA,Paid Social,2023-06-27
+2278,UK,Organic Search,2023-09-23
+2279,CA,Direct,2023-05-26
+2280,US,Paid Social,2023-02-10
+2281,US,Paid Social,2023-05-09
+2282,US,Organic Search,2023-04-11
+2283,UK,Organic Search,2023-11-22
+2284,US,Paid Social,2023-10-10
+2285,US,Organic Search,2023-05-21
+2286,US,Paid Social,2023-03-06
+2287,DE,Paid Social,2023-11-17
+2288,US,Organic Search,2023-06-05
+2289,UK,Email,2023-11-11
+2290,US,Email,2023-10-01
+2291,CA,Direct,2023-02-17
+2292,US,Organic Search,2023-09-15
+2293,US,Organic Search,2023-11-25
+2294,UK,Paid Social,2023-03-28
+2295,US,Organic Search,2023-10-31
+2296,US,Referral,2023-10-25
+2297,US,Organic Search,2023-03-20
+2298,US,Paid Social,2023-03-29
+2299,US,Paid Social,2023-12-04
+2300,US,Paid Social,2023-11-16
+2301,AU,Organic Search,2023-11-06
+2302,UK,Paid Social,2023-06-22
+2303,UK,Organic Search,2023-10-16
+2304,US,Email,2023-01-22
+2305,DE,Organic Search,2023-01-15
+2306,US,Email,2023-02-11
+2307,US,Email,2023-01-24
+2308,CA,Organic Search,2023-11-25
+2309,US,Direct,2023-10-23
+2310,US,Organic Search,2023-05-16
+2311,UK,Referral,2023-11-30
+2312,DE,Paid Social,2023-04-18
+2313,UK,Paid Social,2023-10-20
+2314,CA,Paid Social,2023-08-02
+2315,DE,Organic Search,2023-11-13
+2316,US,Referral,2023-11-24
+2317,US,Organic Search,2023-01-16
+2318,US,Paid Social,2023-09-12
+2319,UK,Paid Social,2023-11-18
+2320,UK,Email,2023-10-07
+2321,DE,Organic Search,2023-05-29
+2322,CA,Paid Social,2023-11-25
+2323,CA,Paid Social,2023-06-04
+2324,US,Direct,2023-09-05
+2325,AU,Organic Search,2023-05-06
+2326,DE,Organic Search,2023-12-17
+2327,AU,Organic Search,2023-07-27
+2328,US,Direct,2023-06-02
+2329,CA,Organic Search,2023-08-21
+2330,US,Paid Social,2023-02-07
+2331,US,Organic Search,2023-12-19
+2332,US,Email,2023-01-31
+2333,CA,Email,2023-03-22
+2334,CA,Paid Social,2023-08-14
+2335,US,Paid Social,2023-08-01
+2336,US,Organic Search,2023-09-05
+2337,UK,Organic Search,2023-08-26
+2338,US,Organic Search,2023-04-15
+2339,US,Paid Social,2023-06-24
+2340,UK,Paid Social,2023-11-07
+2341,AU,Email,2023-03-15
+2342,US,Paid Social,2023-06-10
+2343,US,Paid Social,2023-06-13
+2344,US,Paid Social,2023-06-26
+2345,DE,Paid Social,2023-07-24
+2346,CA,Organic Search,2023-03-08
+2347,CA,Paid Social,2023-07-09
+2348,US,Paid Social,2023-09-21
+2349,UK,Direct,2023-10-15
+2350,US,Email,2023-02-24
+2351,CA,Paid Social,2023-06-13
+2352,DE,Organic Search,2023-05-04
+2353,CA,Paid Social,2023-08-27
+2354,DE,Paid Social,2023-03-04
+2355,CA,Organic Search,2023-05-17
+2356,US,Direct,2023-08-19
+2357,DE,Referral,2023-05-07
+2358,US,Email,2023-03-14
+2359,UK,Organic Search,2023-02-19
+2360,US,Email,2023-01-26
+2361,US,Direct,2023-05-29
+2362,UK,Paid Social,2023-07-16
+2363,US,Paid Social,2023-11-12
+2364,UK,Email,2023-08-03
+2365,UK,Paid Social,2023-05-08
+2366,US,Paid Social,2023-03-23
+2367,US,Paid Social,2023-06-17
+2368,UK,Paid Social,2023-10-23
+2369,US,Organic Search,2023-06-10
+2370,CA,Email,2023-04-08
+2371,CA,Paid Social,2023-03-23
+2372,AU,Paid Social,2023-09-13
+2373,CA,Organic Search,2023-09-21
+2374,UK,Paid Social,2023-08-28
+2375,CA,Organic Search,2023-09-13
+2376,US,Organic Search,2023-06-07
+2377,US,Paid Social,2023-09-12
+2378,AU,Paid Social,2023-01-12
+2379,UK,Paid Social,2023-02-16
+2380,AU,Organic Search,2023-07-21
+2381,AU,Paid Social,2023-09-16
+2382,DE,Organic Search,2023-08-23
+2383,DE,Referral,2023-05-04
+2384,UK,Paid Social,2023-04-21
+2385,US,Paid Social,2023-10-26
+2386,UK,Paid Social,2023-06-30
+2387,US,Organic Search,2023-01-25
+2388,CA,Referral,2023-01-26
+2389,CA,Organic Search,2023-05-25
+2390,CA,Paid Social,2023-09-11
+2391,US,Paid Social,2023-11-02
+2392,US,Organic Search,2023-12-01
+2393,UK,Email,2023-12-11
+2394,US,Paid Social,2023-08-29
+2395,DE,Organic Search,2023-05-27
+2396,US,Organic Search,2023-10-02
+2397,US,Organic Search,2023-01-05
+2398,US,Email,2023-02-25
+2399,CA,Paid Social,2023-08-09
+2400,CA,Organic Search,2023-03-10
+2401,US,Organic Search,2023-05-16
+2402,US,Paid Social,2023-07-07
+2403,UK,Paid Social,2023-07-26
+2404,US,Paid Social,2023-07-07
+2405,CA,Paid Social,2023-01-24
+2406,CA,Organic Search,2023-07-25
+2407,US,Paid Social,2023-01-27
+2408,US,Referral,2023-10-19
+2409,DE,Organic Search,2023-10-15
+2410,UK,Paid Social,2023-04-10
+2411,CA,Paid Social,2023-07-05
+2412,US,Paid Social,2023-10-11
+2413,UK,Organic Search,2023-05-28
+2414,US,Email,2023-02-07
+2415,UK,Paid Social,2023-07-17
+2416,DE,Paid Social,2023-09-16
+2417,US,Paid Social,2023-08-19
+2418,US,Organic Search,2023-10-09
+2419,US,Organic Search,2023-05-24
+2420,US,Direct,2023-11-16
+2421,US,Organic Search,2023-12-15
+2422,US,Paid Social,2023-11-09
+2423,AU,Paid Social,2023-03-02
+2424,UK,Paid Social,2023-03-07
+2425,US,Paid Social,2023-02-19
+2426,DE,Paid Social,2023-07-21
+2427,US,Organic Search,2023-07-11
+2428,DE,Paid Social,2023-06-23
+2429,US,Paid Social,2023-10-13
+2430,DE,Paid Social,2023-07-07
+2431,CA,Organic Search,2023-03-15
+2432,AU,Paid Social,2023-04-12
+2433,DE,Organic Search,2023-11-05
+2434,US,Organic Search,2023-09-18
+2435,DE,Organic Search,2023-07-25
+2436,US,Email,2023-09-14
+2437,US,Organic Search,2023-01-21
+2438,US,Organic Search,2023-01-24
+2439,UK,Organic Search,2023-01-20
+2440,US,Organic Search,2023-03-12
+2441,UK,Paid Social,2023-06-20
+2442,UK,Organic Search,2023-08-31
+2443,AU,Organic Search,2023-09-23
+2444,AU,Paid Social,2023-08-22
+2445,UK,Paid Social,2023-03-18
+2446,US,Direct,2023-11-07
+2447,US,Paid Social,2023-09-21
+2448,US,Organic Search,2023-03-13
+2449,US,Paid Social,2023-06-17
+2450,US,Organic Search,2023-11-10
+2451,US,Paid Social,2023-06-13
+2452,DE,Paid Social,2023-03-25
+2453,UK,Organic Search,2023-07-21
+2454,US,Paid Social,2023-11-12
+2455,UK,Email,2023-06-03
+2456,US,Referral,2023-10-31
+2457,UK,Paid Social,2023-06-22
+2458,CA,Paid Social,2023-09-17
+2459,UK,Organic Search,2023-09-18
+2460,UK,Organic Search,2023-09-30
+2461,DE,Paid Social,2023-09-08
+2462,DE,Paid Social,2023-12-29
+2463,CA,Email,2023-10-16
+2464,UK,Paid Social,2023-06-03
+2465,CA,Paid Social,2023-09-01
+2466,US,Paid Social,2023-01-09
+2467,US,Email,2023-07-08
+2468,US,Paid Social,2023-06-19
+2469,UK,Paid Social,2023-12-11
+2470,UK,Paid Social,2023-02-26
+2471,US,Email,2023-08-02
+2472,DE,Organic Search,2023-10-26
+2473,DE,Email,2023-06-07
+2474,CA,Paid Social,2023-12-19
+2475,UK,Paid Social,2023-11-19
+2476,DE,Paid Social,2023-01-14
+2477,US,Paid Social,2023-11-02
+2478,AU,Organic Search,2023-08-31
+2479,US,Email,2023-05-16
+2480,AU,Paid Social,2023-12-02
+2481,US,Paid Social,2023-10-24
+2482,DE,Organic Search,2023-10-23
+2483,DE,Paid Social,2023-04-27
+2484,US,Paid Social,2023-01-27
+2485,UK,Paid Social,2023-10-26
+2486,DE,Paid Social,2023-09-03
+2487,UK,Paid Social,2023-03-29
+2488,DE,Referral,2023-09-26
+2489,UK,Paid Social,2023-11-19
+2490,US,Email,2023-11-14
+2491,US,Organic Search,2023-07-14
+2492,US,Paid Social,2023-03-17
+2493,AU,Paid Social,2023-12-15
+2494,US,Paid Social,2023-05-05
+2495,UK,Email,2023-01-17
+2496,UK,Organic Search,2023-10-21
+2497,UK,Organic Search,2023-12-25
+2498,DE,Email,2023-02-26
+2499,DE,Organic Search,2023-04-08
+2500,UK,Paid Social,2023-01-10
+2501,AU,Paid Social,2023-08-14
+2502,AU,Email,2023-06-10
+2503,UK,Organic Search,2023-08-03
+2504,DE,Organic Search,2023-03-19
+2505,US,Paid Social,2023-07-31
+2506,US,Email,2023-12-20
+2507,DE,Paid Social,2023-04-15
+2508,UK,Paid Social,2023-07-30
+2509,AU,Paid Social,2023-09-14
+2510,DE,Email,2023-11-10
+2511,US,Email,2023-08-30
+2512,DE,Referral,2023-02-01
+2513,UK,Organic Search,2023-12-28
+2514,UK,Organic Search,2023-03-12
+2515,CA,Paid Social,2023-09-23
+2516,DE,Email,2023-04-17
+2517,US,Organic Search,2023-10-15
+2518,UK,Organic Search,2023-06-16
+2519,CA,Direct,2023-12-06
+2520,CA,Organic Search,2023-09-02
+2521,CA,Paid Social,2023-09-27
+2522,US,Paid Social,2023-07-12
+2523,US,Paid Social,2023-06-10
+2524,US,Direct,2023-03-30
+2525,AU,Paid Social,2023-08-24
+2526,US,Paid Social,2023-09-30
+2527,US,Paid Social,2023-06-25
+2528,DE,Paid Social,2023-10-07
+2529,US,Paid Social,2023-07-01
+2530,DE,Organic Search,2023-12-13
+2531,CA,Organic Search,2023-12-15
+2532,AU,Organic Search,2023-11-26
+2533,US,Organic Search,2023-12-21
+2534,US,Paid Social,2023-05-16
+2535,CA,Email,2023-11-09
+2536,AU,Direct,2023-09-05
+2537,CA,Direct,2023-04-09
+2538,US,Paid Social,2023-05-07
+2539,AU,Paid Social,2023-05-23
+2540,AU,Paid Social,2023-10-13
+2541,CA,Organic Search,2023-06-02
+2542,AU,Organic Search,2023-04-26
+2543,AU,Paid Social,2023-06-02
+2544,CA,Referral,2023-05-28
+2545,US,Organic Search,2023-12-27
+2546,UK,Organic Search,2023-04-17
+2547,US,Direct,2023-12-20
+2548,UK,Organic Search,2023-12-27
+2549,UK,Email,2023-09-08
+2550,US,Direct,2023-06-12
+2551,US,Email,2023-09-03
+2552,US,Paid Social,2023-06-28
+2553,AU,Paid Social,2023-10-14
+2554,DE,Paid Social,2023-05-21
+2555,US,Paid Social,2023-05-28
+2556,DE,Paid Social,2023-03-04
+2557,UK,Organic Search,2023-10-21
+2558,US,Paid Social,2023-12-13
+2559,US,Paid Social,2023-10-06
+2560,UK,Email,2023-07-14
+2561,AU,Direct,2023-07-22
+2562,CA,Paid Social,2023-06-26
+2563,US,Organic Search,2023-03-16
+2564,US,Direct,2023-05-29
+2565,UK,Paid Social,2023-01-22
+2566,US,Email,2023-05-28
+2567,US,Email,2023-02-10
+2568,US,Organic Search,2023-06-27
+2569,AU,Email,2023-08-15
+2570,DE,Organic Search,2023-12-02
+2571,UK,Paid Social,2023-05-12
+2572,DE,Paid Social,2023-09-03
+2573,US,Organic Search,2023-04-20
+2574,UK,Direct,2023-04-14
+2575,US,Organic Search,2023-10-03
+2576,CA,Organic Search,2023-05-19
+2577,DE,Paid Social,2023-10-15
+2578,CA,Direct,2023-12-23
+2579,US,Email,2023-05-20
+2580,CA,Direct,2023-03-12
+2581,US,Paid Social,2023-02-25
+2582,DE,Paid Social,2023-11-12
+2583,UK,Organic Search,2023-10-28
+2584,UK,Organic Search,2023-05-03
+2585,UK,Paid Social,2023-05-05
+2586,CA,Paid Social,2023-01-26
+2587,US,Paid Social,2023-12-09
+2588,CA,Direct,2023-09-29
+2589,US,Paid Social,2023-04-26
+2590,CA,Organic Search,2023-11-23
+2591,AU,Organic Search,2023-04-30
+2592,AU,Email,2023-01-27
+2593,UK,Direct,2023-02-21
+2594,UK,Email,2023-07-31
+2595,US,Organic Search,2023-06-19
+2596,AU,Referral,2023-08-30
+2597,US,Organic Search,2023-02-21
+2598,UK,Organic Search,2023-12-15
+2599,US,Referral,2023-03-12
+2600,US,Organic Search,2023-01-03
+2601,CA,Paid Social,2023-10-09
+2602,US,Organic Search,2023-03-22
+2603,CA,Paid Social,2023-07-28
+2604,US,Email,2023-12-01
+2605,US,Paid Social,2023-09-01
+2606,UK,Paid Social,2023-09-02
+2607,US,Organic Search,2023-11-30
+2608,US,Paid Social,2023-04-13
+2609,CA,Paid Social,2023-05-28
+2610,US,Organic Search,2023-06-14
+2611,AU,Paid Social,2023-05-27
+2612,US,Organic Search,2023-11-27
+2613,US,Email,2023-01-31
+2614,CA,Paid Social,2023-02-15
+2615,US,Organic Search,2023-11-30
+2616,US,Paid Social,2023-10-21
+2617,US,Paid Social,2023-04-29
+2618,US,Direct,2023-10-01
+2619,AU,Referral,2023-01-20
+2620,US,Paid Social,2023-03-31
+2621,AU,Email,2023-08-02
+2622,DE,Paid Social,2023-04-01
+2623,UK,Organic Search,2023-01-19
+2624,DE,Paid Social,2023-07-23
+2625,US,Paid Social,2023-09-11
+2626,DE,Paid Social,2023-04-06
+2627,US,Email,2023-05-29
+2628,CA,Paid Social,2023-01-20
+2629,UK,Email,2023-01-05
+2630,US,Direct,2023-06-02
+2631,CA,Paid Social,2023-10-18
+2632,CA,Paid Social,2023-11-05
+2633,US,Paid Social,2023-02-24
+2634,US,Referral,2023-06-21
+2635,CA,Paid Social,2023-05-26
+2636,CA,Organic Search,2023-08-21
+2637,DE,Paid Social,2023-11-25
+2638,AU,Paid Social,2023-10-06
+2639,DE,Organic Search,2023-09-26
+2640,CA,Organic Search,2023-09-10
+2641,US,Paid Social,2023-03-10
+2642,US,Paid Social,2023-09-16
+2643,AU,Paid Social,2023-08-28
+2644,CA,Organic Search,2023-05-20
+2645,US,Organic Search,2023-04-09
+2646,US,Paid Social,2023-02-27
+2647,DE,Paid Social,2023-06-19
+2648,UK,Organic Search,2023-03-25
+2649,UK,Paid Social,2023-08-23
+2650,UK,Paid Social,2023-11-28
+2651,US,Organic Search,2023-05-12
+2652,US,Organic Search,2023-04-06
+2653,US,Organic Search,2023-01-08
+2654,US,Email,2023-06-22
+2655,AU,Direct,2023-06-01
+2656,UK,Direct,2023-10-18
+2657,AU,Direct,2023-12-12
+2658,DE,Paid Social,2023-04-09
+2659,US,Paid Social,2023-03-31
+2660,CA,Paid Social,2023-11-09
+2661,UK,Organic Search,2023-11-24
+2662,DE,Paid Social,2023-07-27
+2663,US,Direct,2023-08-07
+2664,CA,Paid Social,2023-09-21
+2665,CA,Paid Social,2023-06-17
+2666,US,Organic Search,2023-02-14
+2667,US,Paid Social,2023-07-25
+2668,CA,Paid Social,2023-12-09
+2669,CA,Email,2023-02-18
+2670,US,Paid Social,2023-04-05
+2671,CA,Direct,2023-03-13
+2672,US,Paid Social,2023-09-02
+2673,CA,Email,2023-06-15
+2674,US,Paid Social,2023-05-08
+2675,DE,Paid Social,2023-01-04
+2676,US,Paid Social,2023-05-14
+2677,US,Direct,2023-07-16
+2678,US,Referral,2023-05-01
+2679,US,Organic Search,2023-08-17
+2680,UK,Organic Search,2023-05-17
+2681,US,Email,2023-06-18
+2682,AU,Paid Social,2023-06-04
+2683,US,Paid Social,2023-10-26
+2684,US,Paid Social,2023-10-21
+2685,US,Organic Search,2023-01-06
+2686,US,Direct,2023-05-14
+2687,US,Direct,2023-12-01
+2688,UK,Paid Social,2023-07-04
+2689,UK,Paid Social,2023-12-21
+2690,UK,Email,2023-05-01
+2691,UK,Organic Search,2023-02-01
+2692,UK,Email,2023-12-08
+2693,US,Organic Search,2023-03-02
+2694,UK,Paid Social,2023-08-27
+2695,DE,Email,2023-06-07
+2696,UK,Paid Social,2023-03-23
+2697,CA,Paid Social,2023-07-27
+2698,US,Paid Social,2023-12-18
+2699,AU,Paid Social,2023-09-15
+2700,AU,Organic Search,2023-12-27
+2701,UK,Referral,2023-06-09
+2702,DE,Direct,2023-12-20
+2703,US,Paid Social,2023-03-02
+2704,US,Paid Social,2023-11-24
+2705,AU,Organic Search,2023-06-01
+2706,AU,Organic Search,2023-07-08
+2707,US,Paid Social,2023-11-11
+2708,US,Direct,2023-04-24
+2709,US,Paid Social,2023-04-23
+2710,US,Email,2023-03-10
+2711,AU,Organic Search,2023-09-02
+2712,UK,Paid Social,2023-03-20
+2713,US,Organic Search,2023-08-21
+2714,US,Paid Social,2023-11-07
+2715,US,Organic Search,2023-07-11
+2716,US,Referral,2023-08-01
+2717,CA,Organic Search,2023-12-26
+2718,DE,Email,2023-10-09
+2719,AU,Paid Social,2023-08-30
+2720,US,Referral,2023-10-03
+2721,DE,Paid Social,2023-12-07
+2722,AU,Email,2023-04-22
+2723,AU,Organic Search,2023-05-07
+2724,UK,Direct,2023-12-15
+2725,US,Email,2023-11-02
+2726,US,Organic Search,2023-02-11
+2727,US,Organic Search,2023-09-27
+2728,US,Paid Social,2023-08-17
+2729,US,Email,2023-09-28
+2730,UK,Paid Social,2023-12-27
+2731,CA,Paid Social,2023-07-05
+2732,UK,Organic Search,2023-02-09
+2733,US,Organic Search,2023-10-16
+2734,DE,Email,2023-02-27
+2735,DE,Organic Search,2023-02-01
+2736,AU,Paid Social,2023-10-08
+2737,DE,Email,2023-09-16
+2738,UK,Organic Search,2023-04-14
+2739,DE,Paid Social,2023-10-21
+2740,US,Organic Search,2023-10-02
+2741,US,Paid Social,2023-03-18
+2742,US,Organic Search,2023-03-26
+2743,US,Direct,2023-06-17
+2744,US,Paid Social,2023-09-24
+2745,CA,Paid Social,2023-08-15
+2746,AU,Paid Social,2023-03-01
+2747,UK,Organic Search,2023-12-15
+2748,US,Direct,2023-04-16
+2749,AU,Paid Social,2023-10-26
+2750,CA,Paid Social,2023-09-08
+2751,US,Organic Search,2023-02-16
+2752,CA,Paid Social,2023-09-19
+2753,US,Organic Search,2023-08-17
+2754,US,Paid Social,2023-01-29
+2755,DE,Organic Search,2023-08-21
+2756,US,Direct,2023-03-09
+2757,UK,Organic Search,2023-09-20
+2758,DE,Email,2023-08-01
+2759,CA,Email,2023-08-22
+2760,US,Organic Search,2023-10-16
+2761,US,Paid Social,2023-01-30
+2762,US,Organic Search,2023-10-14
+2763,CA,Paid Social,2023-08-25
+2764,UK,Direct,2023-12-11
+2765,US,Paid Social,2023-06-07
+2766,DE,Paid Social,2023-01-12
+2767,UK,Organic Search,2023-07-22
+2768,US,Paid Social,2023-05-11
+2769,UK,Organic Search,2023-01-02
+2770,CA,Direct,2023-04-22
+2771,US,Paid Social,2023-10-24
+2772,US,Direct,2023-02-07
+2773,AU,Organic Search,2023-01-24
+2774,UK,Paid Social,2023-08-05
+2775,UK,Paid Social,2023-06-26
+2776,UK,Organic Search,2023-12-25
+2777,US,Paid Social,2023-02-02
+2778,US,Email,2023-10-05
+2779,UK,Email,2023-01-31
+2780,US,Paid Social,2023-02-05
+2781,US,Paid Social,2023-08-30
+2782,AU,Organic Search,2023-01-17
+2783,DE,Email,2023-05-27
+2784,AU,Organic Search,2023-07-29
+2785,DE,Email,2023-04-03
+2786,US,Paid Social,2023-03-11
+2787,DE,Paid Social,2023-11-25
+2788,US,Email,2023-11-27
+2789,DE,Organic Search,2023-08-04
+2790,DE,Paid Social,2023-07-11
+2791,CA,Paid Social,2023-07-15
+2792,DE,Organic Search,2023-08-18
+2793,UK,Paid Social,2023-07-13
+2794,US,Paid Social,2023-07-12
+2795,UK,Direct,2023-02-11
+2796,UK,Organic Search,2023-12-16
+2797,US,Email,2023-12-05
+2798,CA,Organic Search,2023-10-04
+2799,DE,Organic Search,2023-03-10
+2800,US,Organic Search,2023-12-01
+2801,AU,Organic Search,2023-06-28
+2802,DE,Organic Search,2023-03-02
+2803,DE,Referral,2023-04-02
+2804,DE,Paid Social,2023-10-03
+2805,UK,Organic Search,2023-07-21
+2806,DE,Organic Search,2023-09-28
+2807,AU,Direct,2023-03-07
+2808,US,Email,2023-04-25
+2809,UK,Organic Search,2023-01-02
+2810,CA,Organic Search,2023-01-12
+2811,US,Organic Search,2023-06-02
+2812,CA,Organic Search,2023-08-26
+2813,CA,Organic Search,2023-12-11
+2814,US,Paid Social,2023-10-06
+2815,UK,Organic Search,2023-08-06
+2816,AU,Paid Social,2023-09-30
+2817,UK,Organic Search,2023-07-14
+2818,US,Email,2023-04-28
+2819,US,Email,2023-05-07
+2820,US,Paid Social,2023-08-24
+2821,DE,Paid Social,2023-06-27
+2822,US,Paid Social,2023-03-21
+2823,CA,Paid Social,2023-05-22
+2824,US,Direct,2023-04-07
+2825,US,Paid Social,2023-02-27
+2826,AU,Email,2023-01-17
+2827,CA,Email,2023-12-05
+2828,US,Paid Social,2023-08-03
+2829,UK,Paid Social,2023-11-11
+2830,US,Organic Search,2023-01-09
+2831,UK,Organic Search,2023-05-04
+2832,CA,Paid Social,2023-04-16
+2833,US,Organic Search,2023-02-04
+2834,US,Email,2023-02-21
+2835,US,Organic Search,2023-11-01
+2836,DE,Paid Social,2023-01-18
+2837,DE,Paid Social,2023-08-17
+2838,US,Paid Social,2023-11-03
+2839,AU,Paid Social,2023-12-11
+2840,US,Email,2023-12-27
+2841,US,Paid Social,2023-01-25
+2842,AU,Paid Social,2023-05-06
+2843,DE,Organic Search,2023-01-23
+2844,DE,Paid Social,2023-07-25
+2845,UK,Email,2023-08-13
+2846,US,Paid Social,2023-04-30
+2847,AU,Email,2023-10-04
+2848,US,Paid Social,2023-04-22
+2849,UK,Organic Search,2023-01-29
+2850,US,Organic Search,2023-03-13
+2851,CA,Paid Social,2023-09-15
+2852,US,Paid Social,2023-05-29
+2853,US,Direct,2023-04-30
+2854,DE,Organic Search,2023-10-22
+2855,US,Paid Social,2023-06-13
+2856,UK,Paid Social,2023-10-23
+2857,US,Paid Social,2023-11-03
+2858,US,Organic Search,2023-12-11
+2859,US,Organic Search,2023-06-14
+2860,US,Organic Search,2023-05-02
+2861,DE,Organic Search,2023-06-04
+2862,US,Organic Search,2023-03-15
+2863,DE,Organic Search,2023-12-05
+2864,UK,Paid Social,2023-09-24
+2865,UK,Paid Social,2023-04-24
+2866,UK,Referral,2023-07-31
+2867,UK,Organic Search,2023-06-03
+2868,AU,Paid Social,2023-05-21
+2869,US,Paid Social,2023-02-01
+2870,US,Organic Search,2023-10-13
+2871,DE,Email,2023-10-30
+2872,DE,Organic Search,2023-03-31
+2873,DE,Email,2023-11-17
+2874,UK,Email,2023-12-14
+2875,AU,Paid Social,2023-08-07
+2876,UK,Paid Social,2023-10-12
+2877,UK,Paid Social,2023-09-11
+2878,US,Paid Social,2023-01-25
+2879,UK,Paid Social,2023-06-26
+2880,US,Organic Search,2023-11-26
+2881,US,Organic Search,2023-12-10
+2882,DE,Paid Social,2023-07-15
+2883,US,Paid Social,2023-09-26
+2884,US,Email,2023-06-13
+2885,US,Organic Search,2023-12-23
+2886,DE,Email,2023-08-02
+2887,UK,Organic Search,2023-07-29
+2888,UK,Paid Social,2023-03-18
+2889,AU,Paid Social,2023-06-03
+2890,AU,Paid Social,2023-07-12
+2891,US,Organic Search,2023-04-05
+2892,CA,Paid Social,2023-10-03
+2893,AU,Email,2023-08-31
+2894,CA,Paid Social,2023-05-04
+2895,US,Paid Social,2023-04-26
+2896,DE,Email,2023-06-03
+2897,UK,Direct,2023-12-29
+2898,US,Paid Social,2023-03-15
+2899,UK,Organic Search,2023-08-26
+2900,US,Email,2023-01-30
+2901,US,Paid Social,2023-10-15
+2902,AU,Organic Search,2023-07-31
+2903,US,Organic Search,2023-08-02
+2904,UK,Email,2023-10-13
+2905,UK,Organic Search,2023-09-29
+2906,US,Referral,2023-03-10
+2907,DE,Organic Search,2023-07-18
+2908,US,Direct,2023-05-05
+2909,US,Paid Social,2023-05-11
+2910,US,Paid Social,2023-04-15
+2911,US,Email,2023-06-19
+2912,US,Paid Social,2023-11-28
+2913,CA,Paid Social,2023-02-10
+2914,DE,Organic Search,2023-08-19
+2915,US,Organic Search,2023-07-09
+2916,CA,Organic Search,2023-02-17
+2917,CA,Paid Social,2023-10-02
+2918,AU,Organic Search,2023-04-08
+2919,UK,Organic Search,2023-01-27
+2920,US,Paid Social,2023-05-18
+2921,US,Paid Social,2023-07-13
+2922,CA,Direct,2023-12-11
+2923,AU,Organic Search,2023-11-06
+2924,US,Organic Search,2023-11-05
+2925,US,Email,2023-01-21
+2926,DE,Organic Search,2023-02-07
+2927,AU,Email,2023-04-07
+2928,DE,Email,2023-10-28
+2929,AU,Direct,2023-12-10
+2930,US,Organic Search,2023-10-14
+2931,UK,Email,2023-04-22
+2932,CA,Direct,2023-09-03
+2933,US,Paid Social,2023-04-17
+2934,UK,Paid Social,2023-06-20
+2935,CA,Organic Search,2023-06-05
+2936,US,Organic Search,2023-01-08
+2937,AU,Paid Social,2023-04-19
+2938,UK,Paid Social,2023-04-08
+2939,DE,Paid Social,2023-03-02
+2940,US,Paid Social,2023-09-03
+2941,US,Paid Social,2023-05-05
+2942,CA,Paid Social,2023-12-23
+2943,US,Email,2023-11-06
+2944,CA,Organic Search,2023-12-27
+2945,AU,Paid Social,2023-04-15
+2946,US,Organic Search,2023-07-23
+2947,UK,Paid Social,2023-05-03
+2948,UK,Direct,2023-10-10
+2949,US,Email,2023-06-14
+2950,DE,Organic Search,2023-05-25
+2951,AU,Referral,2023-07-14
+2952,CA,Organic Search,2023-08-27
+2953,CA,Paid Social,2023-10-01
+2954,UK,Organic Search,2023-11-29
+2955,DE,Email,2023-07-03
+2956,CA,Paid Social,2023-06-07
+2957,CA,Paid Social,2023-05-14
+2958,DE,Email,2023-07-04
+2959,US,Organic Search,2023-09-20
+2960,AU,Organic Search,2023-09-12
+2961,US,Email,2023-08-27
+2962,US,Paid Social,2023-02-20
+2963,US,Organic Search,2023-08-29
+2964,DE,Paid Social,2023-06-13
+2965,DE,Paid Social,2023-04-15
+2966,CA,Organic Search,2023-07-09
+2967,CA,Organic Search,2023-06-10
+2968,UK,Organic Search,2023-07-31
+2969,DE,Paid Social,2023-01-24
+2970,UK,Email,2023-10-16
+2971,US,Referral,2023-04-24
+2972,US,Paid Social,2023-03-16
+2973,AU,Organic Search,2023-01-09
+2974,CA,Email,2023-05-14
+2975,US,Paid Social,2023-10-11
+2976,US,Organic Search,2023-10-27
+2977,AU,Email,2023-10-24
+2978,US,Direct,2023-08-02
+2979,CA,Direct,2023-06-01
+2980,DE,Direct,2023-03-20
+2981,UK,Organic Search,2023-04-11
+2982,US,Organic Search,2023-06-18
+2983,CA,Paid Social,2023-04-28
+2984,AU,Organic Search,2023-07-14
+2985,UK,Paid Social,2023-10-19
+2986,DE,Direct,2023-05-06
+2987,US,Direct,2023-09-13
+2988,UK,Paid Social,2023-10-09
+2989,CA,Direct,2023-12-02
+2990,DE,Email,2023-12-17
+2991,US,Paid Social,2023-06-22
+2992,AU,Organic Search,2023-05-12
+2993,UK,Organic Search,2023-09-08
+2994,US,Paid Social,2023-11-25
+2995,US,Organic Search,2023-09-09
+2996,DE,Organic Search,2023-08-24
+2997,US,Organic Search,2023-03-28
+2998,US,Paid Social,2023-06-30
+2999,US,Email,2023-03-28
+3000,DE,Organic Search,2023-03-13
+3001,CA,Direct,2023-10-07
+3002,AU,Paid Social,2023-09-08
+3003,US,Organic Search,2023-04-05
+3004,CA,Email,2023-10-05
+3005,UK,Paid Social,2023-11-25
+3006,AU,Paid Social,2023-01-31
+3007,DE,Direct,2023-09-26
+3008,US,Organic Search,2023-01-18
+3009,CA,Paid Social,2023-02-08
+3010,US,Organic Search,2023-12-09
+3011,UK,Email,2023-01-25
+3012,US,Paid Social,2023-01-04
+3013,US,Paid Social,2023-07-31
+3014,US,Organic Search,2023-03-12
+3015,CA,Paid Social,2023-11-19
+3016,US,Direct,2023-04-29
+3017,CA,Paid Social,2023-02-04
+3018,UK,Paid Social,2023-12-29
+3019,US,Paid Social,2023-03-19
+3020,AU,Email,2023-01-05
+3021,US,Paid Social,2023-04-22
+3022,UK,Email,2023-09-16
+3023,CA,Email,2023-08-22
+3024,US,Paid Social,2023-07-11
+3025,US,Organic Search,2023-01-31
+3026,US,Paid Social,2023-11-13
+3027,DE,Email,2023-11-23
+3028,CA,Organic Search,2023-12-08
+3029,CA,Paid Social,2023-11-12
+3030,CA,Email,2023-09-05
+3031,US,Paid Social,2023-12-04
+3032,UK,Paid Social,2023-09-07
+3033,AU,Organic Search,2023-01-09
+3034,US,Organic Search,2023-01-04
+3035,US,Direct,2023-09-30
+3036,US,Organic Search,2023-10-10
+3037,UK,Organic Search,2023-07-30
+3038,DE,Email,2023-01-07
+3039,US,Paid Social,2023-01-09
+3040,UK,Referral,2023-09-29
+3041,US,Referral,2023-05-21
+3042,DE,Organic Search,2023-10-02
+3043,US,Organic Search,2023-05-27
+3044,UK,Direct,2023-01-09
+3045,CA,Paid Social,2023-09-15
+3046,CA,Organic Search,2023-12-24
+3047,UK,Direct,2023-12-12
+3048,US,Organic Search,2023-08-09
+3049,US,Email,2023-04-02
+3050,US,Organic Search,2023-02-24
+3051,US,Organic Search,2023-02-19
+3052,UK,Organic Search,2023-09-26
+3053,US,Referral,2023-03-18
+3054,US,Paid Social,2023-05-04
+3055,CA,Email,2023-04-09
+3056,DE,Paid Social,2023-11-14
+3057,CA,Paid Social,2023-09-27
+3058,US,Organic Search,2023-05-10
+3059,US,Paid Social,2023-07-01
+3060,DE,Paid Social,2023-05-17
+3061,US,Paid Social,2023-07-23
+3062,US,Organic Search,2023-02-10
+3063,UK,Email,2023-07-11
+3064,CA,Organic Search,2023-07-27
+3065,CA,Referral,2023-08-24
+3066,US,Organic Search,2023-10-17
+3067,US,Paid Social,2023-05-05
+3068,DE,Paid Social,2023-12-23
+3069,US,Paid Social,2023-04-26
+3070,CA,Paid Social,2023-06-03
+3071,CA,Paid Social,2023-12-17
+3072,CA,Paid Social,2023-02-11
+3073,US,Direct,2023-12-01
+3074,US,Paid Social,2023-11-29
+3075,UK,Email,2023-01-17
+3076,DE,Organic Search,2023-02-17
+3077,DE,Paid Social,2023-07-27
+3078,US,Paid Social,2023-07-14
+3079,US,Paid Social,2023-07-13
+3080,DE,Paid Social,2023-10-10
+3081,CA,Paid Social,2023-09-01
+3082,DE,Organic Search,2023-01-29
+3083,US,Organic Search,2023-11-23
+3084,UK,Organic Search,2023-01-05
+3085,CA,Paid Social,2023-12-26
+3086,CA,Paid Social,2023-03-29
+3087,UK,Referral,2023-02-12
+3088,US,Direct,2023-09-13
+3089,UK,Organic Search,2023-08-11
+3090,US,Email,2023-11-27
+3091,UK,Email,2023-06-19
+3092,DE,Paid Social,2023-10-17
+3093,US,Paid Social,2023-02-18
+3094,AU,Referral,2023-09-28
+3095,US,Paid Social,2023-01-22
+3096,CA,Email,2023-04-28
+3097,DE,Organic Search,2023-04-19
+3098,US,Organic Search,2023-12-21
+3099,US,Paid Social,2023-10-18
+3100,UK,Paid Social,2023-09-01
+3101,US,Email,2023-05-19
+3102,CA,Referral,2023-01-24
+3103,DE,Paid Social,2023-02-08
+3104,UK,Organic Search,2023-12-17
+3105,US,Email,2023-05-24
+3106,UK,Paid Social,2023-10-06
+3107,CA,Organic Search,2023-10-16
+3108,US,Paid Social,2023-12-03
+3109,UK,Direct,2023-01-17
+3110,CA,Direct,2023-04-02
+3111,CA,Paid Social,2023-06-11
+3112,US,Paid Social,2023-01-09
+3113,CA,Referral,2023-04-17
+3114,US,Paid Social,2023-10-28
+3115,US,Paid Social,2023-03-15
+3116,DE,Organic Search,2023-12-31
+3117,CA,Direct,2023-07-23
+3118,US,Organic Search,2023-02-09
+3119,US,Organic Search,2023-06-03
+3120,US,Paid Social,2023-03-25
+3121,US,Organic Search,2023-10-16
+3122,US,Paid Social,2023-05-04
+3123,US,Organic Search,2023-10-18
+3124,UK,Paid Social,2023-07-19
+3125,CA,Organic Search,2023-12-13
+3126,CA,Organic Search,2023-10-04
+3127,CA,Organic Search,2023-06-19
+3128,US,Email,2023-07-16
+3129,DE,Email,2023-03-13
+3130,AU,Organic Search,2023-12-19
+3131,AU,Direct,2023-02-10
+3132,AU,Paid Social,2023-09-14
+3133,DE,Referral,2023-06-27
+3134,UK,Paid Social,2023-01-28
+3135,US,Paid Social,2023-02-20
+3136,CA,Organic Search,2023-08-12
+3137,CA,Paid Social,2023-04-29
+3138,CA,Referral,2023-02-08
+3139,UK,Paid Social,2023-06-24
+3140,US,Organic Search,2023-11-06
+3141,US,Organic Search,2023-11-11
+3142,DE,Direct,2023-11-01
+3143,UK,Paid Social,2023-07-23
+3144,UK,Paid Social,2023-06-17
+3145,US,Referral,2023-01-16
+3146,US,Organic Search,2023-11-21
+3147,DE,Paid Social,2023-05-20
+3148,CA,Email,2023-08-19
+3149,AU,Paid Social,2023-09-09
+3150,UK,Organic Search,2023-04-27
+3151,CA,Paid Social,2023-07-02
+3152,US,Email,2023-10-11
+3153,CA,Organic Search,2023-07-12
+3154,UK,Email,2023-08-10
+3155,UK,Direct,2023-04-06
+3156,CA,Organic Search,2023-12-15
+3157,DE,Direct,2023-10-27
+3158,US,Paid Social,2023-12-05
+3159,AU,Paid Social,2023-07-14
+3160,US,Direct,2023-02-13
+3161,UK,Referral,2023-11-13
+3162,US,Organic Search,2023-06-01
+3163,US,Paid Social,2023-05-07
+3164,UK,Paid Social,2023-02-07
+3165,US,Paid Social,2023-02-12
+3166,UK,Paid Social,2023-05-18
+3167,DE,Organic Search,2023-03-20
+3168,US,Paid Social,2023-07-14
+3169,AU,Paid Social,2023-12-31
+3170,UK,Organic Search,2023-11-21
+3171,CA,Email,2023-03-20
+3172,US,Email,2023-07-19
+3173,US,Paid Social,2023-06-12
+3174,US,Organic Search,2023-07-04
+3175,US,Paid Social,2023-02-24
+3176,US,Organic Search,2023-02-16
+3177,CA,Organic Search,2023-01-03
+3178,DE,Direct,2023-06-07
+3179,AU,Organic Search,2023-08-16
+3180,CA,Organic Search,2023-07-04
+3181,US,Organic Search,2023-05-19
+3182,US,Organic Search,2023-02-22
+3183,US,Organic Search,2023-03-09
+3184,US,Referral,2023-02-14
+3185,UK,Organic Search,2023-04-06
+3186,UK,Organic Search,2023-08-09
+3187,US,Organic Search,2023-08-18
+3188,US,Email,2023-10-13
+3189,AU,Paid Social,2023-10-12
+3190,AU,Paid Social,2023-09-20
+3191,US,Email,2023-07-28
+3192,DE,Paid Social,2023-02-22
+3193,DE,Paid Social,2023-01-14
+3194,US,Organic Search,2023-02-15
+3195,US,Paid Social,2023-07-01
+3196,UK,Paid Social,2023-10-11
+3197,DE,Paid Social,2023-02-17
+3198,DE,Organic Search,2023-11-02
+3199,US,Paid Social,2023-11-03
+3200,US,Organic Search,2023-06-16
+3201,UK,Organic Search,2023-07-17
+3202,UK,Paid Social,2023-01-07
+3203,US,Email,2023-05-30
+3204,DE,Paid Social,2023-07-31
+3205,CA,Paid Social,2023-07-18
+3206,AU,Organic Search,2023-02-13
+3207,DE,Organic Search,2023-10-14
+3208,CA,Organic Search,2023-05-05
+3209,UK,Paid Social,2023-10-20
+3210,CA,Organic Search,2023-09-24
+3211,US,Organic Search,2023-03-28
+3212,CA,Direct,2023-12-17
+3213,US,Organic Search,2023-07-14
+3214,CA,Paid Social,2023-03-28
+3215,US,Paid Social,2023-03-13
+3216,US,Paid Social,2023-05-18
+3217,US,Paid Social,2023-06-04
+3218,US,Paid Social,2023-05-18
+3219,CA,Organic Search,2023-09-10
+3220,CA,Direct,2023-03-16
+3221,UK,Email,2023-02-02
+3222,US,Organic Search,2023-03-27
+3223,US,Organic Search,2023-08-11
+3224,US,Email,2023-05-22
+3225,US,Paid Social,2023-08-04
+3226,DE,Paid Social,2023-06-03
+3227,US,Paid Social,2023-09-05
+3228,US,Organic Search,2023-02-09
+3229,US,Paid Social,2023-07-04
+3230,US,Paid Social,2023-05-09
+3231,UK,Organic Search,2023-05-07
+3232,CA,Paid Social,2023-11-17
+3233,US,Direct,2023-09-11
+3234,US,Paid Social,2023-11-01
+3235,US,Organic Search,2023-11-12
+3236,US,Paid Social,2023-04-11
+3237,US,Direct,2023-08-23
+3238,DE,Direct,2023-02-24
+3239,CA,Paid Social,2023-03-11
+3240,UK,Organic Search,2023-06-05
+3241,UK,Direct,2023-01-04
+3242,UK,Paid Social,2023-07-22
+3243,UK,Organic Search,2023-06-20
+3244,CA,Paid Social,2023-11-14
+3245,CA,Paid Social,2023-07-14
+3246,US,Paid Social,2023-06-18
+3247,UK,Organic Search,2023-08-14
+3248,UK,Paid Social,2023-06-21
+3249,DE,Email,2023-08-09
+3250,CA,Direct,2023-11-30
+3251,UK,Email,2023-11-01
+3252,US,Referral,2023-03-11
+3253,CA,Organic Search,2023-06-03
+3254,US,Paid Social,2023-06-14
+3255,US,Paid Social,2023-11-05
+3256,US,Email,2023-12-22
+3257,CA,Organic Search,2023-04-13
+3258,US,Referral,2023-09-03
+3259,US,Paid Social,2023-06-10
+3260,DE,Direct,2023-04-01
+3261,US,Organic Search,2023-07-23
+3262,UK,Organic Search,2023-06-13
+3263,UK,Direct,2023-05-30
+3264,US,Organic Search,2023-12-22
+3265,AU,Email,2023-11-21
+3266,US,Organic Search,2023-09-09
+3267,UK,Paid Social,2023-10-22
+3268,UK,Paid Social,2023-05-05
+3269,CA,Paid Social,2023-06-16
+3270,CA,Paid Social,2023-07-12
+3271,US,Paid Social,2023-05-24
+3272,US,Organic Search,2023-07-21
+3273,CA,Organic Search,2023-07-06
+3274,UK,Paid Social,2023-02-28
+3275,AU,Paid Social,2023-10-16
+3276,AU,Direct,2023-04-13
+3277,AU,Paid Social,2023-10-31
+3278,UK,Paid Social,2023-10-07
+3279,US,Paid Social,2023-04-03
+3280,AU,Organic Search,2023-12-16
+3281,UK,Paid Social,2023-10-09
+3282,US,Referral,2023-01-14
+3283,DE,Email,2023-08-25
+3284,DE,Paid Social,2023-12-29
+3285,UK,Paid Social,2023-04-18
+3286,US,Email,2023-08-13
+3287,US,Paid Social,2023-05-30
+3288,AU,Organic Search,2023-12-21
+3289,DE,Organic Search,2023-02-05
+3290,US,Paid Social,2023-07-29
+3291,US,Referral,2023-12-11
+3292,DE,Paid Social,2023-09-13
+3293,US,Organic Search,2023-03-13
+3294,UK,Organic Search,2023-11-21
+3295,DE,Direct,2023-06-05
+3296,US,Email,2023-05-04
+3297,CA,Paid Social,2023-05-10
+3298,US,Paid Social,2023-12-04
+3299,US,Organic Search,2023-03-20
+3300,AU,Email,2023-08-05
+3301,UK,Direct,2023-07-13
+3302,DE,Organic Search,2023-02-07
+3303,UK,Direct,2023-08-18
+3304,US,Organic Search,2023-11-03
+3305,US,Organic Search,2023-09-03
+3306,US,Organic Search,2023-10-26
+3307,US,Organic Search,2023-07-25
+3308,US,Paid Social,2023-10-01
+3309,US,Paid Social,2023-09-17
+3310,UK,Paid Social,2023-12-21
+3311,CA,Paid Social,2023-08-03
+3312,CA,Organic Search,2023-10-06
+3313,CA,Organic Search,2023-01-19
+3314,US,Paid Social,2023-07-04
+3315,US,Paid Social,2023-12-26
+3316,CA,Organic Search,2023-10-02
+3317,UK,Email,2023-11-01
+3318,US,Direct,2023-11-23
+3319,AU,Email,2023-02-13
+3320,AU,Paid Social,2023-02-25
+3321,UK,Organic Search,2023-05-08
+3322,US,Paid Social,2023-12-03
+3323,AU,Organic Search,2023-12-07
+3324,UK,Paid Social,2023-07-01
+3325,AU,Organic Search,2023-03-27
+3326,AU,Email,2023-11-28
+3327,AU,Organic Search,2023-11-10
+3328,UK,Email,2023-01-23
+3329,US,Email,2023-10-16
+3330,CA,Paid Social,2023-11-27
+3331,CA,Direct,2023-12-13
+3332,CA,Paid Social,2023-11-28
+3333,US,Email,2023-07-24
+3334,US,Paid Social,2023-06-19
+3335,DE,Direct,2023-08-09
+3336,CA,Paid Social,2023-02-24
+3337,DE,Email,2023-01-06
+3338,AU,Paid Social,2023-02-20
+3339,UK,Paid Social,2023-05-13
+3340,CA,Direct,2023-04-24
+3341,DE,Email,2023-09-19
+3342,UK,Paid Social,2023-09-23
+3343,CA,Organic Search,2023-10-13
+3344,US,Paid Social,2023-10-25
+3345,UK,Referral,2023-12-19
+3346,CA,Direct,2023-10-22
+3347,US,Email,2023-04-24
+3348,US,Organic Search,2023-08-17
+3349,US,Paid Social,2023-07-11
+3350,US,Paid Social,2023-07-20
+3351,US,Email,2023-08-26
+3352,UK,Organic Search,2023-12-14
+3353,DE,Email,2023-10-29
+3354,UK,Paid Social,2023-12-20
+3355,US,Organic Search,2023-09-14
+3356,US,Paid Social,2023-03-19
+3357,CA,Organic Search,2023-06-26
+3358,US,Paid Social,2023-01-13
+3359,AU,Organic Search,2023-09-05
+3360,CA,Organic Search,2023-02-23
+3361,AU,Email,2023-06-01
+3362,US,Organic Search,2023-08-01
+3363,CA,Organic Search,2023-02-13
+3364,US,Paid Social,2023-03-01
+3365,DE,Paid Social,2023-03-14
+3366,CA,Direct,2023-06-28
+3367,US,Paid Social,2023-06-09
+3368,US,Direct,2023-06-25
+3369,US,Paid Social,2023-08-22
+3370,CA,Organic Search,2023-04-16
+3371,US,Organic Search,2023-09-24
+3372,UK,Paid Social,2023-09-05
+3373,US,Paid Social,2023-06-28
+3374,CA,Direct,2023-09-01
+3375,AU,Paid Social,2023-02-19
+3376,AU,Paid Social,2023-08-13
+3377,AU,Organic Search,2023-12-23
+3378,US,Organic Search,2023-08-20
+3379,US,Paid Social,2023-06-13
+3380,CA,Paid Social,2023-02-04
+3381,US,Paid Social,2023-06-03
+3382,UK,Organic Search,2023-01-23
+3383,US,Paid Social,2023-12-30
+3384,US,Email,2023-02-28
+3385,US,Organic Search,2023-01-12
+3386,DE,Paid Social,2023-06-25
+3387,US,Referral,2023-11-28
+3388,UK,Paid Social,2023-02-25
+3389,US,Paid Social,2023-12-13
+3390,CA,Organic Search,2023-03-26
+3391,US,Paid Social,2023-05-05
+3392,DE,Organic Search,2023-09-22
+3393,DE,Referral,2023-03-31
+3394,US,Direct,2023-10-10
+3395,DE,Direct,2023-03-23
+3396,DE,Direct,2023-06-19
+3397,AU,Paid Social,2023-10-14
+3398,AU,Paid Social,2023-08-07
+3399,US,Email,2023-08-25
+3400,UK,Referral,2023-04-29
+3401,US,Paid Social,2023-07-27
+3402,US,Email,2023-11-19
+3403,DE,Paid Social,2023-04-05
+3404,US,Paid Social,2023-04-06
+3405,CA,Paid Social,2023-11-24
+3406,AU,Organic Search,2023-12-03
+3407,DE,Organic Search,2023-08-10
+3408,DE,Organic Search,2023-07-22
+3409,US,Paid Social,2023-01-15
+3410,US,Paid Social,2023-11-11
+3411,UK,Paid Social,2023-04-12
+3412,US,Referral,2023-08-19
+3413,US,Paid Social,2023-10-31
+3414,US,Paid Social,2023-08-08
+3415,AU,Organic Search,2023-07-19
+3416,UK,Organic Search,2023-01-03
+3417,US,Direct,2023-12-27
+3418,CA,Paid Social,2023-04-20
+3419,US,Direct,2023-04-16
+3420,US,Organic Search,2023-05-23
+3421,AU,Paid Social,2023-12-27
+3422,CA,Organic Search,2023-02-02
+3423,AU,Organic Search,2023-10-23
+3424,US,Organic Search,2023-02-22
+3425,AU,Organic Search,2023-10-02
+3426,CA,Paid Social,2023-04-06
+3427,UK,Organic Search,2023-07-07
+3428,CA,Referral,2023-06-16
+3429,DE,Paid Social,2023-04-11
+3430,UK,Organic Search,2023-08-23
+3431,UK,Organic Search,2023-02-28
+3432,DE,Paid Social,2023-05-15
+3433,AU,Organic Search,2023-12-10
+3434,UK,Email,2023-09-08
+3435,CA,Referral,2023-09-28
+3436,US,Organic Search,2023-11-24
+3437,US,Paid Social,2023-06-10
+3438,UK,Organic Search,2023-11-02
+3439,DE,Paid Social,2023-07-18
+3440,DE,Paid Social,2023-11-09
+3441,US,Organic Search,2023-07-20
+3442,UK,Organic Search,2023-10-28
+3443,US,Paid Social,2023-02-28
+3444,DE,Paid Social,2023-06-28
+3445,DE,Organic Search,2023-06-30
+3446,CA,Paid Social,2023-08-23
+3447,AU,Paid Social,2023-11-13
+3448,CA,Email,2023-03-30
+3449,UK,Organic Search,2023-12-11
+3450,US,Direct,2023-12-28
+3451,UK,Paid Social,2023-06-02
+3452,CA,Organic Search,2023-11-11
+3453,CA,Paid Social,2023-10-30
+3454,US,Paid Social,2023-02-13
+3455,DE,Email,2023-12-11
+3456,US,Organic Search,2023-03-10
+3457,UK,Paid Social,2023-06-10
+3458,CA,Paid Social,2023-03-02
+3459,CA,Referral,2023-05-03
+3460,CA,Paid Social,2023-06-06
+3461,US,Referral,2023-03-01
+3462,US,Email,2023-04-04
+3463,CA,Organic Search,2023-07-11
+3464,UK,Email,2023-12-22
+3465,US,Referral,2023-03-14
+3466,CA,Organic Search,2023-09-19
+3467,UK,Paid Social,2023-07-18
+3468,CA,Paid Social,2023-08-03
+3469,AU,Organic Search,2023-11-02
+3470,US,Organic Search,2023-03-12
+3471,US,Organic Search,2023-10-22
+3472,AU,Organic Search,2023-07-16
+3473,CA,Paid Social,2023-08-05
+3474,CA,Organic Search,2023-04-06
+3475,AU,Email,2023-09-07
+3476,AU,Direct,2023-11-22
+3477,DE,Organic Search,2023-10-03
+3478,UK,Paid Social,2023-12-22
+3479,UK,Paid Social,2023-11-27
+3480,UK,Referral,2023-03-30
+3481,US,Organic Search,2023-10-12
+3482,UK,Organic Search,2023-03-27
+3483,US,Email,2023-09-08
+3484,DE,Email,2023-05-28
+3485,UK,Direct,2023-03-13
+3486,UK,Direct,2023-04-06
+3487,US,Organic Search,2023-06-11
+3488,US,Paid Social,2023-08-19
+3489,US,Organic Search,2023-11-14
+3490,UK,Organic Search,2023-01-28
+3491,US,Email,2023-07-03
+3492,CA,Organic Search,2023-01-05
+3493,DE,Paid Social,2023-09-06
+3494,DE,Email,2023-03-11
+3495,CA,Organic Search,2023-04-10
+3496,US,Referral,2023-07-16
+3497,DE,Referral,2023-10-15
+3498,DE,Paid Social,2023-09-16
+3499,US,Organic Search,2023-12-01
+3500,CA,Paid Social,2023-09-11
+3501,US,Paid Social,2023-07-29
+3502,AU,Paid Social,2023-12-17
+3503,DE,Organic Search,2023-09-09
+3504,US,Referral,2023-08-01
+3505,DE,Organic Search,2023-12-30
+3506,CA,Direct,2023-08-16
+3507,DE,Organic Search,2023-09-08
+3508,UK,Paid Social,2023-03-27
+3509,AU,Email,2023-02-12
+3510,US,Organic Search,2023-10-17
+3511,US,Organic Search,2023-01-16
+3512,US,Paid Social,2023-04-23
+3513,DE,Direct,2023-05-30
+3514,AU,Paid Social,2023-01-17
+3515,DE,Paid Social,2023-05-21
+3516,DE,Organic Search,2023-04-26
+3517,US,Referral,2023-10-03
+3518,US,Email,2023-05-28
+3519,US,Paid Social,2023-03-28
+3520,US,Email,2023-08-23
+3521,US,Paid Social,2023-10-17
+3522,UK,Paid Social,2023-09-11
+3523,US,Organic Search,2023-10-09
+3524,US,Paid Social,2023-09-19
+3525,US,Paid Social,2023-02-27
+3526,US,Organic Search,2023-10-21
+3527,DE,Paid Social,2023-02-28
+3528,AU,Direct,2023-05-18
+3529,DE,Paid Social,2023-10-06
+3530,UK,Paid Social,2023-07-07
+3531,US,Email,2023-10-05
+3532,AU,Organic Search,2023-01-22
+3533,US,Paid Social,2023-08-14
+3534,US,Direct,2023-10-07
+3535,US,Paid Social,2023-04-22
+3536,US,Paid Social,2023-08-06
+3537,US,Organic Search,2023-02-22
+3538,US,Email,2023-12-01
+3539,CA,Paid Social,2023-05-07
+3540,US,Email,2023-06-02
+3541,US,Paid Social,2023-01-17
+3542,AU,Paid Social,2023-08-19
+3543,US,Email,2023-05-15
+3544,US,Paid Social,2023-06-28
+3545,DE,Paid Social,2023-02-14
+3546,US,Paid Social,2023-08-13
+3547,US,Email,2023-03-02
+3548,UK,Paid Social,2023-05-02
+3549,US,Paid Social,2023-04-18
+3550,UK,Organic Search,2023-10-29
+3551,AU,Email,2023-12-19
+3552,US,Organic Search,2023-06-29
+3553,UK,Paid Social,2023-12-30
+3554,UK,Paid Social,2023-11-09
+3555,US,Paid Social,2023-11-20
+3556,CA,Paid Social,2023-08-08
+3557,US,Organic Search,2023-03-26
+3558,UK,Paid Social,2023-11-12
+3559,US,Direct,2023-03-13
+3560,UK,Email,2023-04-16
+3561,US,Organic Search,2023-04-16
+3562,AU,Email,2023-01-31
+3563,US,Paid Social,2023-10-19
+3564,UK,Email,2023-06-29
+3565,UK,Paid Social,2023-09-30
+3566,CA,Paid Social,2023-05-24
+3567,UK,Email,2023-11-02
+3568,CA,Email,2023-10-03
+3569,AU,Paid Social,2023-03-28
+3570,DE,Organic Search,2023-06-15
+3571,US,Paid Social,2023-12-27
+3572,UK,Paid Social,2023-05-30
+3573,AU,Organic Search,2023-05-29
+3574,DE,Organic Search,2023-10-21
+3575,DE,Email,2023-05-17
+3576,US,Organic Search,2023-09-21
+3577,US,Paid Social,2023-12-14
+3578,UK,Organic Search,2023-02-18
+3579,CA,Paid Social,2023-03-11
+3580,UK,Organic Search,2023-07-30
+3581,UK,Organic Search,2023-01-31
+3582,AU,Direct,2023-05-22
+3583,US,Email,2023-12-02
+3584,DE,Organic Search,2023-03-06
+3585,UK,Paid Social,2023-12-26
+3586,US,Paid Social,2023-03-09
+3587,UK,Email,2023-05-08
+3588,AU,Direct,2023-03-16
+3589,US,Paid Social,2023-12-31
+3590,US,Paid Social,2023-06-14
+3591,DE,Email,2023-05-07
+3592,US,Organic Search,2023-12-13
+3593,UK,Paid Social,2023-07-21
+3594,UK,Email,2023-09-08
+3595,UK,Direct,2023-03-14
+3596,CA,Paid Social,2023-10-23
+3597,US,Paid Social,2023-11-20
+3598,UK,Paid Social,2023-05-18
+3599,US,Paid Social,2023-11-18
+3600,CA,Paid Social,2023-08-01
+3601,US,Paid Social,2023-07-12
+3602,UK,Direct,2023-08-20
+3603,US,Email,2023-02-08
+3604,US,Organic Search,2023-11-21
+3605,US,Paid Social,2023-02-17
+3606,US,Paid Social,2023-07-26
+3607,AU,Paid Social,2023-09-21
+3608,US,Organic Search,2023-05-23
+3609,DE,Paid Social,2023-12-22
+3610,DE,Email,2023-07-08
+3611,UK,Paid Social,2023-08-21
+3612,US,Email,2023-09-07
+3613,US,Referral,2023-06-17
+3614,AU,Organic Search,2023-10-25
+3615,US,Organic Search,2023-01-02
+3616,US,Referral,2023-02-17
+3617,UK,Referral,2023-08-23
+3618,AU,Organic Search,2023-11-22
+3619,AU,Organic Search,2023-12-07
+3620,US,Organic Search,2023-12-24
+3621,CA,Referral,2023-07-03
+3622,US,Organic Search,2023-02-02
+3623,US,Paid Social,2023-10-01
+3624,DE,Email,2023-07-23
+3625,US,Organic Search,2023-04-22
+3626,US,Paid Social,2023-08-08
+3627,US,Organic Search,2023-04-19
+3628,DE,Email,2023-09-11
+3629,AU,Organic Search,2023-05-18
+3630,CA,Paid Social,2023-06-15
+3631,AU,Paid Social,2023-05-26
+3632,US,Organic Search,2023-06-22
+3633,UK,Organic Search,2023-10-08
+3634,US,Paid Social,2023-10-23
+3635,US,Organic Search,2023-03-08
+3636,UK,Email,2023-10-17
+3637,DE,Email,2023-09-06
+3638,US,Paid Social,2023-06-25
+3639,US,Paid Social,2023-12-16
+3640,US,Paid Social,2023-01-25
+3641,US,Email,2023-01-24
+3642,DE,Paid Social,2023-02-20
+3643,UK,Organic Search,2023-11-17
+3644,UK,Organic Search,2023-08-24
+3645,AU,Paid Social,2023-01-09
+3646,US,Paid Social,2023-03-05
+3647,UK,Paid Social,2023-03-22
+3648,UK,Organic Search,2023-08-14
+3649,UK,Direct,2023-08-22
+3650,DE,Organic Search,2023-01-01
+3651,AU,Organic Search,2023-08-08
+3652,US,Paid Social,2023-04-14
+3653,AU,Organic Search,2023-12-19
+3654,US,Paid Social,2023-03-09
+3655,US,Paid Social,2023-11-29
+3656,US,Paid Social,2023-06-04
+3657,US,Paid Social,2023-03-23
+3658,UK,Organic Search,2023-05-21
+3659,CA,Organic Search,2023-02-17
+3660,DE,Email,2023-12-02
+3661,UK,Paid Social,2023-07-04
+3662,UK,Paid Social,2023-05-09
+3663,US,Organic Search,2023-02-12
+3664,US,Paid Social,2023-07-10
+3665,UK,Paid Social,2023-12-07
+3666,UK,Paid Social,2023-11-29
+3667,AU,Direct,2023-03-26
+3668,US,Organic Search,2023-01-27
+3669,US,Organic Search,2023-07-22
+3670,UK,Email,2023-11-17
+3671,US,Email,2023-06-06
+3672,US,Organic Search,2023-12-25
+3673,CA,Paid Social,2023-04-30
+3674,US,Organic Search,2023-08-08
+3675,CA,Organic Search,2023-12-02
+3676,US,Paid Social,2023-02-16
+3677,US,Organic Search,2023-12-27
+3678,US,Direct,2023-02-18
+3679,AU,Paid Social,2023-01-01
+3680,US,Organic Search,2023-04-20
+3681,AU,Organic Search,2023-09-02
+3682,US,Email,2023-02-09
+3683,AU,Organic Search,2023-03-09
+3684,US,Paid Social,2023-10-31
+3685,CA,Paid Social,2023-04-26
+3686,UK,Paid Social,2023-09-23
+3687,DE,Paid Social,2023-12-15
+3688,US,Organic Search,2023-08-16
+3689,US,Organic Search,2023-01-05
+3690,US,Organic Search,2023-01-05
+3691,AU,Paid Social,2023-12-23
+3692,UK,Paid Social,2023-06-25
+3693,AU,Organic Search,2023-03-03
+3694,US,Organic Search,2023-08-05
+3695,US,Paid Social,2023-12-22
+3696,US,Paid Social,2023-03-09
+3697,DE,Referral,2023-09-02
+3698,CA,Paid Social,2023-02-06
+3699,DE,Paid Social,2023-04-28
+3700,US,Paid Social,2023-07-16
+3701,CA,Email,2023-02-15
+3702,CA,Email,2023-02-22
+3703,US,Paid Social,2023-02-22
+3704,AU,Organic Search,2023-06-10
+3705,DE,Organic Search,2023-07-08
+3706,DE,Paid Social,2023-06-03
+3707,CA,Direct,2023-03-12
+3708,US,Paid Social,2023-07-15
+3709,US,Organic Search,2023-03-10
+3710,DE,Direct,2023-11-25
+3711,US,Email,2023-12-13
+3712,CA,Organic Search,2023-03-15
+3713,CA,Paid Social,2023-02-05
+3714,CA,Paid Social,2023-09-29
+3715,DE,Email,2023-10-16
+3716,US,Email,2023-01-05
+3717,US,Paid Social,2023-11-09
+3718,US,Paid Social,2023-11-29
+3719,UK,Email,2023-03-26
+3720,US,Paid Social,2023-08-14
+3721,US,Paid Social,2023-06-29
+3722,AU,Direct,2023-04-20
+3723,DE,Organic Search,2023-11-18
+3724,US,Paid Social,2023-03-19
+3725,US,Email,2023-07-30
+3726,DE,Direct,2023-11-12
+3727,US,Paid Social,2023-12-18
+3728,US,Organic Search,2023-08-15
+3729,US,Paid Social,2023-04-22
+3730,UK,Organic Search,2023-02-14
+3731,US,Organic Search,2023-02-21
+3732,DE,Direct,2023-03-13
+3733,UK,Organic Search,2023-03-05
+3734,UK,Paid Social,2023-10-29
+3735,US,Paid Social,2023-07-16
+3736,UK,Referral,2023-06-29
+3737,CA,Paid Social,2023-08-08
+3738,AU,Organic Search,2023-06-11
+3739,AU,Organic Search,2023-03-13
+3740,UK,Paid Social,2023-05-07
+3741,DE,Paid Social,2023-05-22
+3742,AU,Paid Social,2023-11-27
+3743,AU,Paid Social,2023-02-13
+3744,US,Organic Search,2023-05-08
+3745,US,Paid Social,2023-10-11
+3746,US,Paid Social,2023-11-04
+3747,CA,Organic Search,2023-11-04
+3748,UK,Organic Search,2023-11-08
+3749,UK,Organic Search,2023-05-26
+3750,DE,Organic Search,2023-12-20
+3751,DE,Paid Social,2023-01-14
+3752,DE,Organic Search,2023-12-04
+3753,US,Organic Search,2023-06-04
+3754,CA,Organic Search,2023-04-16
+3755,US,Referral,2023-09-23
+3756,US,Email,2023-11-07
+3757,US,Organic Search,2023-09-18
+3758,US,Paid Social,2023-04-07
+3759,UK,Organic Search,2023-07-20
+3760,AU,Paid Social,2023-06-01
+3761,US,Organic Search,2023-11-27
+3762,CA,Paid Social,2023-01-28
+3763,UK,Paid Social,2023-05-03
+3764,US,Email,2023-09-11
+3765,UK,Organic Search,2023-07-17
+3766,US,Email,2023-02-27
+3767,UK,Direct,2023-05-04
+3768,UK,Organic Search,2023-09-13
+3769,US,Paid Social,2023-11-23
+3770,US,Organic Search,2023-11-01
+3771,UK,Organic Search,2023-02-06
+3772,DE,Organic Search,2023-09-28
+3773,US,Paid Social,2023-01-07
+3774,CA,Paid Social,2023-07-04
+3775,CA,Email,2023-06-12
+3776,DE,Organic Search,2023-03-09
+3777,AU,Referral,2023-07-18
+3778,UK,Organic Search,2023-10-19
+3779,CA,Direct,2023-08-04
+3780,DE,Paid Social,2023-07-07
+3781,US,Organic Search,2023-10-07
+3782,US,Email,2023-12-16
+3783,US,Paid Social,2023-03-30
+3784,AU,Paid Social,2023-08-30
+3785,AU,Paid Social,2023-02-07
+3786,US,Paid Social,2023-01-09
+3787,UK,Paid Social,2023-10-28
+3788,UK,Direct,2023-02-04
+3789,US,Organic Search,2023-01-08
+3790,DE,Paid Social,2023-05-15
+3791,US,Email,2023-04-21
+3792,US,Organic Search,2023-01-21
+3793,UK,Organic Search,2023-01-31
+3794,CA,Direct,2023-07-23
+3795,US,Paid Social,2023-09-17
+3796,CA,Paid Social,2023-05-27
+3797,UK,Organic Search,2023-11-18
+3798,US,Paid Social,2023-12-31
+3799,US,Organic Search,2023-09-14
+3800,UK,Paid Social,2023-08-01
+3801,US,Direct,2023-08-05
+3802,DE,Organic Search,2023-12-26
+3803,AU,Paid Social,2023-07-25
+3804,DE,Referral,2023-02-12
+3805,US,Paid Social,2023-11-24
+3806,DE,Email,2023-10-02
+3807,UK,Paid Social,2023-10-03
+3808,US,Direct,2023-11-12
+3809,US,Organic Search,2023-03-20
+3810,US,Organic Search,2023-05-23
+3811,CA,Organic Search,2023-02-12
+3812,UK,Paid Social,2023-06-08
+3813,US,Email,2023-02-10
+3814,CA,Paid Social,2023-09-19
+3815,US,Paid Social,2023-04-15
+3816,UK,Direct,2023-03-21
+3817,US,Paid Social,2023-10-02
+3818,AU,Paid Social,2023-06-17
+3819,AU,Paid Social,2023-07-20
+3820,UK,Paid Social,2023-10-28
+3821,US,Organic Search,2023-11-21
+3822,US,Referral,2023-11-29
+3823,AU,Organic Search,2023-12-15
+3824,US,Organic Search,2023-11-26
+3825,US,Email,2023-02-03
+3826,US,Paid Social,2023-06-08
+3827,UK,Paid Social,2023-12-24
+3828,UK,Paid Social,2023-08-12
+3829,AU,Paid Social,2023-05-03
+3830,US,Organic Search,2023-01-30
+3831,US,Paid Social,2023-05-06
+3832,AU,Paid Social,2023-02-14
+3833,AU,Direct,2023-08-11
+3834,US,Paid Social,2023-03-01
+3835,UK,Email,2023-08-21
+3836,US,Organic Search,2023-11-10
+3837,DE,Paid Social,2023-11-08
+3838,US,Paid Social,2023-01-29
+3839,DE,Email,2023-06-08
+3840,CA,Organic Search,2023-12-08
+3841,UK,Paid Social,2023-12-03
+3842,US,Email,2023-03-31
+3843,UK,Organic Search,2023-03-03
+3844,UK,Email,2023-01-07
+3845,US,Organic Search,2023-12-29
+3846,CA,Direct,2023-03-12
+3847,DE,Email,2023-12-26
+3848,UK,Paid Social,2023-01-06
+3849,CA,Paid Social,2023-03-25
+3850,US,Organic Search,2023-09-12
+3851,UK,Email,2023-06-27
+3852,US,Paid Social,2023-09-25
+3853,CA,Organic Search,2023-09-22
+3854,DE,Paid Social,2023-05-13
+3855,CA,Paid Social,2023-03-27
+3856,US,Organic Search,2023-07-10
+3857,US,Organic Search,2023-03-06
+3858,UK,Organic Search,2023-05-18
+3859,UK,Paid Social,2023-03-02
+3860,AU,Paid Social,2023-01-16
+3861,AU,Paid Social,2023-06-21
+3862,CA,Email,2023-08-08
+3863,US,Email,2023-05-20
+3864,US,Paid Social,2023-09-26
+3865,US,Organic Search,2023-02-02
+3866,US,Paid Social,2023-05-15
+3867,UK,Paid Social,2023-12-31
+3868,CA,Paid Social,2023-10-23
+3869,CA,Paid Social,2023-11-18
+3870,US,Paid Social,2023-02-09
+3871,US,Email,2023-09-12
+3872,US,Organic Search,2023-08-22
+3873,US,Paid Social,2023-09-19
+3874,AU,Organic Search,2023-07-04
+3875,US,Email,2023-01-29
+3876,UK,Organic Search,2023-09-13
+3877,US,Organic Search,2023-10-18
+3878,DE,Paid Social,2023-03-27
+3879,UK,Paid Social,2023-07-08
+3880,US,Organic Search,2023-03-22
+3881,UK,Paid Social,2023-05-11
+3882,CA,Paid Social,2023-02-22
+3883,DE,Organic Search,2023-10-21
+3884,US,Paid Social,2023-12-12
+3885,DE,Email,2023-03-01
+3886,DE,Paid Social,2023-04-27
+3887,DE,Direct,2023-09-18
+3888,CA,Paid Social,2023-01-02
+3889,CA,Paid Social,2023-01-23
+3890,UK,Organic Search,2023-01-07
+3891,AU,Organic Search,2023-05-06
+3892,UK,Email,2023-01-24
+3893,CA,Referral,2023-08-30
+3894,UK,Paid Social,2023-07-06
+3895,CA,Organic Search,2023-07-16
+3896,AU,Organic Search,2023-03-18
+3897,US,Paid Social,2023-04-02
+3898,AU,Paid Social,2023-01-19
+3899,UK,Organic Search,2023-10-11
+3900,AU,Email,2023-12-02
+3901,UK,Paid Social,2023-08-03
+3902,US,Email,2023-04-25
+3903,DE,Direct,2023-06-14
+3904,US,Direct,2023-05-08
+3905,AU,Paid Social,2023-08-02
+3906,UK,Paid Social,2023-06-13
+3907,UK,Paid Social,2023-05-19
+3908,US,Paid Social,2023-02-09
+3909,UK,Paid Social,2023-10-20
+3910,US,Referral,2023-07-10
+3911,US,Direct,2023-03-03
+3912,US,Direct,2023-09-15
+3913,US,Email,2023-12-11
+3914,DE,Organic Search,2023-01-27
+3915,DE,Organic Search,2023-04-02
+3916,US,Paid Social,2023-04-25
+3917,CA,Paid Social,2023-09-22
+3918,US,Email,2023-01-24
+3919,CA,Paid Social,2023-07-25
+3920,AU,Paid Social,2023-02-05
+3921,DE,Paid Social,2023-08-27
+3922,UK,Organic Search,2023-05-25
+3923,AU,Paid Social,2023-06-09
+3924,US,Email,2023-06-17
+3925,DE,Organic Search,2023-02-14
+3926,US,Paid Social,2023-10-11
+3927,CA,Paid Social,2023-08-22
+3928,CA,Organic Search,2023-01-05
+3929,CA,Organic Search,2023-07-08
+3930,US,Referral,2023-04-13
+3931,DE,Paid Social,2023-05-30
+3932,US,Organic Search,2023-10-16
+3933,CA,Organic Search,2023-06-05
+3934,US,Paid Social,2023-11-15
+3935,US,Paid Social,2023-05-05
+3936,UK,Paid Social,2023-08-26
+3937,UK,Organic Search,2023-07-08
+3938,US,Email,2023-10-30
+3939,US,Paid Social,2023-09-10
+3940,UK,Paid Social,2023-04-11
+3941,AU,Paid Social,2023-10-07
+3942,DE,Paid Social,2023-05-06
+3943,US,Email,2023-03-19
+3944,US,Email,2023-01-04
+3945,US,Paid Social,2023-07-29
+3946,US,Email,2023-01-13
+3947,CA,Direct,2023-04-30
+3948,CA,Email,2023-10-05
+3949,US,Organic Search,2023-06-27
+3950,US,Paid Social,2023-11-22
+3951,US,Organic Search,2023-12-22
+3952,AU,Email,2023-01-05
+3953,DE,Organic Search,2023-06-21
+3954,US,Paid Social,2023-01-01
+3955,US,Paid Social,2023-12-03
+3956,DE,Paid Social,2023-07-12
+3957,DE,Paid Social,2023-06-07
+3958,UK,Email,2023-02-23
+3959,US,Paid Social,2023-04-16
+3960,US,Email,2023-09-29
+3961,UK,Organic Search,2023-05-02
+3962,US,Paid Social,2023-08-03
+3963,US,Paid Social,2023-09-09
+3964,UK,Organic Search,2023-01-31
+3965,US,Paid Social,2023-03-14
+3966,AU,Paid Social,2023-12-31
+3967,US,Paid Social,2023-05-24
+3968,US,Direct,2023-02-17
+3969,UK,Paid Social,2023-01-23
+3970,US,Organic Search,2023-04-29
+3971,DE,Organic Search,2023-09-24
+3972,UK,Paid Social,2023-07-31
+3973,US,Organic Search,2023-12-25
+3974,CA,Organic Search,2023-07-10
+3975,US,Paid Social,2023-08-23
+3976,DE,Paid Social,2023-02-13
+3977,US,Paid Social,2023-10-25
+3978,UK,Direct,2023-02-18
+3979,US,Paid Social,2023-09-16
+3980,UK,Paid Social,2023-03-10
+3981,AU,Direct,2023-11-23
+3982,AU,Paid Social,2023-07-21
+3983,US,Paid Social,2023-02-08
+3984,US,Paid Social,2023-10-31
+3985,AU,Organic Search,2023-10-18
+3986,DE,Paid Social,2023-02-01
+3987,US,Paid Social,2023-08-11
+3988,UK,Email,2023-12-06
+3989,US,Email,2023-03-08
+3990,DE,Paid Social,2023-05-02
+3991,US,Organic Search,2023-05-30
+3992,US,Organic Search,2023-05-14
+3993,AU,Paid Social,2023-06-11
+3994,US,Paid Social,2023-07-21
+3995,UK,Organic Search,2023-12-25
+3996,UK,Paid Social,2023-06-17
+3997,US,Organic Search,2023-06-12
+3998,US,Referral,2023-08-20
+3999,UK,Organic Search,2023-05-20
+4000,US,Email,2023-04-30
+4001,UK,Email,2023-02-08
+4002,AU,Paid Social,2023-04-14
+4003,AU,Direct,2023-03-11
+4004,US,Paid Social,2023-10-27
+4005,US,Paid Social,2023-02-25
+4006,US,Paid Social,2023-03-21
+4007,US,Paid Social,2023-02-24
+4008,UK,Paid Social,2023-03-26
+4009,CA,Paid Social,2023-08-19
+4010,US,Paid Social,2023-08-27
+4011,US,Organic Search,2023-06-10
+4012,US,Paid Social,2023-07-28
+4013,CA,Organic Search,2023-03-03
+4014,US,Organic Search,2023-10-02
+4015,CA,Organic Search,2023-07-03
+4016,US,Organic Search,2023-04-17
+4017,DE,Organic Search,2023-08-20
+4018,DE,Email,2023-06-07
+4019,US,Organic Search,2023-08-26
+4020,US,Paid Social,2023-05-16
+4021,UK,Organic Search,2023-03-03
+4022,US,Email,2023-02-16
+4023,CA,Paid Social,2023-03-22
+4024,AU,Paid Social,2023-12-18
+4025,CA,Paid Social,2023-06-05
+4026,AU,Paid Social,2023-12-27
+4027,US,Paid Social,2023-12-23
+4028,US,Organic Search,2023-11-05
+4029,CA,Referral,2023-01-21
+4030,US,Paid Social,2023-04-21
+4031,CA,Paid Social,2023-06-17
+4032,US,Direct,2023-03-17
+4033,US,Paid Social,2023-02-16
+4034,DE,Email,2023-12-31
+4035,US,Paid Social,2023-05-08
+4036,DE,Direct,2023-07-02
+4037,DE,Organic Search,2023-07-22
+4038,AU,Email,2023-09-20
+4039,CA,Direct,2023-01-26
+4040,UK,Organic Search,2023-12-13
+4041,DE,Organic Search,2023-06-03
+4042,US,Paid Social,2023-05-14
+4043,UK,Referral,2023-03-31
+4044,CA,Organic Search,2023-01-16
+4045,UK,Paid Social,2023-07-27
+4046,UK,Organic Search,2023-08-20
+4047,US,Paid Social,2023-10-12
+4048,UK,Paid Social,2023-10-09
+4049,DE,Referral,2023-05-08
+4050,US,Paid Social,2023-02-18
+4051,DE,Email,2023-08-25
+4052,CA,Paid Social,2023-02-22
+4053,AU,Organic Search,2023-03-13
+4054,UK,Paid Social,2023-03-04
+4055,AU,Paid Social,2023-01-07
+4056,US,Referral,2023-02-01
+4057,AU,Email,2023-04-24
+4058,US,Organic Search,2023-03-08
+4059,DE,Organic Search,2023-04-12
+4060,DE,Organic Search,2023-07-25
+4061,US,Email,2023-07-10
+4062,US,Email,2023-12-18
+4063,AU,Direct,2023-11-19
+4064,US,Paid Social,2023-11-27
+4065,DE,Paid Social,2023-02-13
+4066,US,Paid Social,2023-10-26
+4067,US,Organic Search,2023-10-28
+4068,DE,Paid Social,2023-05-13
+4069,CA,Organic Search,2023-02-08
+4070,AU,Organic Search,2023-01-12
+4071,US,Email,2023-02-03
+4072,CA,Direct,2023-04-12
+4073,UK,Paid Social,2023-11-27
+4074,CA,Paid Social,2023-08-16
+4075,CA,Paid Social,2023-03-07
+4076,UK,Direct,2023-02-17
+4077,UK,Direct,2023-06-19
+4078,US,Direct,2023-03-04
+4079,AU,Direct,2023-01-22
+4080,US,Organic Search,2023-08-25
+4081,CA,Paid Social,2023-01-26
+4082,US,Paid Social,2023-03-28
+4083,CA,Paid Social,2023-10-21
+4084,CA,Direct,2023-08-10
+4085,US,Paid Social,2023-07-22
+4086,US,Organic Search,2023-09-12
+4087,US,Paid Social,2023-01-16
+4088,CA,Referral,2023-07-15
+4089,AU,Organic Search,2023-12-16
+4090,US,Paid Social,2023-08-07
+4091,CA,Paid Social,2023-03-30
+4092,US,Organic Search,2023-07-01
+4093,UK,Paid Social,2023-04-20
+4094,DE,Direct,2023-04-06
+4095,US,Paid Social,2023-05-21
+4096,UK,Email,2023-05-24
+4097,US,Organic Search,2023-08-17
+4098,US,Organic Search,2023-03-18
+4099,US,Email,2023-01-18
+4100,US,Paid Social,2023-11-11
+4101,CA,Paid Social,2023-11-14
+4102,UK,Direct,2023-11-12
+4103,UK,Paid Social,2023-05-06
+4104,US,Direct,2023-11-28
+4105,US,Organic Search,2023-06-01
+4106,CA,Organic Search,2023-09-13
+4107,DE,Organic Search,2023-07-30
+4108,US,Email,2023-10-09
+4109,DE,Organic Search,2023-09-03
+4110,UK,Direct,2023-02-01
+4111,UK,Email,2023-02-14
+4112,UK,Paid Social,2023-05-24
+4113,US,Paid Social,2023-07-16
+4114,US,Paid Social,2023-03-12
+4115,CA,Paid Social,2023-08-03
+4116,US,Paid Social,2023-04-13
+4117,DE,Paid Social,2023-11-26
+4118,UK,Referral,2023-09-27
+4119,US,Email,2023-05-08
+4120,CA,Email,2023-11-19
+4121,US,Email,2023-10-06
+4122,UK,Paid Social,2023-01-10
+4123,CA,Paid Social,2023-07-15
+4124,DE,Email,2023-07-03
+4125,AU,Paid Social,2023-09-03
+4126,CA,Referral,2023-10-06
+4127,CA,Paid Social,2023-09-06
+4128,DE,Paid Social,2023-06-26
+4129,US,Direct,2023-10-17
+4130,US,Referral,2023-09-15
+4131,US,Organic Search,2023-06-14
+4132,US,Direct,2023-07-18
+4133,CA,Paid Social,2023-05-19
+4134,CA,Organic Search,2023-04-03
+4135,UK,Direct,2023-01-14
+4136,US,Paid Social,2023-06-13
+4137,CA,Paid Social,2023-11-02
+4138,US,Paid Social,2023-04-23
+4139,CA,Paid Social,2023-01-16
+4140,UK,Paid Social,2023-05-24
+4141,US,Paid Social,2023-01-30
+4142,US,Organic Search,2023-08-30
+4143,US,Referral,2023-09-29
+4144,AU,Paid Social,2023-07-03
+4145,DE,Direct,2023-10-27
+4146,CA,Paid Social,2023-04-30
+4147,US,Paid Social,2023-03-23
+4148,UK,Paid Social,2023-02-21
+4149,CA,Paid Social,2023-05-07
+4150,AU,Paid Social,2023-12-03
+4151,US,Paid Social,2023-05-04
+4152,US,Paid Social,2023-05-17
+4153,CA,Organic Search,2023-10-01
+4154,US,Paid Social,2023-01-29
+4155,US,Organic Search,2023-04-23
+4156,US,Organic Search,2023-10-22
+4157,UK,Email,2023-07-18
+4158,DE,Paid Social,2023-07-01
+4159,DE,Paid Social,2023-03-30
+4160,UK,Paid Social,2023-04-01
+4161,UK,Email,2023-05-02
+4162,US,Paid Social,2023-10-31
+4163,UK,Direct,2023-06-12
+4164,US,Paid Social,2023-12-24
+4165,CA,Referral,2023-07-03
+4166,US,Email,2023-10-30
+4167,US,Email,2023-01-15
+4168,US,Organic Search,2023-12-27
+4169,US,Organic Search,2023-12-25
+4170,US,Organic Search,2023-06-30
+4171,US,Organic Search,2023-10-18
+4172,DE,Email,2023-10-16
+4173,UK,Organic Search,2023-03-14
+4174,UK,Organic Search,2023-10-16
+4175,DE,Organic Search,2023-04-07
+4176,DE,Organic Search,2023-09-10
+4177,UK,Organic Search,2023-10-05
+4178,AU,Direct,2023-06-08
+4179,US,Paid Social,2023-03-31
+4180,US,Organic Search,2023-09-09
+4181,UK,Paid Social,2023-01-20
+4182,CA,Paid Social,2023-02-16
+4183,CA,Organic Search,2023-01-29
+4184,US,Paid Social,2023-04-30
+4185,US,Direct,2023-11-05
+4186,CA,Direct,2023-04-23
+4187,US,Direct,2023-01-11
+4188,UK,Organic Search,2023-09-27
+4189,CA,Referral,2023-09-02
+4190,CA,Email,2023-01-01
+4191,AU,Email,2023-06-19
+4192,DE,Organic Search,2023-11-11
+4193,UK,Email,2023-04-14
+4194,CA,Email,2023-03-08
+4195,CA,Email,2023-06-24
+4196,US,Organic Search,2023-04-01
+4197,US,Direct,2023-06-15
+4198,US,Referral,2023-01-31
+4199,UK,Paid Social,2023-01-12
+4200,CA,Paid Social,2023-03-17
+4201,AU,Email,2023-10-28
+4202,US,Paid Social,2023-12-27
+4203,US,Paid Social,2023-03-14
+4204,DE,Paid Social,2023-02-26
+4205,US,Email,2023-09-27
+4206,UK,Organic Search,2023-07-06
+4207,UK,Paid Social,2023-02-07
+4208,UK,Paid Social,2023-07-11
+4209,US,Direct,2023-12-27
+4210,US,Paid Social,2023-12-06
+4211,US,Email,2023-07-22
+4212,UK,Email,2023-10-28
+4213,UK,Organic Search,2023-02-21
+4214,US,Paid Social,2023-06-22
+4215,CA,Organic Search,2023-06-04
+4216,AU,Paid Social,2023-06-15
+4217,US,Paid Social,2023-03-11
+4218,UK,Email,2023-03-22
+4219,CA,Email,2023-08-12
+4220,US,Organic Search,2023-11-24
+4221,US,Organic Search,2023-09-07
+4222,CA,Paid Social,2023-11-29
+4223,DE,Paid Social,2023-06-12
+4224,AU,Organic Search,2023-03-31
+4225,UK,Email,2023-12-29
+4226,CA,Email,2023-10-15
+4227,US,Paid Social,2023-12-22
+4228,CA,Email,2023-11-11
+4229,UK,Paid Social,2023-07-02
+4230,US,Direct,2023-04-25
+4231,CA,Paid Social,2023-12-07
+4232,UK,Organic Search,2023-10-29
+4233,US,Email,2023-03-31
+4234,DE,Paid Social,2023-07-13
+4235,US,Direct,2023-06-07
+4236,US,Paid Social,2023-12-19
+4237,US,Organic Search,2023-05-31
+4238,AU,Organic Search,2023-03-07
+4239,CA,Paid Social,2023-04-01
+4240,US,Paid Social,2023-01-01
+4241,CA,Paid Social,2023-12-26
+4242,US,Paid Social,2023-10-21
+4243,AU,Paid Social,2023-07-20
+4244,UK,Direct,2023-10-18
+4245,UK,Paid Social,2023-01-17
+4246,DE,Email,2023-04-04
+4247,US,Paid Social,2023-11-05
+4248,US,Paid Social,2023-06-12
+4249,UK,Organic Search,2023-11-10
+4250,DE,Paid Social,2023-04-24
+4251,US,Organic Search,2023-11-24
+4252,US,Paid Social,2023-10-17
+4253,US,Organic Search,2023-02-23
+4254,UK,Paid Social,2023-09-12
+4255,US,Direct,2023-03-14
+4256,CA,Paid Social,2023-06-19
+4257,DE,Organic Search,2023-02-09
+4258,UK,Organic Search,2023-05-02
+4259,US,Direct,2023-06-27
+4260,UK,Organic Search,2023-06-13
+4261,US,Paid Social,2023-03-27
+4262,DE,Paid Social,2023-11-22
+4263,UK,Paid Social,2023-02-15
+4264,US,Paid Social,2023-12-29
+4265,CA,Email,2023-12-10
+4266,UK,Organic Search,2023-11-24
+4267,CA,Organic Search,2023-06-21
+4268,US,Organic Search,2023-08-17
+4269,AU,Organic Search,2023-01-06
+4270,DE,Organic Search,2023-05-16
+4271,CA,Paid Social,2023-04-18
+4272,DE,Paid Social,2023-05-08
+4273,US,Paid Social,2023-12-21
+4274,UK,Paid Social,2023-02-04
+4275,CA,Direct,2023-06-29
+4276,UK,Paid Social,2023-05-12
+4277,UK,Organic Search,2023-02-25
+4278,US,Paid Social,2023-01-01
+4279,US,Organic Search,2023-01-25
+4280,US,Organic Search,2023-07-17
+4281,US,Paid Social,2023-08-13
+4282,CA,Email,2023-08-03
+4283,US,Direct,2023-03-27
+4284,US,Organic Search,2023-07-31
+4285,UK,Email,2023-09-10
+4286,UK,Direct,2023-07-13
+4287,DE,Paid Social,2023-06-29
+4288,UK,Email,2023-10-07
+4289,US,Paid Social,2023-07-12
+4290,AU,Organic Search,2023-02-21
+4291,UK,Paid Social,2023-09-03
+4292,US,Paid Social,2023-10-23
+4293,UK,Paid Social,2023-11-30
+4294,DE,Paid Social,2023-12-18
+4295,US,Email,2023-04-26
+4296,US,Email,2023-03-25
+4297,US,Email,2023-08-20
+4298,US,Email,2023-02-07
+4299,UK,Email,2023-01-18
+4300,UK,Organic Search,2023-05-31
+4301,US,Organic Search,2023-01-11
+4302,DE,Paid Social,2023-06-13
+4303,AU,Email,2023-05-14
+4304,UK,Paid Social,2023-02-23
+4305,AU,Direct,2023-02-07
+4306,US,Organic Search,2023-06-25
+4307,UK,Organic Search,2023-03-29
+4308,CA,Direct,2023-07-12
+4309,AU,Organic Search,2023-03-24
+4310,AU,Paid Social,2023-02-08
+4311,US,Organic Search,2023-10-08
+4312,DE,Paid Social,2023-02-17
+4313,US,Direct,2023-06-23
+4314,DE,Paid Social,2023-11-01
+4315,DE,Paid Social,2023-11-11
+4316,US,Organic Search,2023-09-05
+4317,CA,Email,2023-12-27
+4318,US,Paid Social,2023-01-16
+4319,UK,Paid Social,2023-08-09
+4320,UK,Direct,2023-12-01
+4321,UK,Organic Search,2023-03-26
+4322,DE,Email,2023-11-07
+4323,CA,Paid Social,2023-08-11
+4324,UK,Paid Social,2023-03-22
+4325,AU,Organic Search,2023-01-28
+4326,DE,Email,2023-02-21
+4327,US,Direct,2023-06-19
+4328,DE,Organic Search,2023-04-16
+4329,US,Paid Social,2023-04-08
+4330,AU,Email,2023-07-29
+4331,US,Paid Social,2023-12-23
+4332,US,Direct,2023-10-11
+4333,UK,Paid Social,2023-10-04
+4334,CA,Direct,2023-05-16
+4335,US,Paid Social,2023-12-05
+4336,US,Organic Search,2023-05-25
+4337,UK,Paid Social,2023-06-02
+4338,DE,Referral,2023-05-02
+4339,US,Paid Social,2023-02-19
+4340,US,Paid Social,2023-01-26
+4341,UK,Paid Social,2023-07-21
+4342,US,Paid Social,2023-10-20
+4343,AU,Email,2023-10-09
+4344,AU,Direct,2023-09-09
+4345,UK,Organic Search,2023-03-20
+4346,US,Referral,2023-01-28
+4347,AU,Direct,2023-07-04
+4348,UK,Email,2023-01-02
+4349,AU,Paid Social,2023-08-07
+4350,CA,Email,2023-02-14
+4351,AU,Organic Search,2023-05-31
+4352,UK,Paid Social,2023-12-05
+4353,UK,Email,2023-11-17
+4354,DE,Organic Search,2023-11-04
+4355,UK,Organic Search,2023-09-03
+4356,CA,Direct,2023-04-13
+4357,US,Email,2023-02-19
+4358,CA,Organic Search,2023-01-14
+4359,UK,Email,2023-04-16
+4360,US,Paid Social,2023-03-29
+4361,US,Paid Social,2023-11-23
+4362,CA,Email,2023-05-30
+4363,AU,Paid Social,2023-02-11
+4364,UK,Organic Search,2023-08-31
+4365,US,Organic Search,2023-03-01
+4366,CA,Paid Social,2023-06-07
+4367,US,Paid Social,2023-07-23
+4368,UK,Email,2023-08-30
+4369,US,Direct,2023-09-08
+4370,US,Paid Social,2023-12-05
+4371,US,Direct,2023-05-16
+4372,US,Organic Search,2023-02-16
+4373,US,Organic Search,2023-11-25
+4374,US,Email,2023-10-06
+4375,UK,Organic Search,2023-07-18
+4376,UK,Organic Search,2023-04-05
+4377,US,Paid Social,2023-07-09
+4378,AU,Paid Social,2023-07-15
+4379,US,Email,2023-07-09
+4380,UK,Organic Search,2023-04-06
+4381,US,Organic Search,2023-08-17
+4382,US,Paid Social,2023-01-23
+4383,UK,Paid Social,2023-05-15
+4384,UK,Paid Social,2023-08-14
+4385,DE,Paid Social,2023-08-27
+4386,UK,Email,2023-05-15
+4387,DE,Email,2023-04-26
+4388,US,Organic Search,2023-05-18
+4389,US,Paid Social,2023-10-16
+4390,US,Paid Social,2023-02-01
+4391,US,Email,2023-03-19
+4392,UK,Referral,2023-12-23
+4393,CA,Organic Search,2023-12-08
+4394,US,Direct,2023-02-19
+4395,DE,Paid Social,2023-02-13
+4396,AU,Organic Search,2023-12-09
+4397,US,Organic Search,2023-06-26
+4398,US,Paid Social,2023-10-05
+4399,US,Paid Social,2023-07-31
+4400,US,Organic Search,2023-10-29
+4401,US,Paid Social,2023-04-27
+4402,UK,Organic Search,2023-10-11
+4403,US,Paid Social,2023-02-01
+4404,US,Paid Social,2023-07-18
+4405,DE,Organic Search,2023-09-25
+4406,CA,Paid Social,2023-08-03
+4407,DE,Organic Search,2023-10-02
+4408,US,Paid Social,2023-12-18
+4409,US,Organic Search,2023-09-01
+4410,UK,Paid Social,2023-10-21
+4411,US,Organic Search,2023-05-01
+4412,US,Paid Social,2023-09-01
+4413,CA,Direct,2023-06-03
+4414,CA,Organic Search,2023-02-10
+4415,UK,Paid Social,2023-07-22
+4416,UK,Organic Search,2023-01-18
+4417,UK,Paid Social,2023-09-15
+4418,US,Organic Search,2023-10-20
+4419,US,Paid Social,2023-09-22
+4420,US,Paid Social,2023-10-20
+4421,US,Email,2023-12-13
+4422,DE,Paid Social,2023-11-14
+4423,UK,Paid Social,2023-03-17
+4424,CA,Paid Social,2023-03-03
+4425,US,Email,2023-08-18
+4426,US,Direct,2023-03-30
+4427,US,Organic Search,2023-03-27
+4428,US,Email,2023-04-19
+4429,US,Paid Social,2023-04-09
+4430,AU,Email,2023-03-06
+4431,CA,Email,2023-01-22
+4432,UK,Organic Search,2023-08-05
+4433,UK,Direct,2023-02-10
+4434,DE,Organic Search,2023-12-16
+4435,US,Organic Search,2023-08-11
+4436,US,Organic Search,2023-04-14
+4437,US,Direct,2023-11-18
+4438,AU,Organic Search,2023-03-17
+4439,DE,Organic Search,2023-11-01
+4440,US,Direct,2023-05-13
+4441,DE,Organic Search,2023-06-13
+4442,AU,Organic Search,2023-02-04
+4443,US,Organic Search,2023-02-14
+4444,US,Paid Social,2023-07-18
+4445,UK,Paid Social,2023-10-12
+4446,DE,Organic Search,2023-07-23
+4447,US,Referral,2023-10-10
+4448,AU,Direct,2023-06-16
+4449,US,Paid Social,2023-05-22
+4450,CA,Paid Social,2023-09-24
+4451,UK,Paid Social,2023-08-23
+4452,UK,Paid Social,2023-01-07
+4453,AU,Organic Search,2023-12-25
+4454,AU,Organic Search,2023-11-16
+4455,DE,Email,2023-10-28
+4456,US,Organic Search,2023-09-25
+4457,CA,Paid Social,2023-08-03
+4458,US,Email,2023-02-27
+4459,UK,Paid Social,2023-08-01
+4460,UK,Paid Social,2023-03-18
+4461,UK,Paid Social,2023-03-17
+4462,UK,Organic Search,2023-10-18
+4463,DE,Direct,2023-10-29
+4464,US,Paid Social,2023-10-26
+4465,CA,Email,2023-02-21
+4466,US,Referral,2023-02-24
+4467,US,Email,2023-10-16
+4468,US,Email,2023-02-21
+4469,DE,Paid Social,2023-05-27
+4470,DE,Paid Social,2023-10-02
+4471,DE,Paid Social,2023-06-26
+4472,DE,Paid Social,2023-07-30
+4473,US,Email,2023-05-16
+4474,US,Organic Search,2023-07-16
+4475,CA,Email,2023-12-02
+4476,UK,Email,2023-09-06
+4477,UK,Referral,2023-10-20
+4478,US,Email,2023-11-08
+4479,UK,Organic Search,2023-08-31
+4480,UK,Organic Search,2023-01-20
+4481,US,Organic Search,2023-03-30
+4482,UK,Organic Search,2023-05-22
+4483,UK,Paid Social,2023-07-26
+4484,UK,Email,2023-03-15
+4485,US,Email,2023-11-13
+4486,CA,Paid Social,2023-11-08
+4487,US,Organic Search,2023-12-15
+4488,US,Organic Search,2023-12-22
+4489,AU,Organic Search,2023-07-25
+4490,UK,Paid Social,2023-01-20
+4491,US,Paid Social,2023-07-22
+4492,CA,Organic Search,2023-06-19
+4493,UK,Paid Social,2023-12-20
+4494,AU,Organic Search,2023-05-02
+4495,CA,Paid Social,2023-01-26
+4496,CA,Paid Social,2023-09-01
+4497,UK,Paid Social,2023-05-18
+4498,US,Paid Social,2023-07-10
+4499,US,Referral,2023-01-11
+4500,UK,Organic Search,2023-06-22
+4501,UK,Paid Social,2023-06-05
+4502,UK,Direct,2023-06-09
+4503,US,Paid Social,2023-05-24
+4504,US,Email,2023-09-09
+4505,UK,Paid Social,2023-12-23
+4506,US,Paid Social,2023-12-17
+4507,CA,Organic Search,2023-02-20
+4508,US,Paid Social,2023-04-27
+4509,UK,Organic Search,2023-03-10
+4510,DE,Organic Search,2023-06-03
+4511,US,Paid Social,2023-08-15
+4512,UK,Paid Social,2023-06-14
+4513,US,Organic Search,2023-05-18
+4514,CA,Paid Social,2023-08-02
+4515,UK,Paid Social,2023-11-06
+4516,UK,Organic Search,2023-11-27
+4517,UK,Paid Social,2023-02-15
+4518,DE,Direct,2023-04-07
+4519,US,Paid Social,2023-08-15
+4520,US,Paid Social,2023-04-19
+4521,DE,Paid Social,2023-07-28
+4522,UK,Paid Social,2023-09-06
+4523,DE,Email,2023-09-22
+4524,UK,Paid Social,2023-07-11
+4525,AU,Organic Search,2023-01-29
+4526,UK,Paid Social,2023-09-21
+4527,CA,Email,2023-03-23
+4528,DE,Organic Search,2023-02-03
+4529,UK,Referral,2023-06-09
+4530,US,Email,2023-12-30
+4531,US,Organic Search,2023-09-17
+4532,US,Email,2023-07-26
+4533,US,Paid Social,2023-03-11
+4534,US,Email,2023-09-26
+4535,UK,Paid Social,2023-10-19
+4536,UK,Paid Social,2023-01-15
+4537,UK,Paid Social,2023-03-30
+4538,CA,Direct,2023-04-09
+4539,US,Organic Search,2023-04-13
+4540,US,Paid Social,2023-01-30
+4541,US,Organic Search,2023-05-08
+4542,UK,Paid Social,2023-01-17
+4543,US,Paid Social,2023-08-22
+4544,US,Paid Social,2023-01-26
+4545,UK,Paid Social,2023-07-04
+4546,AU,Organic Search,2023-12-27
+4547,US,Organic Search,2023-04-12
+4548,CA,Organic Search,2023-05-21
+4549,CA,Paid Social,2023-07-08
+4550,AU,Referral,2023-08-26
+4551,DE,Organic Search,2023-09-16
+4552,US,Email,2023-07-23
+4553,US,Direct,2023-11-22
+4554,DE,Paid Social,2023-03-05
+4555,UK,Paid Social,2023-12-15
+4556,UK,Email,2023-01-16
+4557,CA,Organic Search,2023-05-04
+4558,CA,Paid Social,2023-07-10
+4559,DE,Paid Social,2023-09-08
+4560,DE,Paid Social,2023-11-01
+4561,CA,Email,2023-08-17
+4562,US,Organic Search,2023-04-01
+4563,DE,Paid Social,2023-08-31
+4564,US,Paid Social,2023-10-28
+4565,US,Paid Social,2023-10-10
+4566,DE,Paid Social,2023-06-29
+4567,US,Paid Social,2023-06-26
+4568,US,Email,2023-03-25
+4569,US,Paid Social,2023-05-13
+4570,DE,Email,2023-12-19
+4571,UK,Paid Social,2023-02-16
+4572,CA,Organic Search,2023-05-26
+4573,US,Organic Search,2023-01-15
+4574,AU,Organic Search,2023-07-17
+4575,AU,Paid Social,2023-01-26
+4576,US,Paid Social,2023-03-25
+4577,UK,Direct,2023-10-20
+4578,US,Direct,2023-04-20
+4579,DE,Organic Search,2023-04-24
+4580,CA,Organic Search,2023-11-28
+4581,DE,Organic Search,2023-04-26
+4582,US,Paid Social,2023-12-13
+4583,AU,Organic Search,2023-04-16
+4584,AU,Organic Search,2023-05-18
+4585,CA,Email,2023-11-30
+4586,DE,Email,2023-07-29
+4587,US,Organic Search,2023-09-20
+4588,US,Paid Social,2023-01-11
+4589,CA,Paid Social,2023-12-16
+4590,CA,Direct,2023-01-05
+4591,UK,Paid Social,2023-08-31
+4592,US,Organic Search,2023-03-09
+4593,UK,Direct,2023-11-28
+4594,US,Paid Social,2023-03-30
+4595,UK,Organic Search,2023-11-04
+4596,CA,Paid Social,2023-01-05
+4597,CA,Paid Social,2023-04-25
+4598,US,Paid Social,2023-05-10
+4599,UK,Organic Search,2023-11-08
+4600,US,Paid Social,2023-06-06
+4601,US,Organic Search,2023-12-31
+4602,AU,Direct,2023-12-30
+4603,DE,Organic Search,2023-11-26
+4604,US,Organic Search,2023-05-21
+4605,AU,Paid Social,2023-08-05
+4606,DE,Direct,2023-07-12
+4607,AU,Email,2023-06-28
+4608,US,Paid Social,2023-08-24
+4609,DE,Organic Search,2023-05-10
+4610,US,Direct,2023-04-22
+4611,US,Paid Social,2023-08-27
+4612,US,Organic Search,2023-06-04
+4613,UK,Email,2023-12-13
+4614,US,Organic Search,2023-09-24
+4615,US,Referral,2023-11-16
+4616,US,Email,2023-07-23
+4617,AU,Paid Social,2023-10-27
+4618,DE,Email,2023-02-22
+4619,US,Direct,2023-01-04
+4620,DE,Organic Search,2023-09-19
+4621,DE,Paid Social,2023-12-06
+4622,AU,Organic Search,2023-07-11
+4623,US,Paid Social,2023-10-15
+4624,CA,Direct,2023-11-28
+4625,DE,Paid Social,2023-11-01
+4626,CA,Paid Social,2023-11-08
+4627,US,Paid Social,2023-05-25
+4628,UK,Email,2023-06-02
+4629,CA,Organic Search,2023-12-17
+4630,UK,Paid Social,2023-02-25
+4631,US,Organic Search,2023-09-04
+4632,US,Paid Social,2023-02-02
+4633,AU,Organic Search,2023-06-22
+4634,DE,Paid Social,2023-05-22
+4635,US,Organic Search,2023-11-24
+4636,DE,Organic Search,2023-06-16
+4637,US,Email,2023-05-22
+4638,CA,Organic Search,2023-05-14
+4639,AU,Paid Social,2023-12-02
+4640,AU,Organic Search,2023-12-31
+4641,DE,Paid Social,2023-11-30
+4642,US,Paid Social,2023-06-02
+4643,DE,Paid Social,2023-04-07
+4644,US,Organic Search,2023-03-18
+4645,CA,Paid Social,2023-09-22
+4646,CA,Paid Social,2023-05-04
+4647,CA,Direct,2023-01-30
+4648,US,Paid Social,2023-11-04
+4649,DE,Paid Social,2023-07-26
+4650,US,Organic Search,2023-12-05
+4651,US,Organic Search,2023-06-13
+4652,CA,Organic Search,2023-12-15
+4653,UK,Organic Search,2023-03-13
+4654,AU,Organic Search,2023-01-14
+4655,US,Paid Social,2023-12-02
+4656,US,Paid Social,2023-09-12
+4657,AU,Email,2023-06-01
+4658,UK,Organic Search,2023-05-13
+4659,US,Paid Social,2023-08-03
+4660,CA,Email,2023-07-27
+4661,UK,Paid Social,2023-07-18
+4662,CA,Organic Search,2023-01-19
+4663,UK,Organic Search,2023-10-26
+4664,AU,Organic Search,2023-12-29
+4665,AU,Paid Social,2023-10-20
+4666,CA,Direct,2023-04-08
+4667,US,Organic Search,2023-06-25
+4668,AU,Organic Search,2023-04-24
+4669,CA,Direct,2023-12-18
+4670,CA,Direct,2023-10-01
+4671,US,Paid Social,2023-11-23
+4672,DE,Paid Social,2023-09-01
+4673,CA,Paid Social,2023-12-10
+4674,US,Organic Search,2023-07-03
+4675,UK,Paid Social,2023-09-17
+4676,DE,Paid Social,2023-06-03
+4677,US,Email,2023-03-29
+4678,DE,Organic Search,2023-12-03
+4679,CA,Paid Social,2023-10-13
+4680,CA,Paid Social,2023-04-03
+4681,US,Paid Social,2023-05-31
+4682,US,Organic Search,2023-02-19
+4683,DE,Paid Social,2023-08-30
+4684,US,Email,2023-03-07
+4685,AU,Paid Social,2023-05-13
+4686,US,Paid Social,2023-10-14
+4687,US,Organic Search,2023-04-04
+4688,US,Organic Search,2023-12-15
+4689,UK,Paid Social,2023-06-21
+4690,DE,Email,2023-12-02
+4691,US,Referral,2023-02-15
+4692,US,Paid Social,2023-04-24
+4693,US,Paid Social,2023-07-01
+4694,UK,Email,2023-04-25
+4695,UK,Paid Social,2023-06-07
+4696,DE,Paid Social,2023-08-04
+4697,UK,Organic Search,2023-06-19
+4698,UK,Direct,2023-07-10
+4699,US,Paid Social,2023-05-14
+4700,DE,Email,2023-10-27
+4701,US,Direct,2023-05-31
+4702,US,Organic Search,2023-08-26
+4703,CA,Direct,2023-03-02
+4704,UK,Email,2023-08-29
+4705,UK,Paid Social,2023-01-28
+4706,UK,Organic Search,2023-11-21
+4707,AU,Organic Search,2023-10-26
+4708,US,Paid Social,2023-10-25
+4709,AU,Paid Social,2023-11-14
+4710,CA,Paid Social,2023-02-06
+4711,UK,Organic Search,2023-08-30
+4712,UK,Email,2023-04-10
+4713,US,Organic Search,2023-09-14
+4714,AU,Organic Search,2023-03-03
+4715,UK,Paid Social,2023-12-15
+4716,US,Paid Social,2023-07-15
+4717,UK,Organic Search,2023-09-29
+4718,DE,Organic Search,2023-06-02
+4719,UK,Organic Search,2023-07-31
+4720,DE,Direct,2023-01-28
+4721,US,Direct,2023-03-19
+4722,US,Paid Social,2023-03-12
+4723,US,Direct,2023-04-13
+4724,UK,Direct,2023-06-25
+4725,US,Organic Search,2023-07-29
+4726,US,Referral,2023-10-19
+4727,DE,Email,2023-08-23
+4728,AU,Organic Search,2023-03-15
+4729,CA,Organic Search,2023-06-11
+4730,US,Organic Search,2023-04-03
+4731,US,Organic Search,2023-02-11
+4732,US,Direct,2023-09-07
+4733,CA,Paid Social,2023-06-20
+4734,DE,Direct,2023-11-20
+4735,UK,Direct,2023-04-01
+4736,US,Paid Social,2023-06-10
+4737,UK,Paid Social,2023-11-21
+4738,US,Organic Search,2023-01-30
+4739,US,Paid Social,2023-01-03
+4740,CA,Paid Social,2023-08-20
+4741,CA,Organic Search,2023-05-21
+4742,US,Organic Search,2023-04-18
+4743,US,Email,2023-03-28
+4744,DE,Paid Social,2023-10-23
+4745,US,Organic Search,2023-03-23
+4746,US,Paid Social,2023-09-08
+4747,US,Direct,2023-02-15
+4748,US,Paid Social,2023-03-08
+4749,US,Organic Search,2023-11-11
+4750,AU,Email,2023-08-11
+4751,US,Paid Social,2023-11-21
+4752,UK,Organic Search,2023-08-08
+4753,CA,Paid Social,2023-07-26
+4754,UK,Direct,2023-08-08
+4755,DE,Organic Search,2023-09-02
+4756,DE,Organic Search,2023-07-16
+4757,US,Organic Search,2023-01-03
+4758,AU,Referral,2023-01-20
+4759,UK,Organic Search,2023-10-01
+4760,DE,Paid Social,2023-04-13
+4761,UK,Email,2023-07-11
+4762,DE,Organic Search,2023-01-08
+4763,AU,Referral,2023-06-14
+4764,US,Email,2023-09-29
+4765,UK,Email,2023-04-08
+4766,DE,Organic Search,2023-01-10
+4767,DE,Paid Social,2023-12-13
+4768,US,Direct,2023-01-03
+4769,CA,Referral,2023-11-17
+4770,US,Organic Search,2023-05-08
+4771,US,Direct,2023-04-26
+4772,UK,Paid Social,2023-12-22
+4773,US,Organic Search,2023-06-26
+4774,AU,Paid Social,2023-06-09
+4775,US,Direct,2023-03-08
+4776,AU,Paid Social,2023-02-22
+4777,US,Paid Social,2023-07-16
+4778,US,Referral,2023-09-15
+4779,US,Paid Social,2023-10-29
+4780,US,Paid Social,2023-06-06
+4781,US,Paid Social,2023-03-27
+4782,US,Paid Social,2023-02-03
+4783,UK,Paid Social,2023-01-24
+4784,US,Email,2023-06-02
+4785,UK,Paid Social,2023-05-29
+4786,US,Direct,2023-08-22
+4787,DE,Organic Search,2023-09-24
+4788,DE,Organic Search,2023-11-02
+4789,UK,Paid Social,2023-09-26
+4790,US,Organic Search,2023-06-22
+4791,US,Organic Search,2023-08-11
+4792,DE,Paid Social,2023-12-18
+4793,US,Organic Search,2023-03-10
+4794,US,Organic Search,2023-06-25
+4795,US,Paid Social,2023-09-08
+4796,US,Paid Social,2023-07-03
+4797,US,Email,2023-04-07
+4798,AU,Paid Social,2023-03-26
+4799,US,Paid Social,2023-07-26
+4800,CA,Email,2023-01-10
+4801,US,Direct,2023-04-27
+4802,US,Organic Search,2023-04-25
+4803,DE,Organic Search,2023-03-09
+4804,US,Paid Social,2023-04-19
+4805,AU,Paid Social,2023-01-12
+4806,UK,Direct,2023-10-29
+4807,US,Direct,2023-09-16
+4808,DE,Paid Social,2023-03-28
+4809,US,Referral,2023-03-05
+4810,DE,Paid Social,2023-07-07
+4811,US,Organic Search,2023-12-31
+4812,DE,Email,2023-11-30
+4813,US,Organic Search,2023-01-20
+4814,UK,Direct,2023-07-12
+4815,AU,Referral,2023-11-24
+4816,DE,Paid Social,2023-05-11
+4817,DE,Paid Social,2023-10-01
+4818,AU,Paid Social,2023-11-16
+4819,DE,Paid Social,2023-01-25
+4820,US,Paid Social,2023-11-01
+4821,US,Paid Social,2023-01-25
+4822,US,Direct,2023-12-05
+4823,US,Paid Social,2023-02-25
+4824,US,Organic Search,2023-12-01
+4825,UK,Paid Social,2023-01-11
+4826,US,Direct,2023-01-25
+4827,CA,Paid Social,2023-12-20
+4828,US,Paid Social,2023-03-01
+4829,US,Direct,2023-08-02
+4830,UK,Paid Social,2023-08-16
+4831,AU,Paid Social,2023-07-14
+4832,CA,Email,2023-03-05
+4833,CA,Organic Search,2023-10-08
+4834,US,Referral,2023-05-10
+4835,UK,Organic Search,2023-08-31
+4836,US,Organic Search,2023-12-26
+4837,US,Email,2023-03-20
+4838,UK,Organic Search,2023-04-16
+4839,US,Direct,2023-12-22
+4840,US,Email,2023-12-18
+4841,DE,Email,2023-11-19
+4842,DE,Referral,2023-01-05
+4843,US,Organic Search,2023-06-04
+4844,US,Direct,2023-08-04
+4845,US,Organic Search,2023-12-05
+4846,US,Paid Social,2023-02-21
+4847,DE,Email,2023-12-06
+4848,US,Paid Social,2023-09-24
+4849,AU,Paid Social,2023-05-19
+4850,US,Paid Social,2023-11-15
+4851,DE,Paid Social,2023-11-07
+4852,US,Referral,2023-12-25
+4853,AU,Organic Search,2023-03-12
+4854,US,Paid Social,2023-08-03
+4855,CA,Email,2023-02-23
+4856,US,Paid Social,2023-09-19
+4857,US,Organic Search,2023-11-13
+4858,DE,Paid Social,2023-03-02
+4859,DE,Paid Social,2023-05-25
+4860,DE,Organic Search,2023-02-28
+4861,CA,Email,2023-02-24
+4862,AU,Paid Social,2023-09-12
+4863,US,Email,2023-04-12
+4864,US,Email,2023-11-08
+4865,US,Paid Social,2023-04-13
+4866,CA,Organic Search,2023-05-15
+4867,US,Paid Social,2023-09-25
+4868,US,Organic Search,2023-04-14
+4869,UK,Email,2023-07-03
+4870,AU,Organic Search,2023-12-27
+4871,US,Organic Search,2023-07-29
+4872,US,Paid Social,2023-06-01
+4873,US,Organic Search,2023-03-24
+4874,US,Organic Search,2023-01-21
+4875,US,Paid Social,2023-10-08
+4876,CA,Organic Search,2023-09-12
+4877,CA,Organic Search,2023-04-17
+4878,CA,Paid Social,2023-12-19
+4879,US,Direct,2023-09-04
+4880,AU,Paid Social,2023-06-19
+4881,US,Paid Social,2023-05-01
+4882,UK,Paid Social,2023-01-02
+4883,AU,Paid Social,2023-01-07
+4884,US,Email,2023-12-10
+4885,US,Organic Search,2023-02-15
+4886,DE,Paid Social,2023-02-26
+4887,US,Email,2023-10-21
+4888,CA,Email,2023-12-09
+4889,US,Organic Search,2023-09-10
+4890,CA,Organic Search,2023-03-18
+4891,US,Direct,2023-02-16
+4892,US,Organic Search,2023-09-19
+4893,CA,Email,2023-02-08
+4894,US,Direct,2023-02-21
+4895,US,Direct,2023-05-12
+4896,US,Organic Search,2023-11-26
+4897,US,Direct,2023-04-29
+4898,US,Paid Social,2023-08-22
+4899,US,Email,2023-06-01
+4900,DE,Organic Search,2023-05-16
+4901,US,Organic Search,2023-08-26
+4902,UK,Paid Social,2023-01-26
+4903,US,Organic Search,2023-02-21
+4904,US,Paid Social,2023-03-31
+4905,DE,Email,2023-01-21
+4906,US,Paid Social,2023-05-29
+4907,DE,Email,2023-07-04
+4908,US,Organic Search,2023-12-13
+4909,CA,Organic Search,2023-06-10
+4910,UK,Organic Search,2023-08-07
+4911,DE,Paid Social,2023-03-01
+4912,UK,Email,2023-02-18
+4913,UK,Organic Search,2023-01-24
+4914,US,Paid Social,2023-01-05
+4915,US,Paid Social,2023-03-12
+4916,DE,Email,2023-12-06
+4917,US,Organic Search,2023-11-28
+4918,US,Organic Search,2023-03-29
+4919,AU,Organic Search,2023-06-18
+4920,US,Paid Social,2023-07-03
+4921,DE,Organic Search,2023-08-13
+4922,CA,Email,2023-11-15
+4923,UK,Paid Social,2023-05-18
+4924,DE,Paid Social,2023-02-17
+4925,US,Paid Social,2023-07-10
+4926,US,Organic Search,2023-06-25
+4927,UK,Paid Social,2023-04-04
+4928,US,Referral,2023-02-28
+4929,CA,Email,2023-07-25
+4930,DE,Email,2023-07-24
+4931,UK,Email,2023-08-22
+4932,US,Organic Search,2023-05-20
+4933,DE,Organic Search,2023-07-17
+4934,UK,Organic Search,2023-12-20
+4935,UK,Paid Social,2023-09-02
+4936,US,Organic Search,2023-08-04
+4937,DE,Paid Social,2023-11-29
+4938,UK,Paid Social,2023-03-27
+4939,AU,Email,2023-02-27
+4940,AU,Direct,2023-03-09
+4941,US,Email,2023-12-23
+4942,UK,Organic Search,2023-01-31
+4943,AU,Organic Search,2023-03-23
+4944,US,Paid Social,2023-02-23
+4945,AU,Organic Search,2023-08-02
+4946,DE,Organic Search,2023-10-30
+4947,CA,Paid Social,2023-09-05
+4948,CA,Organic Search,2023-10-19
+4949,AU,Paid Social,2023-12-14
+4950,AU,Paid Social,2023-08-13
+4951,US,Paid Social,2023-04-03
+4952,US,Paid Social,2023-11-09
+4953,UK,Paid Social,2023-07-14
+4954,CA,Organic Search,2023-07-03
+4955,UK,Organic Search,2023-11-10
+4956,CA,Paid Social,2023-01-15
+4957,US,Direct,2023-12-17
+4958,CA,Direct,2023-03-08
+4959,US,Paid Social,2023-09-05
+4960,CA,Organic Search,2023-09-07
+4961,UK,Paid Social,2023-02-27
+4962,US,Paid Social,2023-07-30
+4963,US,Paid Social,2023-08-14
+4964,CA,Paid Social,2023-01-24
+4965,UK,Paid Social,2023-02-02
+4966,US,Paid Social,2023-05-14
+4967,DE,Direct,2023-12-02
+4968,CA,Organic Search,2023-06-10
+4969,DE,Direct,2023-01-07
+4970,UK,Organic Search,2023-12-27
+4971,UK,Organic Search,2023-12-14
+4972,DE,Referral,2023-09-26
+4973,UK,Referral,2023-10-23
+4974,CA,Organic Search,2023-10-17
+4975,US,Paid Social,2023-04-25
+4976,UK,Organic Search,2023-12-09
+4977,US,Paid Social,2023-06-23
+4978,US,Email,2023-09-23
+4979,US,Referral,2023-09-25
+4980,US,Paid Social,2023-12-19
+4981,DE,Paid Social,2023-12-25
+4982,US,Paid Social,2023-11-13
+4983,CA,Paid Social,2023-02-18
+4984,AU,Email,2023-08-10
+4985,UK,Email,2023-12-05
+4986,US,Paid Social,2023-05-08
+4987,CA,Paid Social,2023-09-04
+4988,CA,Organic Search,2023-06-27
+4989,CA,Organic Search,2023-12-06
+4990,AU,Email,2023-12-13
+4991,DE,Paid Social,2023-11-25
+4992,UK,Paid Social,2023-07-17
+4993,US,Paid Social,2023-03-18
+4994,CA,Email,2023-10-13
+4995,US,Organic Search,2023-11-10
+4996,DE,Email,2023-01-28
+4997,US,Email,2023-01-06
+4998,US,Email,2023-11-26
+4999,AU,Paid Social,2023-03-22
+5000,UK,Organic Search,2023-09-16
